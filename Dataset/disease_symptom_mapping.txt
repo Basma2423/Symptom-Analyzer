@@ -1,0 +1,2319 @@
+Disease: abdominal aortic aneurysm
+Symptoms: shortness of breath, palpitations, sharp abdominal pain, arm swelling, back pain, burning abdominal pain
+
+Disease: abdominal hernia
+Symptoms: groin mass, symptoms of the scrotum and testes, sharp abdominal pain, lower abdominal pain, regurgitation, ache all over, upper abdominal pain, swollen abdomen, regurgitation.1, irregular belly button
+
+Disease: abscess of nose
+Symptoms: sore throat, cough, nasal congestion, irritable infant, vomiting, fever, coryza, sinus congestion
+
+Disease: abscess of the lung
+Symptoms: shortness of breath, depressive or psychotic symptoms, cough, itchy eyelid
+
+Disease: abscess of the pharynx
+Symptoms: sharp chest pain, sore throat, cough, nasal congestion, throat swelling, difficulty in swallowing, headache, fever
+
+Disease: acanthosis nigricans
+Symptoms: skin lesion, acne or pimples, skin growth, weight gain
+
+Disease: acariasis
+Symptoms: emotional symptoms, swelling of scrotum, itching of skin, skin rash
+
+Disease: achalasia
+Symptoms: sharp chest pain, chest tightness, cough, throat feels tight, difficulty in swallowing
+
+Disease: acne
+Symptoms: skin swelling, abnormal appearing skin, acne or pimples, skin growth, irregular appearing scalp, skin moles, long menstrual periods, skin dryness, peeling, scaliness, or roughness, skin rash
+
+Disease: actinic keratosis
+Symptoms: skin swelling, abnormal appearing skin, skin lesion, skin growth, irregular appearing scalp, skin moles, symptoms of the face, itching of skin, skin dryness, peeling, scaliness, or roughness, skin irritation, skin rash
+
+Disease: acute bronchiolitis
+Symptoms: shortness of breath, cough, nasal congestion, irritable infant, vomiting, wheezing, decreased appetite, fever, difficulty breathing, coryza, pulling at ears, hurts to breath
+
+Disease: acute bronchitis
+Symptoms: shortness of breath, sharp chest pain, sore throat, cough, nasal congestion, headache, wheezing, fever, difficulty breathing, coughing up sputum, coryza, congestion in chest
+
+Disease: acute bronchospasm
+Symptoms: shortness of breath, sharp chest pain, chest tightness, sore throat, cough, nasal congestion, vomiting, wheezing, fever, difficulty breathing, coryza
+
+Disease: acute fatty liver of pregnancy (aflp)
+Symptoms: emotional symptoms, sharp abdominal pain
+
+Disease: acute glaucoma
+Symptoms: diminished vision, double vision, symptoms of eye, pain in eye, foreign body sensation in eye, spots or clouds in vision, eye redness, blindness
+
+Disease: acute kidney injury
+Symptoms: shortness of breath, sharp chest pain, dizziness, retention of urine, sharp abdominal pain, vomiting, nausea, peripheral edema, weakness, kidney mass, symptoms of the kidneys
+
+Disease: acute otitis media
+Symptoms: sore throat, cough, nasal congestion, diminished hearing, ear pain, plugged feeling in ear, fluid in ear, fever, coryza, redness in ear
+
+Disease: acute pancreatitis
+Symptoms: sharp chest pain, abusing alcohol, sharp abdominal pain, vomiting, nausea, diarrhea, back pain, burning abdominal pain, side pain, lower body pain, upper abdominal pain, hemoptysis
+
+Disease: acute respiratory distress syndrome (ards)
+Symptoms: shortness of breath, depressive or psychotic symptoms, sharp chest pain, chest tightness, cough, wheezing, fever, difficulty breathing, chills
+
+Disease: acute sinusitis
+Symptoms: sore throat, cough, nasal congestion, facial pain, ear pain, frontal headache, fever, coughing up sputum, coryza, sinus congestion, painful sinuses
+
+Disease: acute stress reaction
+Symptoms: anxiety and nervousness, depression, shortness of breath, depressive or psychotic symptoms, sharp chest pain, dizziness, insomnia, abnormal involuntary movements, headache, burning abdominal pain, fatigue
+
+Disease: adhesive capsulitis of the shoulder
+Symptoms: arm pain, neck pain, muscle pain, shoulder pain, shoulder stiffness or tightness, ache all over
+
+Disease: adjustment reaction
+Symptoms: anxiety and nervousness, depression, insomnia, hostile behavior, restlessness, excessive anger, delusions or hallucinations, fears and phobias, nightmares
+
+Disease: adrenal adenoma
+Symptoms: anxiety and nervousness, shortness of breath, back weakness, sharp abdominal pain
+
+Disease: adrenal cancer
+Symptoms: dizziness, diminished hearing
+
+Disease: alcohol abuse
+Symptoms: anxiety and nervousness, depression, depressive or psychotic symptoms, abusing alcohol, hostile behavior, drug abuse, vomiting blood, smoking problems, low self-esteem
+
+Disease: alcohol intoxication
+Symptoms: anxiety and nervousness, depression, depressive or psychotic symptoms, sharp chest pain, abnormal involuntary movements, abusing alcohol, vomiting, problems with movement
+
+Disease: alcohol withdrawal
+Symptoms: depressive or psychotic symptoms, sharp chest pain, dizziness, abnormal involuntary movements, abusing alcohol, fainting, vomiting, seizures, delusions or hallucinations, antisocial behavior
+
+Disease: alcoholic liver disease
+Symptoms: abnormal involuntary movements, abusing alcohol, sharp abdominal pain, diarrhea, peripheral edema, weight gain, stomach bloating
+
+Disease: allergy
+Symptoms: cough, skin swelling, lip swelling, abnormal appearing skin, peripheral edema, itchiness of eye, allergic reaction, fluid retention, swollen eye, itching of skin, skin rash
+
+Disease: allergy to animals
+Symptoms: sore throat, cough, nasal congestion, cross-eyed, allergic reaction
+
+Disease: alopecia
+Symptoms: skin swelling, feeling ill, acne or pimples, skin growth, irregular appearing scalp, itching of skin, too little hair, skin rash
+
+Disease: alzheimer disease
+Symptoms: depression, depressive or psychotic symptoms, difficulty speaking, hostile behavior, irregular appearing scalp, eye burns or stings, disturbance of memory, delusions or hallucinations
+
+Disease: amblyopia
+Symptoms: pus draining from ear, eye deviation, diminished vision, cross-eyed, pain in eye
+
+Disease: amyloidosis
+Symptoms: anxiety and nervousness, shortness of breath, wrist weakness
+
+Disease: amyotrophic lateral sclerosis (als)
+Symptoms: abnormal involuntary movements, difficulty speaking, difficulty in swallowing, weakness, leg cramps or spasms
+
+Disease: anal fissure
+Symptoms: blood in stool, sharp abdominal pain, vaginal dryness, pain of the anus, lower body pain, changes in stool appearance, rectal bleeding, constipation
+
+Disease: anal fistula
+Symptoms: blood in stool, mass in scrotum, pain of the anus, rectal bleeding
+
+Disease: anemia
+Symptoms: shortness of breath, dizziness, vomiting blood, weakness, changes in stool appearance, fatigue, melena, nosebleed
+
+Disease: anemia due to chronic kidney disease
+Symptoms: shortness of breath, peripheral edema, recent weight loss, weakness, fatigue, ankle swelling
+
+Disease: anemia due to malignancy
+Symptoms: shortness of breath, difficulty in swallowing, flatulence, fatigue
+
+Disease: anemia of chronic disease
+Symptoms: dizziness, emotional symptoms, feeling ill, weakness
+
+Disease: angina
+Symptoms: shortness of breath, sharp chest pain, dizziness, chest tightness, palpitations, irregular heartbeat, hot flashes, arm pain, increased heart rate, lower body pain, sweating
+
+Disease: ankylosing spondylitis
+Symptoms: leg pain, hip pain, back pain, low back pain, knee pain, elbow pain, paresthesia, ache all over, lower body pain, stiffness all over
+
+Disease: anxiety
+Symptoms: anxiety and nervousness, depression, shortness of breath, depressive or psychotic symptoms, sharp chest pain, insomnia, abnormal involuntary movements, palpitations, irregular heartbeat, headache, increased heart rate, fears and phobias
+
+Disease: aortic valve disease
+Symptoms: shortness of breath, sharp chest pain, palpitations, irregular heartbeat, groin mass, fainting, peripheral edema, difficulty breathing, lymphedema
+
+Disease: aphakia
+Symptoms: diminished vision, symptoms of eye, spots or clouds in vision, eye burns or stings
+
+Disease: aphthous ulcer
+Symptoms: sore throat, cough, headache, toothache, mouth ulcer, fever, tongue lesions, mouth pain
+
+Disease: aplastic anemia
+Symptoms: lack of growth, nausea, weakness, slurring words, fever, fatigue
+
+Disease: appendicitis
+Symptoms: sharp abdominal pain, vomiting, nausea, diarrhea, lower abdominal pain, burning abdominal pain, decreased appetite, side pain, fever, upper abdominal pain, stomach bloating
+
+Disease: arrhythmia
+Symptoms: shortness of breath, sharp chest pain, dizziness, chest tightness, palpitations, fainting, leg cramps or spasms, fatigue
+
+Disease: arthritis of the hip
+Symptoms: leg pain, hip pain, back pain, low back pain, pelvic pain, knee pain, problems with movement, ache all over, lower body pain, joint pain, groin pain, hip stiffness or tightness
+
+Disease: ascending cholangitis
+Symptoms: shortness of breath, retention of urine, jaundice, sharp abdominal pain, fever
+
+Disease: asperger syndrome
+Symptoms: anxiety and nervousness, depression, depressive or psychotic symptoms, lack of growth, fainting, hostile behavior, excessive anger, antisocial behavior
+
+Disease: aspergillosis
+Symptoms: shortness of breath, knee lump or mass
+
+Disease: asthma
+Symptoms: shortness of breath, sharp chest pain, chest tightness, cough, nasal congestion, wheezing, fever, difficulty breathing, coughing up sputum, coryza, allergic reaction
+
+Disease: astigmatism
+Symptoms: eye deviation, diminished vision, double vision, symptoms of eye, pain in eye, foreign body sensation in eye, spots or clouds in vision, lacrimation
+
+Disease: atelectasis
+Symptoms: shortness of breath, sharp chest pain, dizziness, sore throat, cough, headache
+
+Disease: athlete's foot
+Symptoms: skin swelling, abnormal appearing skin, skin lesion, foot or toe pain, foot or toe swelling, irregular appearing nails, skin dryness, peeling, scaliness, or roughness, skin rash
+
+Disease: atonic bladder
+Symptoms: retention of urine, suprapubic pain, emotional symptoms, impotence, symptoms of bladder
+
+Disease: atrial fibrillation
+Symptoms: shortness of breath, sharp chest pain, dizziness, palpitations, irregular heartbeat, decreased heart rate, increased heart rate, fatigue
+
+Disease: atrial flutter
+Symptoms: shortness of breath, sharp chest pain, chest tightness, palpitations, irregular heartbeat, frequent urination, swollen lymph nodes, increased heart rate
+
+Disease: atrophic skin condition
+Symptoms: skin swelling, lip swelling, abnormal appearing skin, skin lesion, acne or pimples, skin growth, skin moles, skin irritation, wrinkles on skin
+
+Disease: atrophic vaginitis
+Symptoms: suprapubic pain, vaginal itching, painful urination, involuntary urination, pain during intercourse, frequent urination, vaginal discharge, blood in urine
+
+Disease: atrophy of the corpus cavernosum
+Symptoms: frequent urination, abnormal appearing skin, skin growth, impotence, bumps on penis
+
+Disease: attention deficit hyperactivity disorder (adhd)
+Symptoms: anxiety and nervousness, depression, depressive or psychotic symptoms, lack of growth, hostile behavior, drug abuse, restlessness, temper problems, antisocial behavior
+
+Disease: autism
+Symptoms: depressive or psychotic symptoms, difficulty speaking, lack of growth, hostile behavior, seizures, constipation, temper problems, long menstrual periods, antisocial behavior
+
+Disease: autonomic nervous system disorder
+Symptoms: dizziness, difficulty in swallowing, leg pain, headache, decreased appetite
+
+Disease: avascular necrosis
+Symptoms: hip pain, drug abuse, knee pain, shoulder pain
+
+Disease: balanitis
+Symptoms: cough, suprapubic pain, painful urination, abnormal appearing skin, itching of skin, skin rash, penis pain, penis redness, diaper rash
+
+Disease: bell palsy
+Symptoms: abnormal involuntary movements, headache, facial pain, diminished vision, symptoms of eye, peripheral edema, weakness, loss of sensation, focal weakness, symptoms of the face
+
+Disease: benign kidney cyst
+Symptoms: sharp abdominal pain, vomiting, involuntary urination, blood in urine, low back pain, impotence, side pain
+
+Disease: benign paroxysmal positional vertical (bppv)
+Symptoms: dizziness, irregular heartbeat, fainting, vomiting, headache, nausea, problems with movement, weakness, frontal headache
+
+Disease: benign prostatic hyperplasia (bph)
+Symptoms: retention of urine, swelling of scrotum, pain in testicles, involuntary urination, frequent urination, blood in urine, impotence, symptoms of prostate, excessive urination at night, symptoms of bladder, hesitancy, low urine output
+
+Disease: benign vaginal discharge (leukorrhea)
+Symptoms: suprapubic pain, sharp abdominal pain, vaginal itching, painful urination, frequent urination, vaginal discharge, pain during pregnancy, burning abdominal pain, vaginal redness, problems during pregnancy
+
+Disease: bipolar disorder
+Symptoms: anxiety and nervousness, depression, depressive or psychotic symptoms, insomnia, abusing alcohol, excessive anger, delusions or hallucinations, temper problems, fears and phobias, obsessions and compulsions
+
+Disease: birth trauma
+Symptoms: depressive or psychotic symptoms, emotional symptoms, arm stiffness or tightness
+
+Disease: bladder cancer
+Symptoms: retention of urine, groin mass, mass in scrotum, blood in urine, excessive urination at night, symptoms of bladder, bladder mass
+
+Disease: bladder disorder
+Symptoms: retention of urine, suprapubic pain, sharp abdominal pain, painful urination, involuntary urination, frequent urination, lower abdominal pain, blood in urine, symptoms of bladder
+
+Disease: bladder obstruction
+Symptoms: retention of urine, suprapubic pain, involuntary urination, frequent urination, impotence, symptoms of bladder, bedwetting, hesitancy
+
+Disease: blepharitis
+Symptoms: white discharge from eye, diminished vision, symptoms of eye, pain in eye, spots or clouds in vision, eye redness, lacrimation, itchiness of eye, eye burns or stings, swollen eye, eyelid swelling
+
+Disease: blepharospasm
+Symptoms: headache, diminished vision, abnormal movement of eyelid, low back weakness
+
+Disease: bone cancer
+Symptoms: leg pain, low back pain, peripheral edema, problems with movement, fatigue
+
+Disease: bone disorder
+Symptoms: difficulty speaking, leg pain, back pain, knee pain, bones are painful, leg cramps or spasms, muscle stiffness or tightness
+
+Disease: bone spur of the calcaneous
+Symptoms: leg pain, foot or toe pain, ankle pain, elbow pain, foot or toe swelling
+
+Disease: brachial neuritis
+Symptoms: headache, hand or finger pain, arm pain, back pain, neck pain, low back pain, elbow pain, loss of sensation, paresthesia, shoulder pain, hand or finger weakness
+
+Disease: brain cancer
+Symptoms: difficulty speaking, headache, weakness, decreased appetite, focal weakness, slurring words, disturbance of memory, seizures
+
+Disease: breast cancer
+Symptoms: hot flashes, bleeding or discharge from nipple, pain or soreness of breast, lump or mass of breast
+
+Disease: breast cyst
+Symptoms: vaginal dryness, skin growth, pain or soreness of breast, lump or mass of breast
+
+Disease: breast infection (mastitis)
+Symptoms: abnormal appearing skin, skin growth, mouth dryness, bleeding or discharge from nipple, fever, chills, pain or soreness of breast, lump or mass of breast, postpartum problems of the breast
+
+Disease: broken tooth
+Symptoms: lip swelling, toothache, dry lips, facial pain, difficulty eating, gum pain, bleeding gums
+
+Disease: bunion
+Symptoms: skin growth, knee pain, foot or toe pain, skin moles, foot or toe lump or mass
+
+Disease: burn
+Symptoms: headache, hand or finger pain, wrist pain, wrist swelling, knee pain, skin irritation
+
+Disease: bursitis
+Symptoms: leg pain, hip pain, arm pain, arm stiffness or tightness, arm swelling, knee pain, elbow pain, knee swelling, leg swelling, shoulder pain, shoulder stiffness or tightness, elbow swelling
+
+Disease: callus
+Symptoms: skin swelling, abnormal appearing skin, skin lesion, acne or pimples, skin growth, foot or toe pain, foot or toe swelling, irregular appearing nails, skin rash
+
+Disease: carbon monoxide poisoning
+Symptoms: depressive or psychotic symptoms, dizziness, emotional symptoms, vomiting, headache, nausea
+
+Disease: carcinoid syndrome
+Symptoms: involuntary urination, knee lump or mass
+
+Disease: cardiac arrest
+Symptoms: shortness of breath, sharp chest pain, palpitations, irregular heartbeat, arm swelling, weakness, decreased heart rate, difficulty breathing
+
+Disease: cardiomyopathy
+Symptoms: shortness of breath, sharp chest pain, chest tightness, irregular heartbeat, peripheral edema, heartburn, decreased heart rate, fatigue
+
+Disease: carpal tunnel syndrome
+Symptoms: hand or finger pain, wrist pain, hand or finger swelling, arm pain, wrist swelling, hand or finger stiffness or tightness, neck pain, elbow pain, loss of sensation, paresthesia, arm weakness
+
+Disease: cat scratch disease
+Symptoms: skin swelling, groin mass, itchy eyelid
+
+Disease: cataract
+Symptoms: diminished vision, double vision, symptoms of eye, pain in eye, abnormal movement of eyelid, spots or clouds in vision, lacrimation, itchiness of eye, blindness, cloudy eye
+
+Disease: celiac disease
+Symptoms: sharp chest pain, sharp abdominal pain, vomiting, nausea, peripheral edema, regurgitation.1
+
+Disease: cellulitis or abscess of mouth
+Symptoms: sore throat, throat swelling, difficulty in swallowing, lip swelling, toothache, abnormal appearing skin, skin growth
+
+Disease: central atherosclerosis
+Symptoms: shortness of breath, irregular heartbeat, blood in urine, fatigue
+
+Disease: central retinal artery or vein occlusion
+Symptoms: irregular heartbeat, diminished vision, symptoms of eye, pain in eye, foreign body sensation in eye, blindness
+
+Disease: cerebral edema
+Symptoms: dizziness, vomiting, headache, arm pain, neck pain, focal weakness
+
+Disease: cerebral palsy
+Symptoms: lack of growth, problems with movement, infant feeding problem, blindness, cramps and spasms, seizures
+
+Disease: cervical cancer
+Symptoms: jaundice, vaginal itching, vaginal discharge, pelvic pain, vulvar irritation, heavy menstrual flow
+
+Disease: cervical disorder
+Symptoms: sharp abdominal pain, vaginal itching, pain during intercourse, pelvic pain
+
+Disease: cervicitis
+Symptoms: suprapubic pain, sharp abdominal pain, nausea, vaginal itching, painful urination, vaginal discharge, pain during pregnancy, pelvic pain
+
+Disease: chalazion
+Symptoms: skin growth, diminished vision, symptoms of eye, pain in eye, foreign body sensation in eye, eye redness, lacrimation, mass on eyelid, swollen eye, eyelid swelling
+
+Disease: chickenpox
+Symptoms: cough, pain in testicles, abnormal appearing skin, fever, itching of skin, skin rash
+
+Disease: chlamydia
+Symptoms: sharp abdominal pain, vaginal itching, lower abdominal pain, vaginal discharge, pelvic pain, vaginal pain
+
+Disease: cholecystitis
+Symptoms: sharp chest pain, sharp abdominal pain, vomiting, nausea, back pain, burning abdominal pain, side pain, lower body pain, upper abdominal pain, stomach bloating, regurgitation.1, symptoms of the kidneys
+
+Disease: choledocholithiasis
+Symptoms: sharp chest pain, jaundice, sharp abdominal pain, vomiting, nausea, decreased appetite, side pain, upper abdominal pain, chills
+
+Disease: cholesteatoma
+Symptoms: nasal congestion, diminished hearing, pus draining from ear, muscle swelling
+
+Disease: chondromalacia of the patella
+Symptoms: leg pain, knee pain, bones are painful, knee weakness, knee swelling, problems with movement
+
+Disease: chorioretinitis
+Symptoms: diminished vision, double vision, pain in eye, spots or clouds in vision, muscle swelling
+
+Disease: chronic back pain
+Symptoms: leg pain, hip pain, back pain, neck pain, low back pain, loss of sensation, side pain, lower body pain, groin pain, back cramps or spasms, back stiffness or tightness
+
+Disease: chronic constipation
+Symptoms: retention of urine, blood in stool, sharp abdominal pain, vomiting, nausea, lower abdominal pain, pain of the anus, burning abdominal pain, changes in stool appearance, rectal bleeding, constipation
+
+Disease: chronic glaucoma
+Symptoms: white discharge from eye, diminished vision, symptoms of eye, pain in eye, foreign body sensation in eye, spots or clouds in vision, lacrimation, itchiness of eye, eye burns or stings, mass on eyelid
+
+Disease: chronic inflammatory demyelinating polyneuropathy (cidp)
+Symptoms: dizziness, problems with movement, weakness, loss of sensation
+
+Disease: chronic kidney disease
+Symptoms: shortness of breath, peripheral edema, feeling cold, fatigue, symptoms of the kidneys
+
+Disease: chronic knee pain
+Symptoms: leg pain, hip pain, back pain, knee pain, knee weakness, knee swelling, knee stiffness or tightness, leg swelling, joint pain
+
+Disease: chronic obstructive pulmonary disease (copd)
+Symptoms: shortness of breath, sharp chest pain, chest tightness, sore throat, cough, nasal congestion, wheezing, fever, coughing up sputum, coryza, congestion in chest
+
+Disease: chronic otitis media
+Symptoms: cough, nasal congestion, ear pain, plugged feeling in ear, fluid in ear, fever, allergic reaction, pulling at ears, redness in ear, painful sinuses
+
+Disease: chronic pain disorder
+Symptoms: leg pain, hip pain, sharp abdominal pain, headache, back pain, low back pain, pelvic pain, knee pain, shoulder pain, ache all over
+
+Disease: chronic pancreatitis
+Symptoms: abusing alcohol, sharp abdominal pain, vomiting, nausea, diarrhea, skin growth, back pain, ache all over
+
+Disease: chronic rheumatic fever
+Symptoms: shortness of breath, sharp chest pain, dizziness, chest tightness, palpitations, throat feels tight, increased heart rate
+
+Disease: chronic sinusitis
+Symptoms: sore throat, cough, headache, facial pain, ear pain, frontal headache, fever, congestion in chest, sinus congestion, painful sinuses
+
+Disease: chronic ulcer
+Symptoms: skin lesion, skin pain
+
+Disease: cirrhosis
+Symptoms: shortness of breath, blood in stool, sharp abdominal pain, vomiting blood, regurgitation, peripheral edema, upper abdominal pain, abdominal distention, regurgitation.1
+
+Disease: coagulation (bleeding) disorder
+Symptoms: leg pain, blood in urine, knee swelling, eye redness, melena
+
+Disease: cold sore
+Symptoms: sore throat, skin swelling, vaginal itching, lip swelling, mouth ulcer, skin rash, lip sore
+
+Disease: colonic polyp
+Symptoms: blood in stool, flatulence, sharp abdominal pain, diarrhea, pain of the anus, heartburn, upper abdominal pain, rectal bleeding
+
+Disease: colorectal cancer
+Symptoms: blood in stool, sharp abdominal pain, pain of the anus, rectal bleeding, mass or swelling around the anus, drainage in throat
+
+Disease: common cold
+Symptoms: sore throat, cough, nasal congestion, vomiting, headache, wheezing, ear pain, fever, chills, coryza, flu-like syndrome
+
+Disease: complex regional pain syndrome
+Symptoms: abnormal involuntary movements, leg pain, hand or finger pain, arm pain, back pain, neck pain, low back pain, foot or toe pain, problems with movement, loss of sensation, paresthesia, ache all over
+
+Disease: concussion
+Symptoms: dizziness, difficulty speaking, vomiting, headache, nausea, facial pain, double vision, back pain, neck pain, disturbance of memory, rib pain, sleepiness
+
+Disease: conduct disorder
+Symptoms: depression, depressive or psychotic symptoms, lack of growth, abusing alcohol, fainting, hostile behavior, excessive anger, seizures, temper problems, hysterical behavior
+
+Disease: conductive hearing loss
+Symptoms: dizziness, hoarse voice, difficulty speaking, diminished hearing, ear pain, ringing in ear, plugged feeling in ear, fluid in ear, redness in ear, low self-esteem
+
+Disease: congenital heart defect
+Symptoms: sharp chest pain, lack of growth, arm swelling, hand or finger stiffness or tightness
+
+Disease: congenital malformation syndrome
+Symptoms: diminished hearing, lack of growth, seizures, gum pain
+
+Disease: conjunctivitis
+Symptoms: sore throat, cough, nasal congestion, white discharge from eye, pain in eye, eye redness, lacrimation, itchiness of eye, fever, coryza, swollen eye
+
+Disease: conjunctivitis due to allergy
+Symptoms: cough, nasal congestion, diminished vision, symptoms of eye, pain in eye, eye redness, lacrimation, itchiness of eye, eye burns or stings, allergic reaction, swollen eye, sneezing
+
+Disease: conjunctivitis due to bacteria
+Symptoms: sore throat, cough, nasal congestion, abnormal appearing skin, eye redness, fever
+
+Disease: conjunctivitis due to virus
+Symptoms: cough, nasal congestion, white discharge from eye, diminished vision, pain in eye, eye redness, lacrimation, itchiness of eye, fever, swollen eye
+
+Disease: connective tissue disorder
+Symptoms: difficulty in swallowing, feeling ill, joint pain
+
+Disease: contact dermatitis
+Symptoms: skin swelling, abnormal appearing skin, skin lesion, acne or pimples, skin moles, allergic reaction, swollen eye, itching of skin, skin dryness, peeling, scaliness, or roughness, skin irritation, skin rash
+
+Disease: conversion disorder
+Symptoms: anxiety and nervousness, depression, cough, seizures
+
+Disease: cornea infection
+Symptoms: lip swelling, diminished vision, symptoms of eye, pain in eye, foreign body sensation in eye, spots or clouds in vision, eye redness, lacrimation, itchiness of eye, eye burns or stings, swollen eye
+
+Disease: corneal abrasion
+Symptoms: white discharge from eye, diminished vision, symptoms of eye, pain in eye, foreign body sensation in eye, eye redness, lacrimation, itchiness of eye, eyelid swelling
+
+Disease: corneal disorder
+Symptoms: white discharge from eye, diminished vision, double vision, symptoms of eye, pain in eye, foreign body sensation in eye, spots or clouds in vision, eye redness, lacrimation, itchiness of eye
+
+Disease: coronary atherosclerosis
+Symptoms: shortness of breath, sharp chest pain, chest tightness, palpitations, irregular heartbeat, leg cramps or spasms, fatigue, burning chest pain
+
+Disease: cranial nerve palsy
+Symptoms: abnormal involuntary movements, difficulty speaking, headache, facial pain, diminished vision, double vision, abnormal movement of eyelid, symptoms of the face
+
+Disease: crohn disease
+Symptoms: blood in stool, sharp abdominal pain, vomiting, nausea, diarrhea, pain of the anus, regurgitation, burning abdominal pain, regurgitation.1, rectal bleeding
+
+Disease: croup
+Symptoms: shortness of breath, hoarse voice, sore throat, cough, nasal congestion, vomiting, wheezing, fever, coryza, abnormal breathing sounds, pulling at ears
+
+Disease: crushing injury
+Symptoms: hand or finger pain, hand or finger swelling, hand or finger stiffness or tightness, neck swelling, foot or toe pain, knee swelling
+
+Disease: cryptococcosis
+Symptoms: depressive or psychotic symptoms, cross-eyed
+
+Disease: cryptorchidism
+Symptoms: lack of growth, symptoms of the scrotum and testes, swelling of scrotum
+
+Disease: cushing syndrome
+Symptoms: emotional symptoms, weight gain
+
+Disease: cyst of the eyelid
+Symptoms: skin growth, diminished vision, abnormal movement of eyelid, muscle swelling, mass on eyelid
+
+Disease: cystic fibrosis
+Symptoms: cough, feeling ill, intermenstrual bleeding, decreased appetite
+
+Disease: cysticercosis
+Symptoms: shortness of breath, elbow weakness, headache, seizures
+
+Disease: cystitis
+Symptoms: retention of urine, suprapubic pain, sharp abdominal pain, painful urination, involuntary urination, frequent urination, lower abdominal pain, blood in urine, back pain, pelvic pain, side pain, symptoms of bladder
+
+Disease: de quervain disease
+Symptoms: abnormal involuntary movements, hand or finger pain, wrist pain, hand or finger swelling, arm pain, wrist swelling, shoulder pain
+
+Disease: decubitus ulcer
+Symptoms: difficulty speaking, skin lesion, skin on leg or foot looks infected, incontinence of stool
+
+Disease: deep vein thrombosis (dvt)
+Symptoms: leg pain, arm swelling, abnormal appearing skin, leg swelling, foot or toe swelling, leg cramps or spasms, leg stiffness or tightness
+
+Disease: degenerative disc disease
+Symptoms: leg pain, hip pain, arm pain, back pain, neck pain, low back pain, loss of sensation, paresthesia, shoulder pain, lower body pain, joint pain
+
+Disease: delirium
+Symptoms: depression, depressive or psychotic symptoms, abnormal involuntary movements, difficulty speaking, hostile behavior, problems with movement, focal weakness, slurring words, disturbance of memory, delusions or hallucinations
+
+Disease: dementia
+Symptoms: depressive or psychotic symptoms, insomnia, abnormal involuntary movements, hostile behavior, problems with movement, focal weakness, disturbance of memory, delusions or hallucinations
+
+Disease: dengue fever
+Symptoms: sore throat, wrist pain
+
+Disease: dental caries
+Symptoms: skin swelling, toothache, facial pain, restlessness, peripheral edema, ear pain, jaw swelling, neck swelling, gum pain, skin irritation, mouth pain, pain in gums
+
+Disease: depression
+Symptoms: anxiety and nervousness, depression, depressive or psychotic symptoms, insomnia, abusing alcohol, hostile behavior, drug abuse, excessive anger, disturbance of memory, delusions or hallucinations, temper problems
+
+Disease: dermatitis due to sun exposure
+Symptoms: skin swelling, lack of growth, abnormal appearing skin, skin lesion, acne or pimples, irregular appearing scalp, skin moles, skin dryness, peeling, scaliness, or roughness, skin rash
+
+Disease: developmental disability
+Symptoms: depressive or psychotic symptoms, difficulty speaking, lack of growth, hostile behavior, restlessness, seizures, delusions or hallucinations, temper problems, fears and phobias, obsessions and compulsions, antisocial behavior
+
+Disease: deviated nasal septum
+Symptoms: sore throat, nasal congestion, headache, facial pain, difficulty breathing, allergic reaction, apnea, abnormal breathing sounds, painful sinuses, nosebleed
+
+Disease: diabetes
+Symptoms: weight gain, thirst
+
+Disease: diabetes insipidus
+Symptoms: dizziness, emotional symptoms
+
+Disease: diabetic ketoacidosis
+Symptoms: depressive or psychotic symptoms, sharp chest pain, sharp abdominal pain, vomiting, nausea, diarrhea, frequent urination, weakness, decreased appetite, fluid retention
+
+Disease: diabetic kidney disease
+Symptoms: blood in stool, impotence
+
+Disease: diabetic peripheral neuropathy
+Symptoms: leg pain, skin lesion, foot or toe pain, problems with movement, foot or toe swelling, loss of sensation, paresthesia, lymphedema, foot or toe stiffness or tightness
+
+Disease: diabetic retinopathy
+Symptoms: diminished vision, double vision, symptoms of eye, pain in eye, abnormal movement of eyelid, foreign body sensation in eye, spots or clouds in vision, lacrimation, itchiness of eye
+
+Disease: diaper rash
+Symptoms: cough, nasal congestion, blood in stool, irritable infant, vomiting, diarrhea, fever, temper problems, pulling at ears, skin rash, diaper rash
+
+Disease: dislocation of the ankle
+Symptoms: emotional symptoms, foot or toe pain, ankle pain, ankle swelling
+
+Disease: dislocation of the elbow
+Symptoms: depression, irritable infant, wrist pain, arm pain, arm stiffness or tightness, elbow pain, elbow swelling
+
+Disease: dislocation of the finger
+Symptoms: difficulty speaking, hand or finger pain, wrist pain, hand or finger swelling, hand or finger stiffness or tightness
+
+Disease: dislocation of the foot
+Symptoms: elbow weakness, vomiting, foot or toe pain
+
+Disease: dislocation of the hip
+Symptoms: leg pain, hip pain, abusing alcohol
+
+Disease: dislocation of the knee
+Symptoms: knee pain, knee swelling, knee stiffness or tightness
+
+Disease: dislocation of the patella
+Symptoms: knee pain, knee swelling, knee stiffness or tightness
+
+Disease: dislocation of the shoulder
+Symptoms: wrist pain, arm pain, arm stiffness or tightness, arm swelling, neck mass, shoulder pain
+
+Disease: dislocation of the vertebra
+Symptoms: leg pain, elbow weakness, back pain, neck pain, low back pain
+
+Disease: dislocation of the wrist
+Symptoms: depression, elbow weakness, hand or finger pain, arm pain
+
+Disease: dissociative disorder
+Symptoms: anxiety and nervousness, depressive or psychotic symptoms, back weakness, excessive anger, disturbance of memory
+
+Disease: diverticulitis
+Symptoms: blood in stool, sharp abdominal pain, vomiting, nausea, diarrhea, lower abdominal pain, burning abdominal pain, side pain, fever, upper abdominal pain, chills, constipation
+
+Disease: diverticulosis
+Symptoms: blood in stool, sharp abdominal pain, vomiting, nausea, diarrhea, lower abdominal pain, heartburn, upper abdominal pain, melena, rectal bleeding
+
+Disease: down syndrome
+Symptoms: difficulty speaking, cough, nasal congestion, lack of growth, decreased appetite, seizures
+
+Disease: drug abuse
+Symptoms: anxiety and nervousness, depression, depressive or psychotic symptoms, abusing alcohol, hostile behavior, drug abuse, smoking problems, delusions or hallucinations, sweating, antisocial behavior
+
+Disease: drug abuse (barbiturates)
+Symptoms: anxiety and nervousness, depression, abnormal involuntary movements, hostile behavior, drug abuse, delusions or hallucinations
+
+Disease: drug abuse (cocaine)
+Symptoms: depression, depressive or psychotic symptoms, sharp chest pain, abusing alcohol, hostile behavior, drug abuse, excessive anger, delusions or hallucinations, fears and phobias
+
+Disease: drug abuse (methamphetamine)
+Symptoms: anxiety and nervousness, shortness of breath, depressive or psychotic symptoms, palpitations, abusing alcohol, hostile behavior, drug abuse, feeling ill
+
+Disease: drug abuse (opioids)
+Symptoms: anxiety and nervousness, depression, depressive or psychotic symptoms, insomnia, abusing alcohol, drug abuse, restlessness, excessive anger, delusions or hallucinations, temper problems
+
+Disease: drug poisoning due to medication
+Symptoms: depression, depressive or psychotic symptoms, abusing alcohol, drug abuse, lip swelling, slurring words, sleepiness
+
+Disease: drug reaction
+Symptoms: shortness of breath, dizziness, throat swelling, vomiting, headache, nausea, abnormal appearing skin, peripheral edema, allergic reaction, itching of skin, skin rash
+
+Disease: drug withdrawal
+Symptoms: anxiety and nervousness, depression, dizziness, sharp abdominal pain, vomiting, nausea, chills
+
+Disease: dry eye of unknown cause
+Symptoms: white discharge from eye, diminished vision, double vision, symptoms of eye, pain in eye, abnormal movement of eyelid, foreign body sensation in eye, spots or clouds in vision, eye redness, lacrimation, itchiness of eye
+
+Disease: dumping syndrome
+Symptoms: vomiting, nausea, knee lump or mass
+
+Disease: dyshidrosis
+Symptoms: frequent urination, abnormal appearing skin, skin lesion, acne or pimples, skin rash
+
+Disease: dysthymic disorder
+Symptoms: anxiety and nervousness, depression, depressive or psychotic symptoms, insomnia, excessive anger, slurring words, disturbance of memory, temper problems, loss of sex drive
+
+Disease: ear drum damage
+Symptoms: cough, nasal congestion, diminished hearing, pus draining from ear, ear pain, ringing in ear, plugged feeling in ear, fluid in ear, pulling at ears, redness in ear, bleeding from ear
+
+Disease: ear wax impaction
+Symptoms: cough, nasal congestion, diminished hearing, ear pain, ringing in ear, plugged feeling in ear, fluid in ear, fever, pulling at ears, sinus congestion
+
+Disease: eating disorder
+Symptoms: anxiety and nervousness, depression, depressive or psychotic symptoms, insomnia, abusing alcohol, acne or pimples, weight gain, difficulty eating, decreased appetite
+
+Disease: ectopic pregnancy
+Symptoms: dizziness, sharp abdominal pain, nausea, lower abdominal pain, vaginal discharge, intermenstrual bleeding, pain during pregnancy, pelvic pain
+
+Disease: ectropion
+Symptoms: white discharge from eye, symptoms of eye, pain in eye, eye redness, lacrimation
+
+Disease: eczema
+Symptoms: cough, skin swelling, abnormal appearing skin, skin lesion, acne or pimples, irregular appearing scalp, allergic reaction, itching of skin, skin dryness, peeling, scaliness, or roughness, skin irritation, warts, skin rash
+
+Disease: edward syndrome
+Symptoms: suprapubic pain, cross-eyed
+
+Disease: emphysema
+Symptoms: shortness of breath, sharp chest pain, cough, emotional symptoms
+
+Disease: empyema
+Symptoms: shortness of breath, sharp chest pain, cough, leg pain
+
+Disease: encephalitis
+Symptoms: dizziness, insomnia, headache, loss of sensation, disturbance of memory
+
+Disease: endocarditis
+Symptoms: shortness of breath, sharp chest pain, dizziness, palpitations, irregular heartbeat, increased heart rate
+
+Disease: endometrial cancer
+Symptoms: vaginal itching, hot flashes, intermenstrual bleeding, absence of menstruation, vaginal bleeding after menopause
+
+Disease: endometrial hyperplasia
+Symptoms: back weakness, involuntary urination, heavy menstrual flow, unpredictable menstruation, vaginal bleeding after menopause
+
+Disease: endometriosis
+Symptoms: sharp abdominal pain, lower abdominal pain, hot flashes, intermenstrual bleeding, pelvic pain, burning abdominal pain, heavy menstrual flow, painful menstruation, infertility
+
+Disease: endophthalmitis
+Symptoms: painful urination, diminished vision, pain in eye, eye redness, itchiness of eye, swollen eye
+
+Disease: envenomation from spider or animal bite
+Symptoms: skin swelling, hand or finger swelling, arm swelling, abnormal appearing skin, foot or toe swelling, paresthesia, allergic reaction, fluid retention, itching of skin
+
+Disease: ependymoma
+Symptoms: emotional symptoms, headache, diminished vision, pain in eye
+
+Disease: epididymitis
+Symptoms: retention of urine, swelling of scrotum, pain in testicles, mass in scrotum, sharp abdominal pain, painful urination, side pain, lower body pain, groin pain
+
+Disease: epidural hemorrhage
+Symptoms: depressive or psychotic symptoms, dizziness, emotional symptoms
+
+Disease: epilepsy
+Symptoms: abnormal involuntary movements, difficulty speaking, lack of growth, headache, disturbance of memory, seizures, muscle weakness
+
+Disease: erectile dysfunction
+Symptoms: retention of urine, pain in testicles, involuntary urination, pain during intercourse, frequent urination, blood in urine, impotence, symptoms of prostate, excessive urination at night, loss of sex drive
+
+Disease: erythema multiforme
+Symptoms: difficulty in swallowing, vomiting, mouth ulcer, fever, skin rash
+
+Disease: esophageal cancer
+Symptoms: shortness of breath, hoarse voice, sharp abdominal pain, decreased appetite, stomach bloating
+
+Disease: esophageal varices
+Symptoms: dizziness, nausea
+
+Disease: esophagitis
+Symptoms: shortness of breath, sharp chest pain, chest tightness, sore throat, cough, difficulty in swallowing, sharp abdominal pain, vomiting, nausea, burning abdominal pain, heartburn, upper abdominal pain
+
+Disease: essential tremor
+Symptoms: dizziness, abnormal involuntary movements, hoarse voice, problems with movement, muscle pain, loss of sensation, disturbance of memory
+
+Disease: eustachian tube dysfunction (ear disorder)
+Symptoms: dizziness, sore throat, nasal congestion, diminished hearing, ear pain, ringing in ear, plugged feeling in ear, allergic reaction, abnormal breathing sounds, redness in ear, swollen or red tonsils
+
+Disease: extrapyramidal effect of drugs
+Symptoms: anxiety and nervousness, abnormal involuntary movements, headache, arm stiffness or tightness, restlessness, seizures
+
+Disease: eye alignment disorder
+Symptoms: lack of growth, eye deviation, diminished vision, double vision, cross-eyed, symptoms of eye, pain in eye, eye moves abnormally, irregular appearing scalp
+
+Disease: factitious disorder
+Symptoms: depression, depressive or psychotic symptoms, elbow weakness, disturbance of memory
+
+Disease: female genitalia infection
+Symptoms: skin swelling, vaginal discharge, skin lesion, vaginal pain, vulvar irritation, groin pain, vulvar sore
+
+Disease: female infertility of unknown cause
+Symptoms: pain during intercourse, scanty menstrual flow, long menstrual periods, unpredictable menstruation, infertility
+
+Disease: fetal alcohol syndrome
+Symptoms: depressive or psychotic symptoms, emotional symptoms, excessive anger
+
+Disease: fibroadenoma
+Symptoms: vaginal dryness, hot flashes, bones are painful, bleeding or discharge from nipple, pain or soreness of breast, lump or mass of breast
+
+Disease: fibrocystic breast disease
+Symptoms: intermenstrual bleeding, bleeding or discharge from nipple, pain or soreness of breast, lump or mass of breast
+
+Disease: fibromyalgia
+Symptoms: sharp chest pain, leg pain, hip pain, headache, arm pain, back pain, neck pain, low back pain, muscle pain, ache all over
+
+Disease: flat feet
+Symptoms: skin swelling, knee pain, foot or toe pain, ankle pain, problems with movement
+
+Disease: floaters
+Symptoms: diminished vision, symptoms of eye, foreign body sensation in eye, spots or clouds in vision, lacrimation
+
+Disease: flu
+Symptoms: sore throat, cough, vomiting, headache, nausea, diarrhea, fever, ache all over, chills, coryza
+
+Disease: fluid overload
+Symptoms: shortness of breath, sharp chest pain, sharp abdominal pain, vomiting, nausea, hand or finger swelling, peripheral edema, fluid retention
+
+Disease: folate deficiency
+Symptoms: shortness of breath, sharp chest pain, sharp abdominal pain, vomiting blood, difficulty breathing
+
+Disease: food allergy
+Symptoms: cough, nasal congestion, vomiting, hand or finger swelling, lip swelling, abnormal appearing skin, allergic reaction, itching of skin, skin rash
+
+Disease: foreign body in the ear
+Symptoms: diminished hearing, throat feels tight, ear pain, fluid in ear, bleeding from ear
+
+Disease: foreign body in the eye
+Symptoms: white discharge from eye, symptoms of eye, pain in eye, foreign body sensation in eye, eye redness, lacrimation, itchiness of eye, eye burns or stings
+
+Disease: foreign body in the gastrointestinal tract
+Symptoms: lump in throat, difficulty in swallowing, sharp abdominal pain, vomiting, vomiting blood, recent weight loss
+
+Disease: foreign body in the nose
+Symptoms: nasal congestion, regurgitation.1
+
+Disease: foreign body in the throat
+Symptoms: shortness of breath, sore throat, cough, throat swelling, difficulty in swallowing, vomiting, infant spitting up
+
+Disease: foreign body in the vagina
+Symptoms: emotional symptoms, painful urination, vaginal discharge
+
+Disease: fracture of the ankle
+Symptoms: leg pain, foot or toe pain, ankle pain, knee weakness, foot or toe swelling, ankle swelling, ankle weakness
+
+Disease: fracture of the arm
+Symptoms: wrist pain, arm pain, wrist swelling, arm stiffness or tightness, arm swelling, wrist stiffness or tightness, elbow pain, shoulder pain, shoulder stiffness or tightness, elbow swelling
+
+Disease: fracture of the facial bones
+Symptoms: abusing alcohol, headache, lip swelling, facial pain, double vision, pain in eye, peripheral edema, swollen eye, redness in or around nose
+
+Disease: fracture of the finger
+Symptoms: hand or finger pain, hand or finger swelling, hand or finger stiffness or tightness, foot or toe pain, foot or toe swelling
+
+Disease: fracture of the foot
+Symptoms: foot or toe pain, ankle pain, foot or toe swelling, ankle swelling, foot or toe stiffness or tightness, foot or toe weakness
+
+Disease: fracture of the hand
+Symptoms: hand or finger pain, wrist pain, hand or finger swelling, arm pain, wrist swelling, arm stiffness or tightness, hand or finger stiffness or tightness, wrist stiffness or tightness
+
+Disease: fracture of the jaw
+Symptoms: facial pain, pain in eye, peripheral edema, jaw swelling, bones are painful, mouth pain
+
+Disease: fracture of the leg
+Symptoms: leg pain, hip pain, knee pain, ankle pain, knee weakness, knee swelling, problems with movement, leg swelling, leg stiffness or tightness, ankle swelling
+
+Disease: fracture of the neck
+Symptoms: leg pain, hip pain, low back pain, elbow pain, lower body pain
+
+Disease: fracture of the patella
+Symptoms: leg pain, hip pain, knee pain, bones are painful, knee swelling, leg weakness
+
+Disease: fracture of the pelvis
+Symptoms: difficulty speaking, leg pain, hip pain, back pain, knee pain, ache all over, groin pain
+
+Disease: fracture of the rib
+Symptoms: shortness of breath, sharp chest pain, hip pain, back pain, bones are painful, side pain, shoulder pain, ache all over, rib pain, back mass or lump, hurts to breath
+
+Disease: fracture of the shoulder
+Symptoms: arm pain, arm stiffness or tightness, neck swelling, bones are painful, shoulder pain, shoulder stiffness or tightness, shoulder swelling
+
+Disease: fracture of the skull
+Symptoms: depressive or psychotic symptoms, diminished hearing, drug abuse, vomiting, headache
+
+Disease: fracture of the vertebra
+Symptoms: hip pain, hand or finger stiffness or tightness, back pain, neck pain, low back pain, pelvic pain, bones are painful, leg stiffness or tightness
+
+Disease: friedrich ataxia
+Symptoms: cough, ear pain, knee lump or mass
+
+Disease: frostbite
+Symptoms: sharp chest pain, elbow weakness, foot or toe pain
+
+Disease: fungal infection of the hair
+Symptoms: skin swelling, abnormal appearing skin, skin lesion, acne or pimples, skin growth, irregular appearing scalp, pelvic pain, itching of skin, skin dryness, peeling, scaliness, or roughness, skin irritation, itchy scalp, skin rash
+
+Disease: fungal infection of the skin
+Symptoms: skin swelling, abnormal appearing skin, skin lesion, acne or pimples, irregular appearing scalp, itching of skin, skin dryness, peeling, scaliness, or roughness, itchy scalp, too little hair, skin rash
+
+Disease: g6pd enzyme deficiency
+Symptoms: cough, emotional symptoms
+
+Disease: galactorrhea of unknown cause
+Symptoms: anxiety and nervousness, emotional symptoms, bleeding or discharge from nipple, pain or soreness of breast
+
+Disease: gallstone
+Symptoms: sharp chest pain, sharp abdominal pain, vomiting, nausea, back pain, burning abdominal pain, heartburn, side pain, lower body pain, upper abdominal pain, regurgitation.1
+
+Disease: ganglion cyst
+Symptoms: leg pain, hand or finger pain, wrist swelling, skin growth, knee pain, foot or toe pain, knee swelling, knee lump or mass, hand or finger lump or mass, wrist lump or mass
+
+Disease: gas gangrene
+Symptoms: sharp abdominal pain, wrist pain
+
+Disease: gastritis
+Symptoms: sharp chest pain, sharp abdominal pain, vomiting, headache, nausea, diarrhea, vomiting blood, burning abdominal pain, fever, regurgitation.1
+
+Disease: gastroduodenal ulcer
+Symptoms: sharp chest pain, blood in stool, sharp abdominal pain, vomiting, nausea, vomiting blood, burning abdominal pain, heartburn, upper abdominal pain, changes in stool appearance
+
+Disease: gastroesophageal reflux disease (gerd)
+Symptoms: sharp chest pain, chest tightness, hoarse voice, cough, difficulty in swallowing, sharp abdominal pain, nausea, regurgitation, burning abdominal pain, regurgitation.1
+
+Disease: gastrointestinal hemorrhage
+Symptoms: dizziness, blood in stool, fainting, sharp abdominal pain, vomiting, nausea, diarrhea, vomiting blood, weakness, changes in stool appearance, melena, rectal bleeding
+
+Disease: gastroparesis
+Symptoms: sharp chest pain, sharp abdominal pain, vomiting, nausea, regurgitation, burning abdominal pain, upper abdominal pain, regurgitation.1
+
+Disease: genital herpes
+Symptoms: suprapubic pain, vaginal itching, painful urination, vaginal discharge, skin lesion, recent pregnancy, skin rash
+
+Disease: gestational diabetes
+Symptoms: pain during pregnancy, vaginal redness, problems during pregnancy, uterine contractions, pelvic pressure
+
+Disease: glaucoma
+Symptoms: diminished vision, symptoms of eye, pain in eye, foreign body sensation in eye, spots or clouds in vision, eye redness, lacrimation, itchiness of eye, itchy eyelid
+
+Disease: glucocorticoid deficiency
+Symptoms: shortness of breath, lack of growth, diarrhea
+
+Disease: goiter
+Symptoms: lump in throat, difficulty in swallowing, hot flashes, weight gain, fatigue
+
+Disease: gonorrhea
+Symptoms: sharp abdominal pain, vaginal itching, vaginal discharge, problems with movement, vaginal pain, penile discharge
+
+Disease: gout
+Symptoms: hand or finger pain, wrist pain, hand or finger swelling, wrist swelling, knee pain, foot or toe pain, ankle pain, knee swelling, leg swelling, foot or toe swelling, joint pain, ankle swelling
+
+Disease: granuloma inguinale
+Symptoms: sharp chest pain, knee lump or mass
+
+Disease: graves disease
+Symptoms: dizziness, abnormal involuntary movements, palpitations, irregular heartbeat, involuntary urination, hemoptysis, sweating
+
+Disease: guillain barre syndrome
+Symptoms: dizziness, difficulty speaking, leg pain, hand or finger pain, loss of sensation
+
+Disease: gum disease
+Symptoms: lip swelling, toothache, facial pain, mouth ulcer, peripheral edema, ear pain, jaw swelling, fever, gum pain, bleeding gums, pain in gums
+
+Disease: gynecomastia
+Symptoms: skin swelling, back pain, neck pain, bones are painful, problems with shape or size of breast, pain or soreness of breast, lump or mass of breast
+
+Disease: hammer toe
+Symptoms: skin lesion, skin growth, foot or toe pain, loss of sensation
+
+Disease: hashimoto thyroiditis
+Symptoms: abnormal involuntary movements, weight gain
+
+Disease: head and neck cancer
+Symptoms: hoarse voice, sore throat, throat feels tight, difficulty in swallowing, neck mass, plugged feeling in ear, hemoptysis, mouth pain
+
+Disease: head injury
+Symptoms: dizziness, fainting, headache, lip swelling, facial pain, double vision, back pain, neck pain
+
+Disease: headache after lumbar puncture
+Symptoms: dizziness, vomiting, headache, nausea, painful urination, neck pain, low back pain
+
+Disease: heart attack
+Symptoms: shortness of breath, sharp chest pain, chest tightness, irregular heartbeat, fainting, nausea, arm pain, heartburn, increased heart rate, burning chest pain, sweating
+
+Disease: heart block
+Symptoms: shortness of breath, sharp chest pain, dizziness, chest tightness, palpitations, irregular heartbeat, fainting, peripheral edema, weight gain, weakness
+
+Disease: heart contusion
+Symptoms: depression, elbow weakness
+
+Disease: heart failure
+Symptoms: shortness of breath, sharp chest pain, chest tightness, palpitations, cough, weight gain, leg swelling, weakness, difficulty breathing, fluid retention, hurts to breath
+
+Disease: heat exhaustion
+Symptoms: shortness of breath, sharp chest pain, dizziness, fainting, vomiting, headache, weakness, fluid retention
+
+Disease: heat stroke
+Symptoms: dizziness, feeling hot
+
+Disease: hemangioma
+Symptoms: skin swelling, lip swelling, abnormal appearing skin, skin lesion, skin growth, irregular appearing scalp, skin moles, lymphedema, irregular appearing nails, skin dryness, peeling, scaliness, or roughness
+
+Disease: hemarthrosis
+Symptoms: elbow weakness, frequent urination, knee pain, knee swelling
+
+Disease: hematoma
+Symptoms: skin swelling, swelling of scrotum, sharp abdominal pain, arm swelling, ache all over
+
+Disease: hemiplegia
+Symptoms: abnormal involuntary movements, difficulty speaking, headache, arm stiffness or tightness, problems with movement, weakness, loss of sensation, slurring words, seizures
+
+Disease: hemochromatosis
+Symptoms: difficulty speaking, abnormal appearing skin, ache all over
+
+Disease: hemolytic anemia
+Symptoms: cough, nausea, skin growth, fatigue
+
+Disease: hemophilia
+Symptoms: cough, leg pain, frontal headache, bleeding gums
+
+Disease: hemorrhoids
+Symptoms: blood in stool, sharp abdominal pain, pain of the anus, heartburn, lower body pain, changes in stool appearance, melena, rectal bleeding, constipation, mass or swelling around the anus, itching of the anus
+
+Disease: hepatic encephalopathy
+Symptoms: shortness of breath, depressive or psychotic symptoms, abusing alcohol, fainting, sharp abdominal pain, fluid retention
+
+Disease: hepatitis due to a toxin
+Symptoms: depression, jaundice, sharp abdominal pain, feeling ill, vomiting, nausea, rectal bleeding, itching of skin
+
+Disease: herniated disk
+Symptoms: leg pain, hip pain, arm pain, back pain, neck pain, low back pain, loss of sensation, paresthesia, shoulder pain, arm weakness, leg weakness
+
+Disease: herpangina
+Symptoms: insomnia, sore throat, cough, vomiting, mouth ulcer, swollen lymph nodes, decreased appetite, fever, skin rash
+
+Disease: hiatal hernia
+Symptoms: sharp chest pain, dizziness, difficulty in swallowing, sharp abdominal pain, nausea, back pain, vomiting blood, regurgitation, burning abdominal pain, heartburn, upper abdominal pain, regurgitation.1
+
+Disease: hidradenitis suppurativa
+Symptoms: skin swelling, groin mass, arm pain, skin lesion, skin growth, skin rash
+
+Disease: high blood pressure
+Symptoms: sharp chest pain, headache
+
+Disease: hirschsprung disease
+Symptoms: emotional symptoms, sharp abdominal pain, constipation
+
+Disease: hirsutism
+Symptoms: abnormal appearing skin, acne or pimples, apnea, unwanted hair
+
+Disease: histoplasmosis
+Symptoms: cough, elbow weakness, lacrimation
+
+Disease: hormone disorder
+Symptoms: lack of growth, headache, hot flashes, acne or pimples, excessive growth
+
+Disease: hpv
+Symptoms: vaginal itching, involuntary urination, warts
+
+Disease: human immunodeficiency virus infection (hiv)
+Symptoms: drug abuse, fears and phobias, nightmares
+
+Disease: huntington disease
+Symptoms: anxiety and nervousness, elbow weakness
+
+Disease: hydatidiform mole
+Symptoms: dizziness, sharp abdominal pain, diminished vision, pain during pregnancy, spotting or bleeding during pregnancy
+
+Disease: hydrocele of the testicle
+Symptoms: retention of urine, groin mass, symptoms of the scrotum and testes, swelling of scrotum, pain in testicles, mass in scrotum, lower abdominal pain, groin pain
+
+Disease: hydrocephalus
+Symptoms: depressive or psychotic symptoms, abnormal involuntary movements, lack of growth, vomiting, headache, problems with movement, seizures
+
+Disease: hydronephrosis
+Symptoms: suprapubic pain, pain in testicles, sharp abdominal pain, vomiting, nausea, lower abdominal pain, back pain, side pain
+
+Disease: hypercalcemia
+Symptoms: dizziness, retention of urine, weakness, loss of sensation
+
+Disease: hypercholesterolemia
+Symptoms: sharp chest pain, palpitations, hand or finger stiffness or tightness, weight gain, excessive urination at night
+
+Disease: hyperemesis gravidarum
+Symptoms: dizziness, sharp abdominal pain, vomiting, headache, nausea, diarrhea, pain during pregnancy, vomiting blood, burning abdominal pain, weakness, problems during pregnancy
+
+Disease: hypergammaglobulinemia
+Symptoms: blood in stool, fatigue
+
+Disease: hyperhidrosis
+Symptoms: cough, acne or pimples, fever, sweating, warts
+
+Disease: hyperkalemia
+Symptoms: shortness of breath, depressive or psychotic symptoms, sharp chest pain, dizziness, difficulty in swallowing, feeling ill, vomiting, nausea, weakness, decreased heart rate
+
+Disease: hyperlipidemia
+Symptoms: sharp chest pain, weight gain, smoking problems
+
+Disease: hypernatremia
+Symptoms: shortness of breath, fainting, weakness, fever, difficulty breathing
+
+Disease: hyperopia
+Symptoms: difficulty speaking, eye deviation, diminished vision, symptoms of eye, spots or clouds in vision, eye redness
+
+Disease: hyperosmotic hyperketotic state
+Symptoms: cough, frequent urination, weakness
+
+Disease: hypertension of pregnancy
+Symptoms: headache, pain during pregnancy, heartburn, problems during pregnancy, spotting or bleeding during pregnancy, uterine contractions
+
+Disease: hypertensive heart disease
+Symptoms: shortness of breath, sharp chest pain, insomnia, chest tightness, palpitations, leg swelling, heartburn, weakness, difficulty breathing, fatigue, recent pregnancy
+
+Disease: hypertrophic obstructive cardiomyopathy (hocm)
+Symptoms: anxiety and nervousness, sharp chest pain, emotional symptoms
+
+Disease: hypocalcemia
+Symptoms: shortness of breath, sharp chest pain, abnormal involuntary movements, constipation, leg weakness
+
+Disease: hypoglycemia
+Symptoms: depressive or psychotic symptoms, dizziness, abnormal involuntary movements, fainting, feeling ill, nausea, problems with movement, weakness, decreased appetite, seizures, sleepiness, sweating
+
+Disease: hypokalemia
+Symptoms: shortness of breath, sharp chest pain, fainting, sharp abdominal pain, vomiting, headache, nausea, diarrhea, loss of sensation, fever
+
+Disease: hyponatremia
+Symptoms: shortness of breath, sharp chest pain, fainting, sharp abdominal pain, vomiting, nausea, back pain, weakness, seizures
+
+Disease: hypothermia
+Symptoms: depressive or psychotic symptoms, emotional symptoms, fainting, weakness
+
+Disease: hypothyroidism
+Symptoms: hot flashes, wrist swelling, weight gain, muscle pain, fatigue, too little hair
+
+Disease: hypovolemia
+Symptoms: dizziness, fainting, sharp abdominal pain, feeling ill, vomiting, nausea, diarrhea, decreased appetite, fever
+
+Disease: idiopathic absence of menstruation
+Symptoms: sharp abdominal pain, nausea, vaginal itching, lower abdominal pain, pelvic pain, heartburn, pain or soreness of breast, absence of menstruation, long menstrual periods
+
+Disease: idiopathic excessive menstruation
+Symptoms: sharp abdominal pain, involuntary urination, vaginal discharge, intermenstrual bleeding, cramps and spasms, blood clots during menstrual periods, long menstrual periods, heavy menstrual flow, unpredictable menstruation, painful menstruation, frequent menstruation
+
+Disease: idiopathic infrequent menstruation
+Symptoms: retention of urine, sharp abdominal pain, nausea, unpredictable menstruation
+
+Disease: idiopathic irregular menstrual cycle
+Symptoms: sharp abdominal pain, lower abdominal pain, intermenstrual bleeding, pelvic pain, cramps and spasms, long menstrual periods, heavy menstrual flow, unpredictable menstruation, painful menstruation, infertility, frequent menstruation
+
+Disease: idiopathic nonmenstrual bleeding
+Symptoms: sharp abdominal pain, painful urination, vaginal discharge, intermenstrual bleeding, long menstrual periods, unpredictable menstruation
+
+Disease: idiopathic painful menstruation
+Symptoms: sharp abdominal pain, vaginal itching, lower abdominal pain, vaginal discharge, pelvic pain, cramps and spasms, blood clots during menstrual periods, long menstrual periods, heavy menstrual flow, unpredictable menstruation, painful menstruation
+
+Disease: ileus
+Symptoms: sharp abdominal pain, vomiting, headache, nausea, diarrhea, lower abdominal pain, pain of the anus, burning abdominal pain, constipation
+
+Disease: impetigo
+Symptoms: cough, nasal congestion, skin swelling, abnormal appearing skin, skin lesion, mouth ulcer, fever, itching of skin, skin rash, sore in nose
+
+Disease: impulse control disorder
+Symptoms: anxiety and nervousness, depression, depressive or psychotic symptoms, insomnia, excessive appetite, excessive anger, delusions or hallucinations, temper problems
+
+Disease: indigestion
+Symptoms: sharp chest pain, sharp abdominal pain, vomiting, nausea, diarrhea, burning abdominal pain, heartburn, decreased appetite, stomach bloating
+
+Disease: induced abortion
+Symptoms: sharp abdominal pain, lower abdominal pain, vaginal discharge, intermenstrual bleeding, pain during pregnancy, spotting or bleeding during pregnancy, cramps and spasms, groin pain
+
+Disease: infection of open wound
+Symptoms: insomnia, leg pain, hand or finger swelling, abnormal appearing skin
+
+Disease: infectious gastroenteritis
+Symptoms: blood in stool, sharp abdominal pain, vomiting, headache, nausea, diarrhea, burning abdominal pain, decreased appetite, fever, chills, fluid retention, flu-like syndrome
+
+Disease: ingrown toe nail
+Symptoms: abnormal appearing skin, skin growth, neck swelling, foot or toe pain, foot or toe swelling, skin on leg or foot looks infected, swollen eye, irregular appearing nails, skin dryness, peeling, scaliness, or roughness, skin on arm or hand looks infected
+
+Disease: inguinal hernia
+Symptoms: groin mass, symptoms of the scrotum and testes, swelling of scrotum, pain in testicles, mass in scrotum, sharp abdominal pain, lower abdominal pain, ache all over, swollen abdomen, groin pain
+
+Disease: injury of the ankle
+Symptoms: leg pain, wrist swelling, foot or toe pain, ankle pain, foot or toe swelling, joint pain, ankle swelling, foot or toe weakness
+
+Disease: injury to internal organ
+Symptoms: sharp chest pain, retention of urine, sharp abdominal pain, frequent urination, back pain, side pain
+
+Disease: injury to the abdomen
+Symptoms: sharp chest pain, leg pain, sharp abdominal pain, blood in urine, back pain
+
+Disease: injury to the arm
+Symptoms: hand or finger pain, wrist pain, hand or finger swelling, arm pain, wrist swelling, arm stiffness or tightness, arm swelling, bones are painful, elbow pain, loss of sensation, joint pain, elbow swelling
+
+Disease: injury to the face
+Symptoms: diminished hearing, headache, facial pain, neck pain, ear pain, neck stiffness or tightness, nosebleed, bleeding from ear, mouth pain
+
+Disease: injury to the finger
+Symptoms: swelling of scrotum, hand or finger pain, hand or finger swelling, hand or finger stiffness or tightness
+
+Disease: injury to the hand
+Symptoms: hand or finger pain, wrist pain, hand or finger swelling, wrist swelling, hand or finger stiffness or tightness, skin growth, joint pain
+
+Disease: injury to the hip
+Symptoms: leg pain, hip pain, hand or finger swelling, neck pain
+
+Disease: injury to the knee
+Symptoms: leg pain, knee pain, knee weakness, problems with movement, foot or toe swelling
+
+Disease: injury to the leg
+Symptoms: leg pain, knee pain, foot or toe pain, ankle pain, knee swelling, problems with movement, knee stiffness or tightness, leg swelling, foot or toe swelling, infant feeding problem, irregular appearing nails, ankle swelling
+
+Disease: injury to the shoulder
+Symptoms: arm pain, arm stiffness or tightness, back pain, neck pain, bones are painful, elbow pain, shoulder pain, shoulder stiffness or tightness, muscle cramps, contractures, or spasms
+
+Disease: injury to the spinal cord
+Symptoms: retention of urine, headache, back pain, neck pain
+
+Disease: injury to the trunk
+Symptoms: sharp chest pain, symptoms of the scrotum and testes, headache, wrist pain, back pain, neck pain, low back pain, bones are painful, shoulder pain, lower body pain, rib pain
+
+Disease: insect bite
+Symptoms: skin swelling, hand or finger swelling, lip swelling, abnormal appearing skin, skin lesion, peripheral edema, leg swelling, fluid retention, itching of skin, skin rash
+
+Disease: insulin overdose
+Symptoms: depressive or psychotic symptoms, emotional symptoms
+
+Disease: interstitial lung disease
+Symptoms: shortness of breath, sore throat, cough, nasal congestion, headache, wheezing, fever, sleepiness, abnormal breathing sounds
+
+Disease: intertrigo (skin condition)
+Symptoms: skin swelling, abnormal appearing skin, skin lesion, acne or pimples, skin dryness, peeling, scaliness, or roughness, skin rash
+
+Disease: intestinal cancer
+Symptoms: throat feels tight, sharp abdominal pain, diarrhea, neck mass, foot or toe swelling
+
+Disease: intestinal disease
+Symptoms: sharp chest pain, fainting, sharp abdominal pain, vomiting, nausea, diarrhea, regurgitation, burning abdominal pain, regurgitation.1
+
+Disease: intestinal malabsorption
+Symptoms: cough, nasal congestion, flatulence, sharp abdominal pain, vomiting, diarrhea, allergic reaction
+
+Disease: intestinal obstruction
+Symptoms: retention of urine, sharp abdominal pain, vomiting, nausea, vaginal itching, pain of the anus, burning abdominal pain, stomach bloating, constipation
+
+Disease: intracerebral hemorrhage
+Symptoms: depressive or psychotic symptoms, dizziness, vomiting, headache, nausea, diminished vision, weakness, blindness, focal weakness, seizures
+
+Disease: intracranial abscess
+Symptoms: depressive or psychotic symptoms, headache, seizures
+
+Disease: intracranial hemorrhage
+Symptoms: depressive or psychotic symptoms, dizziness, abnormal involuntary movements, difficulty speaking, vomiting, headache, diminished vision, seizures
+
+Disease: intussusception
+Symptoms: blood in stool, emotional symptoms, sharp abdominal pain
+
+Disease: iridocyclitis
+Symptoms: headache, diminished vision, symptoms of eye, pain in eye, foreign body sensation in eye, eye redness, lacrimation, eye burns or stings, cloudy eye
+
+Disease: iron deficiency anemia
+Symptoms: dizziness, blood in stool, intermenstrual bleeding, regurgitation, weight gain, heartburn, weakness, fatigue, regurgitation.1, rectal bleeding, heavy menstrual flow
+
+Disease: irritable bowel syndrome
+Symptoms: anxiety and nervousness, insomnia, flatulence, sharp abdominal pain, nausea, diarrhea, lower abdominal pain, burning abdominal pain, upper abdominal pain
+
+Disease: ischemia of the bowel
+Symptoms: retention of urine, blood in stool, sharp abdominal pain, vomiting, nausea, burning abdominal pain, constipation
+
+Disease: ischemic heart disease
+Symptoms: shortness of breath, sharp chest pain, dizziness, chest tightness, palpitations, throat feels tight, peripheral edema, muscle pain, difficulty breathing, fatigue, lymphedema
+
+Disease: itching of unknown cause
+Symptoms: vaginal itching, abnormal appearing skin, problems during pregnancy, allergic reaction, fluid retention, itching of skin, skin dryness, peeling, scaliness, or roughness, itchy scalp, skin rash
+
+Disease: jaw disorder
+Symptoms: difficulty in swallowing, headache, toothache, facial pain, peripheral edema, neck mass, jaw swelling, mouth pain
+
+Disease: joint effusion
+Symptoms: wrist pain, wrist swelling, knee pain, ankle pain, elbow pain, knee swelling, problems with movement, knee stiffness or tightness, ankle swelling
+
+Disease: juvenile rheumatoid arthritis
+Symptoms: hand or finger pain, wrist swelling, back pain, knee pain, joint pain
+
+Disease: kaposi sarcoma
+Symptoms: depression, elbow weakness
+
+Disease: kidney cancer
+Symptoms: retention of urine, groin mass, involuntary urination, blood in urine, kidney mass
+
+Disease: kidney disease due to longstanding hypertension
+Symptoms: shortness of breath, difficulty speaking, feeling cold, symptoms of the kidneys
+
+Disease: kidney failure
+Symptoms: shortness of breath, sharp chest pain, vomiting, nausea, arm swelling, leg swelling, swollen abdomen, symptoms of the kidneys
+
+Disease: kidney stone
+Symptoms: retention of urine, suprapubic pain, sharp abdominal pain, vomiting, painful urination, frequent urination, lower abdominal pain, blood in urine, back pain, low back pain, side pain
+
+Disease: knee ligament or meniscus tear
+Symptoms: knee pain, knee weakness, knee swelling, knee lump or mass, knee stiffness or tightness, leg stiffness or tightness, leg weakness
+
+Disease: labyrinthitis
+Symptoms: dizziness, diminished hearing, vomiting, headache, nausea, ear pain, plugged feeling in ear, spots or clouds in vision, loss of sensation, sweating
+
+Disease: lactose intolerance
+Symptoms: shortness of breath, nasal congestion, flatulence, diarrhea, impotence, burning abdominal pain
+
+Disease: laryngitis
+Symptoms: hoarse voice, sore throat, difficulty speaking, cough, nasal congestion, throat feels tight, difficulty in swallowing, ear pain, fever, coryza
+
+Disease: lateral epicondylitis (tennis elbow)
+Symptoms: hand or finger pain, wrist pain, arm pain, hand or finger stiffness or tightness, elbow pain, loss of sensation, shoulder pain, joint pain
+
+Disease: leukemia
+Symptoms: fever, muscle stiffness or tightness, fatigue, mouth pain
+
+Disease: lewy body dementia
+Symptoms: depressive or psychotic symptoms, abnormal involuntary movements, hostile behavior, disturbance of memory, delusions or hallucinations
+
+Disease: lice
+Symptoms: cough, nasal congestion, itching of skin, itchy scalp, leg lump or mass
+
+Disease: lichen planus
+Symptoms: difficulty speaking, abnormal appearing skin, skin growth
+
+Disease: lichen simplex
+Symptoms: difficulty speaking, vaginal itching, skin lesion, itching of skin, skin rash
+
+Disease: lipoma
+Symptoms: skin swelling, groin mass, abnormal appearing skin, skin lesion, skin growth, neck mass, bones are painful, back mass or lump, shoulder lump or mass, arm lump or mass
+
+Disease: liver cancer
+Symptoms: groin mass, sharp abdominal pain, decreased appetite, upper abdominal pain, stomach bloating
+
+Disease: liver disease
+Symptoms: shortness of breath, blood in stool, jaundice, sharp abdominal pain, nausea, diarrhea, peripheral edema, heartburn, weakness, side pain, upper abdominal pain, unusual color or odor to urine
+
+Disease: lumbago
+Symptoms: leg pain, hip pain, back pain, low back pain, muscle pain, side pain, low back cramps or spasms
+
+Disease: lung cancer
+Symptoms: shortness of breath, cough, smoking problems, decreased appetite, fatigue, hemoptysis, leg weakness
+
+Disease: lung contusion
+Symptoms: shortness of breath, sharp chest pain, back pain, ache all over
+
+Disease: lyme disease
+Symptoms: depressive or psychotic symptoms, hip pain, headache, abnormal appearing skin, symptoms of the face, fever, fatigue
+
+Disease: lymphadenitis
+Symptoms: sore throat, cough, skin swelling, sharp abdominal pain, neck pain, neck mass, ear pain, neck swelling, fever
+
+Disease: lymphangitis
+Symptoms: arm pain, neck swelling
+
+Disease: lymphedema
+Symptoms: throat swelling, leg pain, abnormal appearing skin, skin lesion, peripheral edema, leg swelling, foot or toe swelling, lymphedema, fluid retention
+
+Disease: lymphogranuloma venereum
+Symptoms: sore throat, ear pain, knee lump or mass
+
+Disease: lymphoma
+Symptoms: hoarse voice, groin mass, regurgitation, neck mass, itchy ear(s), fatigue, regurgitation.1
+
+Disease: macular degeneration
+Symptoms: diminished vision, double vision, symptoms of eye, pain in eye, abnormal movement of eyelid, foreign body sensation in eye, spots or clouds in vision, lacrimation, itchiness of eye, blindness, bleeding from eye
+
+Disease: magnesium deficiency
+Symptoms: shortness of breath, sharp chest pain, dizziness, leg pain
+
+Disease: malaria
+Symptoms: fainting, headache, knee lump or mass, fever
+
+Disease: male genitalia infection
+Symptoms: swelling of scrotum, pain in testicles, mass in scrotum, irritable infant, abnormal appearing skin, bumps on penis
+
+Disease: malignant hypertension
+Symptoms: shortness of breath, depressive or psychotic symptoms, sharp chest pain, insomnia, vomiting, headache, lower body pain
+
+Disease: marijuana abuse
+Symptoms: anxiety and nervousness, depression, depressive or psychotic symptoms, difficulty speaking, abusing alcohol, hostile behavior, drug abuse, excessive anger, delusions or hallucinations, temper problems, fears and phobias, low self-esteem
+
+Disease: mastectomy
+Symptoms: skin swelling, arm stiffness or tightness, pain or soreness of breast
+
+Disease: mastoiditis
+Symptoms: dizziness, cough, nasal congestion, diminished hearing, facial pain, ear pain
+
+Disease: meckel diverticulum
+Symptoms: lower abdominal pain, knee lump or mass
+
+Disease: melanoma
+Symptoms: skin swelling, abnormal appearing skin, skin lesion, skin growth, irregular appearing scalp, swollen lymph nodes, skin moles, itchy eyelid
+
+Disease: meniere disease
+Symptoms: dizziness, diminished hearing, headache, nausea, facial pain, ear pain, ringing in ear, allergic reaction
+
+Disease: meningioma
+Symptoms: depressive or psychotic symptoms, dizziness, headache, weakness, disturbance of memory
+
+Disease: meningitis
+Symptoms: cough, vomiting, headache, nausea, neck pain, neck stiffness or tightness, fever, ache all over
+
+Disease: menopause
+Symptoms: vaginal itching, involuntary urination, hot flashes, absence of menstruation, unpredictable menstruation, sweating
+
+Disease: metabolic disorder
+Symptoms: jaundice, arm stiffness or tightness, weight gain, smoking problems
+
+Disease: metastatic cancer
+Symptoms: vaginal dryness, neck mass, decreased appetite, focal weakness, fatigue
+
+Disease: migraine
+Symptoms: dizziness, vomiting, headache, nausea, diminished vision, spots or clouds in vision, blindness, symptoms of the face, disturbance of memory
+
+Disease: missed abortion
+Symptoms: blood in stool, sharp abdominal pain, lower abdominal pain, intermenstrual bleeding, pain during pregnancy, problems during pregnancy, spotting or bleeding during pregnancy, cramps and spasms, blood clots during menstrual periods
+
+Disease: mitral valve disease
+Symptoms: shortness of breath, sharp chest pain, dizziness, chest tightness, irregular heartbeat, increased heart rate, fatigue, sweating, nightmares
+
+Disease: mittelschmerz
+Symptoms: sharp abdominal pain, vomiting, diarrhea, lower abdominal pain, pelvic pain, painful menstruation
+
+Disease: molluscum contagiosum
+Symptoms: skin swelling, abnormal appearing skin, skin lesion, acne or pimples, knee lump or mass, itching of skin, skin dryness, peeling, scaliness, or roughness, warts, skin rash
+
+Disease: mononeuritis
+Symptoms: leg pain, hand or finger pain, wrist pain, arm pain, foot or toe pain, ankle pain, elbow pain, loss of sensation, shoulder pain, hand or finger weakness
+
+Disease: mononucleosis
+Symptoms: sore throat, cough, nasal congestion, feeling ill, headache, swollen lymph nodes, fever, skin rash
+
+Disease: moyamoya disease
+Symptoms: depressive or psychotic symptoms, elbow weakness
+
+Disease: mucositis
+Symptoms: sore throat, difficulty in swallowing, irritable infant, mouth ulcer, decreased appetite, fever, tongue lesions, mouth pain
+
+Disease: multiple myeloma
+Symptoms: lip swelling, problems with movement, weakness, disturbance of memory, fatigue
+
+Disease: multiple sclerosis
+Symptoms: dizziness, abnormal involuntary movements, headache, problems with movement, weakness, loss of sensation, focal weakness, disturbance of memory, paresthesia, fatigue, leg weakness
+
+Disease: mumps
+Symptoms: sore throat, swollen lymph nodes, ear pain, shoulder swelling
+
+Disease: muscle spasm
+Symptoms: sharp chest pain, abnormal involuntary movements, leg pain, headache, arm pain, back pain, neck pain, low back pain, loss of sensation, muscle cramps, contractures, or spasms
+
+Disease: muscular dystrophy
+Symptoms: cough, nasal congestion, hip pain, feeling cold, fatigue
+
+Disease: myasthenia gravis
+Symptoms: shortness of breath, dizziness, double vision, weakness, slurring words, fatigue, coughing up sputum
+
+Disease: myelodysplastic syndrome
+Symptoms: difficulty speaking, chills, fatigue
+
+Disease: myocarditis
+Symptoms: sharp chest pain, dizziness, palpitations
+
+Disease: myoclonus
+Symptoms: insomnia, abnormal involuntary movements, seizures, muscle swelling
+
+Disease: myopia
+Symptoms: eye deviation, diminished vision, symptoms of eye, pain in eye, eye moves abnormally, foreign body sensation in eye, spots or clouds in vision, eye redness, blindness
+
+Disease: myositis
+Symptoms: leg pain, hip pain, headache, knee pain, problems with movement, loss of sensation
+
+Disease: narcolepsy
+Symptoms: shortness of breath, insomnia, headache, disturbance of memory, fatigue, sleepiness, apnea
+
+Disease: nasal polyp
+Symptoms: hoarse voice, cough, nasal congestion, headache, facial pain, frontal headache, allergic reaction, painful sinuses
+
+Disease: necrotizing fasciitis
+Symptoms: leg pain, hip pain, elbow weakness
+
+Disease: neonatal jaundice
+Symptoms: lack of growth, jaundice, irritable infant, infant feeding problem, changes in stool appearance
+
+Disease: nerve impingement near the shoulder
+Symptoms: arm pain, hand or finger stiffness or tightness, neck pain, elbow pain, problems with movement, shoulder pain, shoulder stiffness or tightness, shoulder weakness
+
+Disease: neuralgia
+Symptoms: leg pain, hip pain, headache, arm pain, back pain, neck pain, low back pain, loss of sensation, shoulder pain, ache all over
+
+Disease: neurofibromatosis
+Symptoms: abnormal involuntary movements, groin mass, headache, abnormal appearing skin
+
+Disease: neuropathy due to drugs
+Symptoms: cough, vomiting, foot or toe pain, problems with movement, loss of sensation
+
+Disease: neurosis
+Symptoms: anxiety and nervousness, depression, depressive or psychotic symptoms, insomnia, hostile behavior, drug abuse, headache, smoking problems, excessive anger, delusions or hallucinations, obsessions and compulsions
+
+Disease: nonalcoholic liver disease (nash)
+Symptoms: dizziness, sharp abdominal pain, nausea, mouth ulcer, weight gain
+
+Disease: noninfectious gastroenteritis
+Symptoms: blood in stool, sharp abdominal pain, vomiting, headache, nausea, diarrhea, burning abdominal pain, decreased appetite, fever, chills, rectal bleeding, fluid retention
+
+Disease: normal pressure hydrocephalus
+Symptoms: depressive or psychotic symptoms, palpitations, headache, problems with movement
+
+Disease: nose disorder
+Symptoms: sore throat, cough, nasal congestion, headache, facial pain, ear pain, fever, difficulty breathing, coryza, sinus congestion, painful sinuses, nosebleed
+
+Disease: obesity
+Symptoms: weight gain, excessive appetite, sleepiness
+
+Disease: obsessive compulsive disorder (ocd)
+Symptoms: anxiety and nervousness, depression, depressive or psychotic symptoms, lack of growth, hostile behavior, feeling ill, temper problems, low self-esteem, obsessions and compulsions
+
+Disease: obstructive sleep apnea (osa)
+Symptoms: shortness of breath, insomnia, abnormal involuntary movements, difficulty in swallowing, mouth dryness, weight gain, difficulty breathing, fatigue, sleepiness, apnea, abnormal breathing sounds, sweating
+
+Disease: omphalitis
+Symptoms: emotional symptoms, flatulence, irregular belly button
+
+Disease: onychomycosis
+Symptoms: skin swelling, abnormal appearing skin, skin growth, foot or toe pain, skin on leg or foot looks infected, irregular appearing nails, skin dryness, peeling, scaliness, or roughness, too little hair, skin rash
+
+Disease: open wound due to trauma
+Symptoms: wrist swelling, skin on arm or hand looks infected
+
+Disease: open wound from surgical incision
+Symptoms: skin swelling, flatulence, skin lesion
+
+Disease: open wound of the abdomen
+Symptoms: sharp abdominal pain, blindness, irregular belly button
+
+Disease: open wound of the arm
+Symptoms: arm pain, knee weakness, elbow pain, redness in or around nose
+
+Disease: open wound of the back
+Symptoms: irregular heartbeat, skin lesion, weight gain, lower body pain
+
+Disease: open wound of the cheek
+Symptoms: wrist pain, facial pain
+
+Disease: open wound of the chest
+Symptoms: sharp chest pain, drug abuse
+
+Disease: open wound of the ear
+Symptoms: dry lips, facial pain, ear pain, fluid in ear, bleeding from ear
+
+Disease: open wound of the eye
+Symptoms: white discharge from eye, diminished vision, symptoms of eye, pain in eye, spots or clouds in vision
+
+Disease: open wound of the face
+Symptoms: wrist swelling, facial pain
+
+Disease: open wound of the finger
+Symptoms: hand or finger pain, hand or finger swelling, hand or finger stiffness or tightness, skin on arm or hand looks infected
+
+Disease: open wound of the foot
+Symptoms: skin lesion, foot or toe pain, foot or toe swelling, skin on leg or foot looks infected, irregular appearing nails, foot or toe lump or mass
+
+Disease: open wound of the hand
+Symptoms: hand or finger pain, hand or finger swelling, hand or finger stiffness or tightness, skin on arm or hand looks infected
+
+Disease: open wound of the head
+Symptoms: abusing alcohol, headache
+
+Disease: open wound of the jaw
+Symptoms: wrist swelling, lip swelling
+
+Disease: open wound of the knee
+Symptoms: leg pain, leg swelling
+
+Disease: open wound of the lip
+Symptoms: lip swelling, dry lips, facial pain, mouth ulcer, mouth pain
+
+Disease: open wound of the mouth
+Symptoms: lip swelling, toothache, mouth ulcer, peripheral edema, tongue lesions, seizures
+
+Disease: open wound of the neck
+Symptoms: skin swelling, abnormal appearing skin, skin lesion, peripheral edema, ache all over
+
+Disease: open wound of the nose
+Symptoms: diminished hearing, headache, facial pain, nosebleed
+
+Disease: open wound of the shoulder
+Symptoms: abusing alcohol, arm pain, shoulder pain
+
+Disease: oppositional disorder
+Symptoms: depressive or psychotic symptoms, fainting, hostile behavior, restlessness, excessive anger, temper problems, low self-esteem, obsessions and compulsions, antisocial behavior, low urine output
+
+Disease: optic neuritis
+Symptoms: retention of urine, headache, diminished vision, blindness
+
+Disease: oral leukoplakia
+Symptoms: skin swelling, elbow weakness, tongue lesions
+
+Disease: oral mucosal lesion
+Symptoms: sore throat, cough, lip swelling, toothache, facial pain, mouth ulcer, fever, tongue lesions, gum pain, mouth pain
+
+Disease: oral thrush (yeast infection)
+Symptoms: sore throat, cough, nasal congestion, irritable infant, mouth ulcer, fever, tongue lesions, constipation, skin rash, mouth pain
+
+Disease: orbital cellulitis
+Symptoms: diminished hearing, symptoms of eye, pain in eye, peripheral edema, eye redness, fever, swollen eye
+
+Disease: orthostatic hypotension
+Symptoms: sharp chest pain, dizziness, abnormal involuntary movements, irregular heartbeat, fainting, feeling ill, headache, weakness
+
+Disease: osteoarthritis
+Symptoms: leg pain, hip pain, hand or finger pain, back pain, knee pain, ankle pain, knee weakness, elbow pain, knee swelling, muscle pain, joint pain
+
+Disease: osteochondroma
+Symptoms: lower abdominal pain, lip swelling, abnormal appearing skin, skin lesion, skin growth, knee pain, foot or toe pain
+
+Disease: osteochondrosis
+Symptoms: hand or finger pain, knee pain, foot or toe pain, bowlegged or knock-kneed, ankle pain, elbow pain
+
+Disease: osteomyelitis
+Symptoms: difficulty speaking, hand or finger pain, hand or finger swelling, arm swelling, skin lesion, bones are painful, skin on leg or foot looks infected
+
+Disease: osteoporosis
+Symptoms: hip pain, back pain, bones are painful, disturbance of memory, leg cramps or spasms, stomach bloating, joint pain, muscle cramps, contractures, or spasms, early or late onset of menopause
+
+Disease: otitis externa (swimmer's ear)
+Symptoms: sore throat, cough, diminished hearing, facial pain, ear pain, ringing in ear, plugged feeling in ear, itchy ear(s), fluid in ear, fever, redness in ear
+
+Disease: otitis media
+Symptoms: sore throat, cough, nasal congestion, diminished hearing, vomiting, ear pain, plugged feeling in ear, fluid in ear, fever, coryza, pulling at ears
+
+Disease: otosclerosis
+Symptoms: dizziness, diminished hearing, emotional symptoms
+
+Disease: ovarian cancer
+Symptoms: groin mass, sharp abdominal pain, decreased appetite, stomach bloating
+
+Disease: ovarian cyst
+Symptoms: sharp abdominal pain, vomiting, nausea, lower abdominal pain, vaginal discharge, intermenstrual bleeding, pelvic pain, burning abdominal pain, painful menstruation
+
+Disease: ovarian torsion
+Symptoms: skin swelling, groin mass, sharp abdominal pain, lower abdominal pain, pelvic pain, ache all over
+
+Disease: overflow incontinence
+Symptoms: retention of urine, suprapubic pain, involuntary urination, blood in urine, hand or finger stiffness or tightness, impotence, symptoms of bladder
+
+Disease: pain after an operation
+Symptoms: sharp chest pain, leg pain, sharp abdominal pain, vomiting, headache, nausea, lower abdominal pain, back pain, neck pain, low back pain, side pain
+
+Disease: pain disorder affecting the neck
+Symptoms: dizziness, insomnia, headache, arm pain, back pain, neck pain, low back pain, neck stiffness or tightness, disturbance of memory
+
+Disease: pancreatic cancer
+Symptoms: jaundice, sharp abdominal pain, nausea, diarrhea, arm swelling, ache all over, stomach bloating
+
+Disease: panic attack
+Symptoms: anxiety and nervousness, shortness of breath, sharp chest pain, chest tightness, irregular heartbeat, weakness, loss of sensation
+
+Disease: panic disorder
+Symptoms: anxiety and nervousness, depression, shortness of breath, depressive or psychotic symptoms, dizziness, insomnia, abnormal involuntary movements, chest tightness, palpitations, irregular heartbeat, breathing fast
+
+Disease: parasitic disease
+Symptoms: cough, retention of urine, sharp abdominal pain, hand or finger swelling, abnormal appearing skin, skin rash
+
+Disease: parathyroid adenoma
+Symptoms: anxiety and nervousness, throat feels tight, disturbance of memory, shoulder pain
+
+Disease: parkinson disease
+Symptoms: dizziness, abnormal involuntary movements, difficulty speaking, problems with movement, weakness, focal weakness, disturbance of memory, leg stiffness or tightness, stiffness all over
+
+Disease: paronychia
+Symptoms: hand or finger pain, hand or finger swelling, abnormal appearing skin, foot or toe pain, foot or toe swelling, hand or finger lump or mass, skin on leg or foot looks infected, sinus congestion, skin on arm or hand looks infected
+
+Disease: paroxysmal supraventricular tachycardia
+Symptoms: shortness of breath, sharp chest pain, dizziness, chest tightness, palpitations, irregular heartbeat, involuntary urination, weakness, increased heart rate
+
+Disease: paroxysmal ventricular tachycardia
+Symptoms: shortness of breath, sharp chest pain, dizziness, chest tightness, irregular heartbeat, fainting, weight gain, decreased heart rate, increased heart rate, fatigue
+
+Disease: pelvic fistula
+Symptoms: dizziness, elbow weakness, vaginal discharge
+
+Disease: pelvic inflammatory disease
+Symptoms: suprapubic pain, sharp abdominal pain, vomiting, nausea, painful urination, lower abdominal pain, vaginal discharge, intermenstrual bleeding, back pain, pelvic pain, burning abdominal pain
+
+Disease: pelvic organ prolapse
+Symptoms: retention of urine, suprapubic pain, involuntary urination, frequent urination, vaginal discharge, blood in urine, intermenstrual bleeding, vaginal pain, symptoms of bladder
+
+Disease: pemphigus
+Symptoms: hand or finger pain, abnormal appearing skin, skin lesion
+
+Disease: pericarditis
+Symptoms: shortness of breath, sharp chest pain, chest tightness, palpitations, sharp abdominal pain, lower body pain
+
+Disease: peripheral arterial disease
+Symptoms: leg pain, skin lesion, foot or toe pain, feeling cold, leg cramps or spasms, symptoms of the kidneys, lymphedema, poor circulation
+
+Disease: peripheral arterial embolism
+Symptoms: leg pain, abnormal appearing skin, knee swelling, leg swelling, loss of sensation, paresthesia
+
+Disease: peripheral nerve disorder
+Symptoms: dizziness, abnormal involuntary movements, leg pain, arm pain, back pain, foot or toe pain, problems with movement, loss of sensation, disturbance of memory, paresthesia, arm weakness, leg weakness
+
+Disease: perirectal infection
+Symptoms: skin swelling, swelling of scrotum, pain in testicles, abnormal appearing skin, skin lesion, pain of the anus
+
+Disease: peritonitis
+Symptoms: shortness of breath, groin mass, sharp abdominal pain, vomiting, nausea, intermenstrual bleeding, back pain, side pain
+
+Disease: peritonsillar abscess
+Symptoms: sore throat, throat swelling, throat feels tight, difficulty in swallowing, headache, swollen lymph nodes, ear pain
+
+Disease: persistent vomiting of unknown cause
+Symptoms: dizziness, abnormal involuntary movements, sharp abdominal pain, vomiting, nausea, diarrhea, fever
+
+Disease: personality disorder
+Symptoms: anxiety and nervousness, depression, depressive or psychotic symptoms, insomnia, hostile behavior, drug abuse, excessive anger, delusions or hallucinations, temper problems, fears and phobias, low self-esteem
+
+Disease: peyronie disease
+Symptoms: emotional symptoms, mass in scrotum, impotence, symptoms of prostate, penis pain
+
+Disease: pharyngitis
+Symptoms: hoarse voice, sore throat, cough, wheezing, fever
+
+Disease: phimosis
+Symptoms: retention of urine, symptoms of the scrotum and testes, painful urination, blood in urine, penis pain, penis redness
+
+Disease: pilonidal cyst
+Symptoms: skin swelling, skin growth, irregular appearing scalp, pain of the anus, pelvic pain, bones are painful, ache all over, lower body pain
+
+Disease: pinguecula
+Symptoms: headache, symptoms of eye, lacrimation, itching of scrotum
+
+Disease: pinworm infection
+Symptoms: retention of urine, sharp abdominal pain, painful urination, pain of the anus, constipation, itching of the anus
+
+Disease: pituitary adenoma
+Symptoms: headache, nausea, pain in eye, muscle swelling
+
+Disease: pituitary disorder
+Symptoms: lack of growth, headache, hot flashes, pain in eye
+
+Disease: pityriasis rosea
+Symptoms: skin swelling, vaginal itching, abnormal appearing skin, itching of skin, warts, skin rash
+
+Disease: placenta previa
+Symptoms: involuntary urination, pain during pregnancy, spotting or bleeding during pregnancy, cramps and spasms
+
+Disease: placental abruption
+Symptoms: emotional symptoms, nausea, spotting or bleeding during pregnancy, uterine contractions
+
+Disease: plantar fasciitis
+Symptoms: knee pain, foot or toe pain, ankle pain, bones are painful, problems with movement, muscle pain, ankle swelling
+
+Disease: pleural effusion
+Symptoms: shortness of breath, sharp chest pain, cough, sharp abdominal pain, back pain, weakness, side pain, difficulty breathing, rib pain, hurts to breath
+
+Disease: pneumoconiosis
+Symptoms: shortness of breath, dizziness, cough, fever
+
+Disease: pneumonia
+Symptoms: shortness of breath, sharp chest pain, sore throat, cough, nasal congestion, vomiting, wheezing, weakness, fever, difficulty breathing, chills, coryza
+
+Disease: pneumothorax
+Symptoms: shortness of breath, sharp chest pain, cough, drug abuse, back pain, side pain, shoulder pain, hurts to breath
+
+Disease: poisoning due to analgesics
+Symptoms: depression, depressive or psychotic symptoms, skin swelling, abusing alcohol, vomiting, problems during pregnancy
+
+Disease: poisoning due to anticonvulsants
+Symptoms: depression, dizziness, difficulty speaking, problems with movement
+
+Disease: poisoning due to antidepressants
+Symptoms: depression, emotional symptoms, abusing alcohol, drug abuse
+
+Disease: poisoning due to antihypertensives
+Symptoms: depressive or psychotic symptoms, sharp abdominal pain, weakness
+
+Disease: poisoning due to antimicrobial drugs
+Symptoms: shortness of breath, abnormal involuntary movements, peripheral edema, problems with movement, allergic reaction, skin rash
+
+Disease: poisoning due to antipsychotics
+Symptoms: anxiety and nervousness, sharp chest pain, delusions or hallucinations
+
+Disease: poisoning due to ethylene glycol
+Symptoms: depression, depressive or psychotic symptoms, abusing alcohol, fainting
+
+Disease: poisoning due to gas
+Symptoms: shortness of breath, sharp chest pain, dizziness, cough, headache, wheezing, drainage in throat
+
+Disease: poisoning due to opioids
+Symptoms: depressive or psychotic symptoms, dizziness, difficulty speaking, drug abuse
+
+Disease: poisoning due to sedatives
+Symptoms: depression, depressive or psychotic symptoms, insomnia, hostile behavior, drug abuse, sleepiness
+
+Disease: polycystic kidney disease
+Symptoms: retention of urine, sharp abdominal pain, blood in urine, skin growth, back pain, low back pain, side pain, kidney mass
+
+Disease: polycystic ovarian syndrome (pcos)
+Symptoms: hot flashes, intermenstrual bleeding, pelvic pain, weight gain, absence of menstruation, long menstrual periods, unpredictable menstruation, infertility
+
+Disease: polycythemia vera
+Symptoms: dizziness, headache, symptoms of eye, weight gain, fatigue
+
+Disease: polymyalgia rheumatica
+Symptoms: sharp chest pain, irregular heartbeat, difficulty in swallowing, leg pain, shoulder pain, fatigue
+
+Disease: post-traumatic stress disorder (ptsd)
+Symptoms: anxiety and nervousness, depression, depressive or psychotic symptoms, insomnia, abusing alcohol, hostile behavior, drug abuse, excessive anger, delusions or hallucinations, temper problems
+
+Disease: postoperative infection
+Symptoms: skin swelling, sharp abdominal pain, abnormal appearing skin, jaw swelling, fever, skin on leg or foot looks infected
+
+Disease: postpartum depression
+Symptoms: anxiety and nervousness, depression, depressive or psychotic symptoms, drug abuse, intermenstrual bleeding, pain during pregnancy, excessive anger, problems during pregnancy, delusions or hallucinations
+
+Disease: preeclampsia
+Symptoms: sharp abdominal pain, headache, lower abdominal pain, pain during pregnancy, vaginal redness, spots or clouds in vision, problems during pregnancy, recent pregnancy, uterine contractions
+
+Disease: pregnancy
+Symptoms: pain during pregnancy, problems during pregnancy, spotting or bleeding during pregnancy, cramps and spasms, uterine contractions, pelvic pressure
+
+Disease: premature atrial contractions (pacs)
+Symptoms: shortness of breath, dizziness, palpitations, irregular heartbeat, fainting, fatigue, muscle swelling
+
+Disease: premature ovarian failure
+Symptoms: lack of growth, pelvic pain, weight gain, absence of menstruation, infertility
+
+Disease: premature rupture of amniotic membrane
+Symptoms: elbow weakness, sharp abdominal pain, uterine contractions
+
+Disease: premature ventricular contractions (pvcs)
+Symptoms: shortness of breath, sharp chest pain, chest tightness, palpitations, irregular heartbeat, fainting, impotence, sleepiness
+
+Disease: premenstrual tension syndrome
+Symptoms: depressive or psychotic symptoms, headache, lower abdominal pain, back pain, unpredictable menstruation, premenstrual tension or irritability
+
+Disease: presbyacusis
+Symptoms: dizziness, diminished hearing, emotional symptoms, ear pain, ringing in ear
+
+Disease: presbyopia
+Symptoms: difficulty speaking, diminished vision, symptoms of eye, pain in eye, abnormal movement of eyelid, foreign body sensation in eye, spots or clouds in vision
+
+Disease: priapism
+Symptoms: elbow weakness, abusing alcohol, painful urination, penis pain
+
+Disease: primary immunodeficiency
+Symptoms: cough, arm stiffness or tightness, frontal headache, decreased appetite, fatigue
+
+Disease: primary insomnia
+Symptoms: anxiety and nervousness, insomnia, abnormal involuntary movements, fatigue, delusions or hallucinations, sleepiness, abnormal breathing sounds
+
+Disease: primary kidney disease
+Symptoms: lack of growth, blood in urine, impotence, peripheral edema, symptoms of the kidneys
+
+Disease: primary thrombocythemia
+Symptoms: dizziness, flatulence, fatigue
+
+Disease: problem during pregnancy
+Symptoms: sharp abdominal pain, vomiting, headache, nausea, lower abdominal pain, back pain, pain during pregnancy, pelvic pain, problems during pregnancy, spotting or bleeding during pregnancy, cramps and spasms
+
+Disease: prostate cancer
+Symptoms: retention of urine, involuntary urination, pain during intercourse, blood in urine, impotence, symptoms of prostate, flushing, excessive urination at night
+
+Disease: prostatitis
+Symptoms: retention of urine, sharp abdominal pain, painful urination, frequent urination, lower abdominal pain, blood in urine, back pain, impotence, fever, chills
+
+Disease: protein deficiency
+Symptoms: depression, vomiting, nausea, smoking problems, weakness
+
+Disease: pseudohypoparathyroidism
+Symptoms: leg pain, elbow weakness, wrist pain, knee pain
+
+Disease: pseudotumor cerebri
+Symptoms: dizziness, abnormal involuntary movements, headache, diminished vision, pain in eye
+
+Disease: psoriasis
+Symptoms: skin swelling, abnormal appearing skin, skin lesion, skin growth, irregular appearing scalp, skin moles, joint pain, itching of skin, skin dryness, peeling, scaliness, or roughness, itchy scalp, skin rash
+
+Disease: psychosexual disorder
+Symptoms: depression, involuntary urination, pain during intercourse, impotence, fatigue, loss of sex drive, premature ejaculation
+
+Disease: psychotic disorder
+Symptoms: anxiety and nervousness, depression, depressive or psychotic symptoms, insomnia, abusing alcohol, hostile behavior, excessive anger, delusions or hallucinations, temper problems, fears and phobias, hysterical behavior
+
+Disease: pterygium
+Symptoms: acne or pimples, diminished vision, symptoms of eye, foreign body sensation in eye, spots or clouds in vision, eye redness, lacrimation
+
+Disease: pulmonary congestion
+Symptoms: shortness of breath, sharp chest pain, chest tightness, cough, nasal congestion, leg swelling, weakness, decreased heart rate, fever
+
+Disease: pulmonary embolism
+Symptoms: shortness of breath, sharp chest pain, chest tightness, cough, leg pain, leg swelling, weakness, side pain, difficulty breathing, hemoptysis, sweating
+
+Disease: pulmonary eosinophilia
+Symptoms: shortness of breath, sharp chest pain, dizziness, cough, nasal congestion, paresthesia, fever
+
+Disease: pulmonary fibrosis
+Symptoms: shortness of breath, sharp chest pain, chest tightness, cough, fainting, fever, difficulty breathing
+
+Disease: pulmonary hypertension
+Symptoms: shortness of breath, sharp chest pain, palpitations, cough, feeling ill, difficulty breathing, fatigue, hemoptysis, apnea
+
+Disease: pulmonic valve disease
+Symptoms: shortness of breath, emotional symptoms
+
+Disease: pyelonephritis
+Symptoms: suprapubic pain, sharp abdominal pain, vomiting, nausea, painful urination, frequent urination, lower abdominal pain, blood in urine, back pain, low back pain, side pain
+
+Disease: pyloric stenosis
+Symptoms: cough, vomiting, arm stiffness or tightness
+
+Disease: pyogenic skin infection
+Symptoms: skin swelling, leg pain, hand or finger pain, hand or finger swelling, abnormal appearing skin, skin lesion, peripheral edema, foot or toe pain, leg swelling, foot or toe swelling, skin rash
+
+Disease: raynaud disease
+Symptoms: hand or finger pain, hand or finger swelling, loss of sensation
+
+Disease: reactive arthritis
+Symptoms: hip pain, knee lump or mass
+
+Disease: rectal disorder
+Symptoms: blood in stool, sharp abdominal pain, diarrhea, pain of the anus, burning abdominal pain, heartburn, cramps and spasms, melena, rectal bleeding, constipation, itching of the anus
+
+Disease: restless leg syndrome
+Symptoms: depression, insomnia, abnormal involuntary movements, leg pain, headache, fatigue, sleepiness, apnea
+
+Disease: retinal detachment
+Symptoms: diminished vision, double vision, symptoms of eye, pain in eye, spots or clouds in vision, lacrimation, itchiness of eye, blindness
+
+Disease: retinopathy due to high blood pressure
+Symptoms: pus draining from ear, diminished vision, symptoms of eye, pain in eye, foreign body sensation in eye, spots or clouds in vision
+
+Disease: rhabdomyolysis
+Symptoms: depressive or psychotic symptoms, sharp chest pain, hoarse voice, leg pain, arm pain
+
+Disease: rheumatic fever
+Symptoms: knee lump or mass, itchiness of eye
+
+Disease: rheumatoid arthritis
+Symptoms: hand or finger pain, wrist pain, hand or finger swelling, wrist swelling, peripheral edema, knee pain, ache all over, joint pain, elbow swelling, joint swelling
+
+Disease: rocky mountain spotted fever
+Symptoms: headache, wrist pain
+
+Disease: rosacea
+Symptoms: skin swelling, abnormal appearing skin, skin lesion, acne or pimples, skin growth, symptoms of eye, skin moles, lymphedema, itching of skin, skin dryness, peeling, scaliness, or roughness
+
+Disease: rotator cuff injury
+Symptoms: arm pain, arm stiffness or tightness, hand or finger stiffness or tightness, shoulder pain, shoulder stiffness or tightness, shoulder weakness
+
+Disease: salivary gland disorder
+Symptoms: sore throat, cough, throat feels tight, swollen lymph nodes
+
+Disease: sarcoidosis
+Symptoms: shortness of breath, sharp chest pain, chest tightness, cough, headache, facial pain, pain in eye, peripheral edema
+
+Disease: scabies
+Symptoms: skin swelling, abnormal appearing skin, foot or toe swelling, problems during pregnancy, unpredictable menstruation, itching of skin, skin rash
+
+Disease: scar
+Symptoms: skin swelling, lip swelling, abnormal appearing skin, skin lesion, skin growth, skin moles, itching of skin
+
+Disease: scarlet fever
+Symptoms: sore throat, cough, throat swelling, skin swelling, fever, skin rash
+
+Disease: schizophrenia
+Symptoms: anxiety and nervousness, depression, depressive or psychotic symptoms, insomnia, hostile behavior, excessive anger, delusions or hallucinations, temper problems, fears and phobias, low self-esteem, hysterical behavior
+
+Disease: sciatica
+Symptoms: leg pain, hip pain, low back pain, problems with movement, loss of sensation, leg cramps or spasms, lower body pain, unusual color or odor to urine, back cramps or spasms, leg weakness
+
+Disease: scleritis
+Symptoms: abnormal involuntary movements, headache, pain in eye, spots or clouds in vision, eye redness
+
+Disease: scleroderma
+Symptoms: feeling ill, lip swelling, abnormal appearing skin, skin lesion, skin growth, itching of skin, skin dryness, peeling, scaliness, or roughness, skin irritation
+
+Disease: scoliosis
+Symptoms: leg pain, back pain, low back pain, knee swelling, problems with movement, knee stiffness or tightness, lower body pain
+
+Disease: scurvy
+Symptoms: sharp abdominal pain, knee lump or mass
+
+Disease: seasonal allergies (hay fever)
+Symptoms: sore throat, cough, nasal congestion, headache, ear pain, frontal headache, lacrimation, itchiness of eye, coryza, allergic reaction, sneezing
+
+Disease: sebaceous cyst
+Symptoms: skin swelling, abnormal appearing skin, skin lesion, acne or pimples, skin growth, irregular appearing scalp, neck mass, skin moles, hand or finger lump or mass, back mass or lump, arm lump or mass
+
+Disease: seborrheic dermatitis
+Symptoms: abnormal appearing skin, skin lesion, acne or pimples, skin growth, irregular appearing scalp, symptoms of the face, itching of skin, skin dryness, peeling, scaliness, or roughness, too little hair, skin rash, dry or flaky scalp
+
+Disease: seborrheic keratosis
+Symptoms: skin swelling, abnormal appearing skin, skin lesion, acne or pimples, skin growth, irregular appearing scalp, skin moles, itching of skin, skin irritation, warts, skin rash
+
+Disease: sensorineural hearing loss
+Symptoms: dizziness, hoarse voice, nasal congestion, diminished hearing, throat feels tight, ear pain, ringing in ear, plugged feeling in ear, itchy ear(s), fluid in ear
+
+Disease: sepsis
+Symptoms: shortness of breath, cough, suprapubic pain, sharp abdominal pain, feeling ill, vomiting, weakness, decreased appetite, fever, difficulty breathing, chills
+
+Disease: septic arthritis
+Symptoms: leg pain, hip pain, knee pain, knee swelling, fever
+
+Disease: shingles (herpes zoster)
+Symptoms: sharp chest pain, headache, abnormal appearing skin, skin lesion, facial pain, pain in eye, back pain, itching of skin, skin rash
+
+Disease: sialoadenitis
+Symptoms: sore throat, cough, nasal congestion, facial pain, swollen lymph nodes, peripheral edema, neck mass, jaw swelling, neck swelling
+
+Disease: sick sinus syndrome
+Symptoms: shortness of breath, dizziness, palpitations, irregular heartbeat, fainting, weakness, decreased heart rate, increased heart rate
+
+Disease: sickle cell anemia
+Symptoms: leg pain, dry lips, back pain, fever, ache all over, joint pain, temper problems, pulling at ears
+
+Disease: sickle cell crisis
+Symptoms: sharp chest pain, leg pain, hip pain, sharp abdominal pain, vomiting, arm pain, back pain, low back pain, burning abdominal pain, knee pain, ache all over
+
+Disease: sinus bradycardia
+Symptoms: shortness of breath, sharp chest pain, dizziness, chest tightness, palpitations, irregular heartbeat, fainting, feeling ill, weakness, decreased heart rate, increased heart rate
+
+Disease: sjogren syndrome
+Symptoms: difficulty in swallowing, diminished vision, symptoms of eye, pain in eye, ache all over, joint pain
+
+Disease: skin cancer
+Symptoms: skin swelling, lip swelling, abnormal appearing skin, skin lesion, skin growth, irregular appearing scalp, skin moles, skin dryness, peeling, scaliness, or roughness, skin irritation, warts
+
+Disease: skin disorder
+Symptoms: skin swelling, abnormal appearing skin, skin lesion, acne or pimples, skin growth, irregular appearing scalp, skin moles, itching of skin, skin dryness, peeling, scaliness, or roughness, skin irritation
+
+Disease: skin pigmentation disorder
+Symptoms: skin swelling, abnormal appearing skin, skin lesion, acne or pimples, skin growth, irregular appearing scalp, skin moles, itching of skin, skin dryness, peeling, scaliness, or roughness, warts, skin rash
+
+Disease: skin polyp
+Symptoms: skin swelling, abnormal appearing skin, skin lesion, acne or pimples, skin growth, irregular appearing scalp, skin moles, itching of skin, skin dryness, peeling, scaliness, or roughness, skin irritation, warts
+
+Disease: smoking or tobacco addiction
+Symptoms: shortness of breath, sharp chest pain, cough, abusing alcohol, drug abuse, headache, smoking problems, excessive anger, coughing up sputum, hemoptysis, hurts to breath
+
+Disease: social phobia
+Symptoms: anxiety and nervousness, depression, depressive or psychotic symptoms, insomnia, abusing alcohol, excessive appetite, excessive anger, delusions or hallucinations, fears and phobias
+
+Disease: soft tissue sarcoma
+Symptoms: groin mass, abnormal appearing skin, skin lesion, skin growth, skin moles, itching of skin, skin dryness, peeling, scaliness, or roughness
+
+Disease: somatization disorder
+Symptoms: anxiety and nervousness, depression, dizziness, fainting, ache all over
+
+Disease: spermatocele
+Symptoms: retention of urine, elbow weakness, pain in testicles, mass in scrotum, frequent urination
+
+Disease: spherocytosis
+Symptoms: cough, elbow weakness, skin rash
+
+Disease: spina bifida
+Symptoms: headache, involuntary urination, skin lesion, eye moves abnormally, back pain, disturbance of memory
+
+Disease: spinal stenosis
+Symptoms: leg pain, hip pain, headache, arm pain, back pain, neck pain, low back pain, problems with movement, loss of sensation, paresthesia, shoulder pain, lower body pain
+
+Disease: spinocerebellar ataxia
+Symptoms: anxiety and nervousness, dizziness, abnormal involuntary movements, problems with movement
+
+Disease: spondylitis
+Symptoms: leg pain, hip pain, back pain, neck pain, low back pain, side pain, lower body pain, stiffness all over, back mass or lump
+
+Disease: spondylolisthesis
+Symptoms: leg pain, hip pain, back pain, neck pain, low back pain, problems with movement, loss of sensation, paresthesia, leg cramps or spasms, leg weakness
+
+Disease: spondylosis
+Symptoms: leg pain, hip pain, arm pain, back pain, neck pain, low back pain, knee pain, loss of sensation, paresthesia, shoulder pain, ache all over, lower body pain
+
+Disease: spontaneous abortion
+Symptoms: sharp abdominal pain, lower abdominal pain, intermenstrual bleeding, pain during pregnancy, pelvic pain, burning abdominal pain, problems during pregnancy, spotting or bleeding during pregnancy, cramps and spasms, blood clots during menstrual periods, uterine contractions, heavy menstrual flow
+
+Disease: sporotrichosis
+Symptoms: wrist pain, knee pain
+
+Disease: sprain or strain
+Symptoms: leg pain, headache, hand or finger pain, wrist pain, arm pain, back pain, neck pain, low back pain, knee pain, foot or toe pain, ankle pain, shoulder pain
+
+Disease: stenosis of the tear duct
+Symptoms: cough, white discharge from eye, symptoms of eye, abnormal movement of eyelid, lacrimation
+
+Disease: stomach cancer
+Symptoms: difficulty in swallowing, sharp abdominal pain, vomiting, nausea, diarrhea, burning abdominal pain, heartburn
+
+Disease: strep throat
+Symptoms: sore throat, cough, nasal congestion, difficulty in swallowing, vomiting, headache, ear pain, decreased appetite, fever, ache all over, chills, skin rash
+
+Disease: stress incontinence
+Symptoms: retention of urine, painful urination, involuntary urination, frequent urination, blood in urine, hot flashes, intermenstrual bleeding
+
+Disease: stricture of the esophagus
+Symptoms: sharp chest pain, difficulty in swallowing, vomiting, problems with movement, heartburn, regurgitation.1
+
+Disease: stroke
+Symptoms: depressive or psychotic symptoms, dizziness, abnormal involuntary movements, difficulty speaking, headache, problems with movement, focal weakness, slurring words, disturbance of memory, seizures
+
+Disease: stye
+Symptoms: skin swelling, abnormal appearing skin, symptoms of eye, pain in eye, eye redness, itchiness of eye, eye burns or stings, mass on eyelid, swollen eye, eyelid swelling, eyelid lesion or rash
+
+Disease: subacute thyroiditis
+Symptoms: palpitations, blood in stool, pain during pregnancy, problems during pregnancy, uterine contractions
+
+Disease: subarachnoid hemorrhage
+Symptoms: dizziness, fainting, vomiting, headache, symptoms of eye, loss of sensation
+
+Disease: subconjunctival hemorrhage
+Symptoms: headache, facial pain, diminished vision, symptoms of eye, pain in eye, foreign body sensation in eye, eye redness, bleeding from eye
+
+Disease: subdural hemorrhage
+Symptoms: depressive or psychotic symptoms, dizziness, irritable infant, vomiting, headache, facial pain
+
+Disease: substance-related mental disorder
+Symptoms: anxiety and nervousness, depressive or psychotic symptoms, insomnia, hostile behavior, drug abuse, feeling ill, delusions or hallucinations
+
+Disease: syndrome of inappropriate secretion of adh (siadh)
+Symptoms: dizziness, feeling ill, cross-eyed
+
+Disease: syphilis
+Symptoms: headache, vaginal discharge, muscle pain, skin rash
+
+Disease: syringomyelia
+Symptoms: fainting, headache, back pain, shoulder pain
+
+Disease: systemic lupus erythematosis (sle)
+Symptoms: sharp chest pain, hand or finger stiffness or tightness, knee pain, bones are painful, leg swelling, ache all over
+
+Disease: teething syndrome
+Symptoms: cough, nasal congestion, diarrhea, symptoms of infants, ear pain, decreased appetite, fever, temper problems, redness in ear
+
+Disease: temporary or benign blood in urine
+Symptoms: retention of urine, suprapubic pain, sharp abdominal pain, painful urination, involuntary urination, frequent urination, lower abdominal pain, blood in urine, back pain, regurgitation, regurgitation.1, symptoms of bladder
+
+Disease: temporomandibular joint disorder
+Symptoms: sore throat, nasal congestion, diminished hearing, headache, facial pain, pain in eye, neck pain, ear pain
+
+Disease: tendinitis
+Symptoms: leg pain, hip pain, hand or finger pain, wrist pain, hand or finger swelling, arm pain, knee pain, foot or toe pain, ankle pain, shoulder pain
+
+Disease: tension headache
+Symptoms: anxiety and nervousness, dizziness, headache, nausea, neck pain, neck stiffness or tightness, chills, back cramps or spasms
+
+Disease: testicular cancer
+Symptoms: anxiety and nervousness, diminished hearing, mass in scrotum
+
+Disease: testicular disorder
+Symptoms: hoarse voice, symptoms of the scrotum and testes, impotence, fatigue, loss of sex drive
+
+Disease: testicular torsion
+Symptoms: emotional symptoms, symptoms of the scrotum and testes, swelling of scrotum, pain in testicles, sharp abdominal pain, back pain
+
+Disease: thalassemia
+Symptoms: insomnia, elbow weakness
+
+Disease: thoracic aortic aneurysm
+Symptoms: shortness of breath, sharp chest pain, dizziness, chest tightness, jaundice, sharp abdominal pain, fatigue
+
+Disease: thoracic outlet syndrome
+Symptoms: sharp chest pain, hand or finger pain, arm pain, decreased appetite, loss of sensation, shoulder pain
+
+Disease: threatened pregnancy
+Symptoms: sharp abdominal pain, lower abdominal pain, vaginal discharge, intermenstrual bleeding, back pain, pelvic pain, problems during pregnancy, spotting or bleeding during pregnancy, cramps and spasms, blood clots during menstrual periods, uterine contractions
+
+Disease: thrombocytopenia
+Symptoms: sharp chest pain, blood in stool, blood in urine, irregular appearing scalp, fatigue, nosebleed, bleeding gums
+
+Disease: thrombophlebitis
+Symptoms: skin swelling, leg pain, arm pain, arm swelling, foot or toe pain, leg swelling, ache all over, lymphedema, skin on leg or foot looks infected
+
+Disease: thyroid cancer
+Symptoms: difficulty in swallowing, swollen lymph nodes, neck mass, fatigue
+
+Disease: thyroid disease
+Symptoms: lump in throat, throat feels tight, difficulty in swallowing, neck mass
+
+Disease: thyroid nodule
+Symptoms: hoarse voice, diminished hearing, throat feels tight, difficulty in swallowing, back weakness, neck mass, fatigue
+
+Disease: tic (movement) disorder
+Symptoms: depressive or psychotic symptoms, abnormal involuntary movements, headache, symptoms of eye, abnormal movement of eyelid, problems with movement
+
+Disease: tietze syndrome
+Symptoms: shortness of breath, sharp chest pain, chest tightness, cough, nausea, loss of sensation, difficulty breathing, rib pain
+
+Disease: tinnitus of unknown cause
+Symptoms: dizziness, hoarse voice, diminished hearing, headache, ear pain, ringing in ear, plugged feeling in ear, itchy ear(s)
+
+Disease: tonsillar hypertrophy
+Symptoms: sore throat, cough, nasal congestion, difficulty in swallowing, fever, apnea, abnormal breathing sounds, redness in ear
+
+Disease: tonsillitis
+Symptoms: sore throat, nasal congestion, diminished hearing, lump in throat, throat feels tight, abnormal breathing sounds, redness in ear, swollen or red tonsils, throat redness
+
+Disease: tooth abscess
+Symptoms: skin swelling, lip swelling, toothache, facial pain, peripheral edema, jaw swelling, neck swelling, gum pain, mouth pain, pain in gums
+
+Disease: tooth disorder
+Symptoms: headache, toothache, facial pain, mouth ulcer, peripheral edema, ear pain, jaw swelling, gum pain, bleeding gums, pain in gums
+
+Disease: torticollis
+Symptoms: abnormal involuntary movements, throat swelling, headache, arm pain, neck pain, neck stiffness or tightness, shoulder pain, neck cramps or spasms
+
+Disease: tourette syndrome
+Symptoms: depressive or psychotic symptoms, abnormal involuntary movements, drug abuse, headache, allergic reaction
+
+Disease: toxic multinodular goiter
+Symptoms: abnormal involuntary movements, irregular heartbeat, involuntary urination, double vision, fatigue
+
+Disease: toxoplasmosis
+Symptoms: emotional symptoms, diminished vision
+
+Disease: tracheitis
+Symptoms: shortness of breath, hoarse voice, sore throat, cough, nasal congestion, fever, sneezing
+
+Disease: transient ischemic attack
+Symptoms: depressive or psychotic symptoms, dizziness, difficulty speaking, headache, weakness, loss of sensation, focal weakness, symptoms of the face, disturbance of memory, paresthesia
+
+Disease: trichiasis
+Symptoms: emotional symptoms, diminished vision, foreign body sensation in eye, eye redness, eyelid lesion or rash
+
+Disease: trichinosis
+Symptoms: nasal congestion, knee lump or mass
+
+Disease: trichomonas infection
+Symptoms: sharp abdominal pain, vomiting, nausea, vaginal itching, lower abdominal pain, vaginal discharge, pain during pregnancy, unpredictable menstruation
+
+Disease: tricuspid valve disease
+Symptoms: anxiety and nervousness, emotional symptoms
+
+Disease: trigeminal neuralgia
+Symptoms: dizziness, abnormal involuntary movements, headache, toothache, facial pain, pain in eye, symptoms of the face
+
+Disease: trigger finger (finger disorder)
+Symptoms: hand or finger pain, wrist pain, hand or finger swelling, hand or finger stiffness or tightness, bones are painful, hand or finger cramps or spasms
+
+Disease: tuberculosis
+Symptoms: shortness of breath, cough, vaginal itching, congestion in chest
+
+Disease: tuberous sclerosis
+Symptoms: depressive or psychotic symptoms, elbow weakness, seizures
+
+Disease: turner syndrome
+Symptoms: depression, emotional symptoms
+
+Disease: typhoid fever
+Symptoms: wrist pain, fever
+
+Disease: ulcerative colitis
+Symptoms: blood in stool, sharp abdominal pain, vomiting, nausea, diarrhea, lower abdominal pain, swollen lymph nodes, burning abdominal pain, rectal bleeding
+
+Disease: urethral disorder
+Symptoms: retention of urine, suprapubic pain, abusing alcohol, sharp abdominal pain, vomiting, painful urination, involuntary urination, side pain
+
+Disease: urethral stricture
+Symptoms: retention of urine, suprapubic pain, symptoms of the scrotum and testes, painful urination, involuntary urination, blood in urine, symptoms of prostate, symptoms of bladder
+
+Disease: urethral valves
+Symptoms: suprapubic pain, elbow weakness, sharp abdominal pain, lower abdominal pain, side pain
+
+Disease: urethritis
+Symptoms: retention of urine, suprapubic pain, sharp abdominal pain, vaginal itching, painful urination, frequent urination, blood in urine, penis pain, penile discharge
+
+Disease: urge incontinence
+Symptoms: retention of urine, vaginal itching, painful urination, involuntary urination, frequent urination, blood in urine, excessive urination at night, constipation, symptoms of bladder
+
+Disease: urinary tract infection
+Symptoms: retention of urine, suprapubic pain, vomiting, nausea, painful urination, frequent urination, lower abdominal pain, blood in urine, back pain, side pain, fever
+
+Disease: urinary tract obstruction
+Symptoms: retention of urine, suprapubic pain, sharp abdominal pain, painful urination, frequent urination, blood in urine, back pain, side pain, symptoms of prostate, excessive urination at night
+
+Disease: uterine atony
+Symptoms: sharp abdominal pain, lower abdominal pain, blood in urine, intermenstrual bleeding, pain during pregnancy, problems during pregnancy, spotting or bleeding during pregnancy, uterine contractions, back cramps or spasms
+
+Disease: uterine cancer
+Symptoms: groin mass, pelvic pain, vaginal bleeding after menopause
+
+Disease: uterine fibroids
+Symptoms: sharp abdominal pain, involuntary urination, lower abdominal pain, intermenstrual bleeding, pelvic pain, cramps and spasms, heavy menstrual flow, unpredictable menstruation, painful menstruation
+
+Disease: uveitis
+Symptoms: elbow weakness, diminished vision, symptoms of eye
+
+Disease: vacterl syndrome
+Symptoms: suprapubic pain, emotional symptoms
+
+Disease: vaginal cyst
+Symptoms: sharp abdominal pain, lower abdominal pain, vaginal discharge, intermenstrual bleeding, pain during pregnancy, pelvic pain, vaginal pain, problems during pregnancy, spotting or bleeding during pregnancy, cramps and spasms, blood clots during menstrual periods, heavy menstrual flow
+
+Disease: vaginal yeast infection
+Symptoms: suprapubic pain, sharp abdominal pain, vaginal itching, painful urination, lower abdominal pain, vaginal discharge, vaginal pain, vaginal redness, vulvar irritation, itching of skin
+
+Disease: vaginismus
+Symptoms: suprapubic pain, sharp abdominal pain, pain during intercourse, lower abdominal pain, pelvic pain, vaginal pain
+
+Disease: vaginitis
+Symptoms: suprapubic pain, sharp abdominal pain, vaginal itching, painful urination, pain during intercourse, lower abdominal pain, vaginal discharge, pain during pregnancy, pelvic pain, vaginal pain, vaginal redness
+
+Disease: valley fever
+Symptoms: shortness of breath, hand or finger pain, fever, shoulder swelling
+
+Disease: varicocele of the testicles
+Symptoms: symptoms of the scrotum and testes, swelling of scrotum, pain in testicles, mass in scrotum, involuntary urination, lower abdominal pain, skin growth, pain of the anus, groin pain, infertility
+
+Disease: varicose veins
+Symptoms: leg pain, skin lesion, peripheral edema, leg swelling, leg cramps or spasms, ache all over, lymphedema, leg lump or mass
+
+Disease: vasculitis
+Symptoms: dizziness, leg pain, headache, skin lesion, foot or toe swelling, leg stiffness or tightness, lymphedema, skin rash
+
+Disease: venous insufficiency
+Symptoms: leg pain, abnormal appearing skin, skin lesion, leg cramps or spasms, lymphedema, skin on leg or foot looks infected, fluid retention, burning chest pain
+
+Disease: vertebrobasilar insufficiency
+Symptoms: sharp chest pain, dizziness, leg pain, back pain
+
+Disease: vesicoureteral reflux
+Symptoms: suprapubic pain, involuntary urination, blood in urine, fever
+
+Disease: viral exanthem
+Symptoms: cough, nasal congestion, skin swelling, vomiting, abnormal appearing skin, decreased appetite, fever, pulling at ears, itching of skin, skin rash
+
+Disease: viral hepatitis
+Symptoms: abusing alcohol, sharp abdominal pain, hand or finger stiffness or tightness, stomach bloating, melena
+
+Disease: viral warts
+Symptoms: skin swelling, lip swelling, abnormal appearing skin, skin lesion, acne or pimples, skin growth, skin moles, warts, bumps on penis
+
+Disease: vitamin a deficiency
+Symptoms: hand or finger pain, knee lump or mass
+
+Disease: vitamin b12 deficiency
+Symptoms: hot flashes, problems with movement, knee stiffness or tightness, disturbance of memory, fatigue
+
+Disease: vitamin d deficiency
+Symptoms: hot flashes, arm stiffness or tightness, fatigue
+
+Disease: vitreous degeneration
+Symptoms: diminished vision, double vision, symptoms of eye, pain in eye, foreign body sensation in eye, spots or clouds in vision, eye redness, lacrimation
+
+Disease: vitreous hemorrhage
+Symptoms: diminished vision, symptoms of eye, pain in eye, spots or clouds in vision, lacrimation, blindness
+
+Disease: vocal cord polyp
+Symptoms: hoarse voice, sore throat, difficulty speaking, throat swelling, throat feels tight
+
+Disease: volvulus
+Symptoms: depressive or psychotic symptoms, elbow weakness, sharp abdominal pain, vomiting
+
+Disease: von willebrand disease
+Symptoms: blood in stool, muscle swelling, nosebleed
+
+Disease: vulvar cancer
+Symptoms: insomnia, emotional symptoms, back pain
+
+Disease: vulvar disorder
+Symptoms: vaginal itching, pain during intercourse, vaginal discharge, vaginal pain, vulvar irritation, skin dryness, peeling, scaliness, or roughness
+
+Disease: vulvodynia
+Symptoms: sharp abdominal pain, nausea, painful urination, lower abdominal pain, vaginal discharge, back pain, pain during pregnancy, pelvic pain, burning abdominal pain, vaginal pain, side pain, cramps and spasms
+
+Disease: wernicke korsakoff syndrome
+Symptoms: anxiety and nervousness, depressive or psychotic symptoms, abusing alcohol
+
+Disease: white blood cell disease
+Symptoms: cough, sharp abdominal pain, vomiting, nausea, diarrhea, heartburn, fever, chills, fatigue
+
+Disease: whooping cough
+Symptoms: shortness of breath, sore throat, cough, nasal congestion, vomiting
+
+Disease: wilson disease
+Symptoms: insomnia, cough, sleepiness
+
+Disease: yeast infection
+Symptoms: suprapubic pain, sharp abdominal pain, vaginal itching, frequent urination, vaginal discharge, pelvic pain, vaginal pain, skin rash, diaper rash
+
+Disease: zenker diverticulum
+Symptoms: sharp chest pain, sore throat, elbow weakness
+
