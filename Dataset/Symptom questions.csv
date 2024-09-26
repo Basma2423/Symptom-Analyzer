@@ -1,0 +1,378 @@
+Symptoms,Question_en,Question_ar
+anxiety and nervousness,Do you feel anxious or nervous?,هل تشعر بالقلق أو التوتر؟
+depression,Do you feel depressed?,هل تشعر بالاكتئاب؟
+shortness of breath,Are you experiencing shortness of breath?,هل تعاني من ضيق في التنفس؟
+depressive or psychotic symptoms,Do you have depressive or psychotic symptoms?,هل لديك أعراض اكتئاب أو أعراض نفسية أخرى؟
+sharp chest pain,Are you feeling a sharp pain in your chest?,هل تشعر بألم حاد في صدرك؟
+dizziness,Do you often feel dizzy?,هل غالبًا ما تشعر بالدوار؟
+insomnia,Are you having trouble sleeping (insomnia)?,هل تعاني من صعوبة في النوم (أرق)؟
+abnormal involuntary movements,Do you experience abnormal involuntary movements?,هل تعاني من حركات غير إرادية غير طبيعية؟
+chest tightness,Do you feel tightness in your chest?,هل تشعر بشد في صدرك؟
+palpitations,Do you experience palpitations?,هل تعاني من خفقان القلب؟
+irregular heartbeat,Is your heartbeat irregular?,هل نبض قلبك غير منتظم؟
+breathing fast,Are you breathing fast?,هل تتنفس بسرعة؟
+hoarse voice,Is your voice hoarse?,هل صوتك أجش؟
+sore throat,Do you have a sore throat?,هل لديك التهاب في الحلق؟
+difficulty speaking,Are you having difficulty speaking?,هل تعاني من صعوبة في الكلام؟
+cough,Are you coughing?,هل تسعل؟
+nasal congestion,Do you have nasal congestion?,هل لديك احتقان في الأنف؟
+throat swelling,Is your throat swollen?,هل حلقك متورم؟
+diminished hearing,Have you noticed diminished hearing?,هل لاحظت انخفاضًا في السمع؟
+lump in throat,Do you feel a lump in your throat?,هل تشعر بوجود كتلة في حلقك؟
+throat feels tight,Does your throat feel tight?,هل تشعر بأن حلقك مشدود؟
+difficulty in swallowing,Are you having difficulty swallowing?,هل تعاني من صعوبة في البلع؟
+skin swelling,Is your skin swollen?,هل جلدك متورم؟
+retention of urine,Are you having difficulty urinating or retaining urine?,هل تعاني من صعوبة في التبول أو الاحتفاظ بالبول؟
+groin mass,Do you have a mass in your groin?,هل لديك كتلة في الفخذ؟
+leg pain,Do you feel pain in your legs?,هل تشعر بألم في ساقيك؟
+hip pain,Do you have hip pain?,هل لديك ألم في الورك؟
+suprapubic pain,Do you feel pain in your lower abdomen (suprapubic area)?,هل تشعر بألم في أسفل البطن (منطقة العانة)؟
+blood in stool,Have you noticed blood in your stool?,هل لاحظت دمًا في برازك؟
+lack of growth,Are you concerned about lack of growth?,هل تشعر بالقلق بشأن نقص النمو؟
+emotional symptoms,Are you experiencing emotional symptoms?,هل تعاني من أعراض عاطفية؟
+elbow weakness,Do you feel weakness in your elbow?,هل تشعر بضعف في مرفقك؟
+back weakness,Do you feel weakness in your back?,هل تشعر بضعف في ظهرك؟
+pus in sputum,Is there pus in your sputum?,هل يوجد صديد في البلغم الخاص بك؟
+symptoms of the scrotum and testes,Do you have symptoms related to your scrotum or testes?,هل لديك أعراض تتعلق بكيس الصفن أو الخصيتين؟
+swelling of scrotum,Is your scrotum swollen?,هل كيس الصفن لديك متورم؟
+pain in testicles,Are you experiencing pain in your testicles?,هل تشعر بألم في خصيتيك؟
+flatulence,Are you experiencing excessive gas (flatulence)?,هل تعاني من غازات مفرطة (انتفاخ)؟
+pus draining from ear,Is there pus draining from your ear?,هل هناك صديد يتسرب من أذنك؟
+jaundice,Do you have jaundice (yellow skin or eyes)?,هل لديك يرقان (جلد أو عيون صفراء)؟
+mass in scrotum,Have you noticed a mass in your scrotum?,هل لاحظت كتلة في كيس الصفن؟
+white discharge from eye,Is there a white discharge from your eye?,هل هناك إفراز أبيض من عينك؟
+irritable infant,Is your infant irritable?,هل طفلك عصبي؟
+abusing alcohol,Are you concerned about alcohol abuse?,هل تشعر بالقلق بشأن إساءة استخدام الكحول؟
+fainting,Have you experienced fainting?,هل شعرت بالإغماء؟
+hostile behavior,Are you displaying hostile behavior?,هل تظهر سلوكًا عدوانيًا؟
+drug abuse,Are you concerned about drug abuse?,هل تشعر بالقلق بشأن إساءة استخدام المخدرات؟
+sharp abdominal pain,Are you feeling sharp pain in your abdomen?,هل تشعر بألم حاد في البطن؟
+feeling ill,Do you generally feel unwell?,هل تشعر عمومًا بعدم الارتياح؟
+vomiting,Have you been vomiting?,هل كنت تتقيأ؟
+headache,Do you have headaches?,هل لديك صداع؟
+nausea,Do you feel nauseous?,هل تشعر بالغثيان؟
+diarrhea,Are you experiencing diarrhea?,هل تعاني من إسهال؟
+vaginal itching,Do you have vaginal itching?,هل لديك حكة مهبلية؟
+vaginal dryness,Are you experiencing vaginal dryness?,هل تعاني من جفاف مهبلي؟
+painful urination,Do you have painful urination?,هل لديك ألم أثناء التبول؟
+involuntary urination,Are you urinating involuntarily?,هل تتبول بشكل غير إرادي؟
+pain during intercourse,Is intercourse painful?,هل الجماع مؤلم؟
+frequent urination,Do you urinate frequently?,هل تتبول بشكل متكرر؟
+lower abdominal pain,Do you have lower abdominal pain?,هل لديك ألم في أسفل البطن؟
+vaginal discharge,Is there an unusual vaginal discharge?,هل هناك إفراز غير عادي من المهبل؟
+blood in urine,Have you noticed blood in your urine?,هل لاحظت دمًا في البول؟
+hot flashes,Are you experiencing hot flashes?,هل تعاني من الهبات الساخنة؟
+intermenstrual bleeding,Do you have bleeding between menstrual periods?,هل لديك نزيف بين فترات الحيض؟
+hand or finger pain,Do your hands or fingers hurt?,هل تشعر بألم في يديك أو أصابعك؟
+wrist pain,Do you feel wrist pain?,هل تشعر بألم في معصمك؟
+hand or finger swelling,Are your hands or fingers swollen?,هل يديك أو أصابعك متورمة؟
+arm pain,Do you feel pain in your arm?,هل تشعر بألم في ذراعك؟
+wrist swelling,Is your wrist swollen?,هل معصمك متورم؟
+arm stiffness or tightness,Is your arm stiff or tight?,هل ذراعك متصلب أو مشدود؟
+arm swelling,Is your arm swollen?,هل ذراعك متورم؟
+hand or finger stiffness or tightness,Do your hands or fingers feel stiff or tight?,هل تشعر بأن يديك أو أصابعك متصلبة أو مشدودة؟
+wrist stiffness or tightness,Is your wrist stiff or tight?,هل معصمك متصلب أو مشدود؟
+lip swelling,Are your lips swollen?,هل شفاهك متورمة؟
+toothache,Do you have a toothache?,هل لديك ألم في الأسنان؟
+abnormal appearing skin,Is your skin abnormal in appearance?,هل جلدك غير طبيعي في المظهر؟
+skin lesion,Do you have a skin lesion?,هل لديك آفة جلدية؟
+acne or pimples,Do you have acne or pimples?,هل لديك حب الشباب أو بثور؟
+dry lips,Are your lips dry?,هل شفاهك جافة؟
+facial pain,Do you feel pain in your face?,هل تشعر بألم في وجهك؟
+mouth ulcer,Do you have sores in your mouth?,هل لديك قروح في فمك؟
+skin growth,Do you have an abnormal skin growth?,هل لديك نمو غير طبيعي في الجلد؟
+eye deviation,Are your eyes not aligned properly?,هل عينيك غير متوازيتين بشكل صحيح؟
+diminished vision,Have you noticed diminished vision?,هل لاحظت انخفاضًا في الرؤية؟
+double vision,Are you experiencing double vision?,هل تعاني من رؤية مزدوجة؟
+cross-eyed,Are your eyes crossing?,هل عينيك متقاطعتين؟
+symptoms of eye,Do you have any eye-related symptoms?,هل لديك أي أعراض متعلقة بالعين؟
+pain in eye,Do you feel pain in your eye?,هل تشعر بألم في عينك؟
+eye moves abnormally,Are your eyes moving abnormally?,هل تتحرك عينيك بشكل غير طبيعي؟
+abnormal movement of eyelid,Is your eyelid moving abnormally?,هل جفونك تتحرك بشكل غير طبيعي؟
+foreign body sensation in eye,Do you feel a foreign body sensation in your eye?,هل تشعر بوجود جسم غريب في عينك؟
+irregular appearing scalp,Does your scalp appear irregular?,هل فروة رأسك تبدو غير منتظمة؟
+swollen lymph nodes,Do you have swollen lymph nodes?,هل لديك غدد ليمفاوية متورمة؟
+back pain,Do you have back pain?,هل لديك ألم في الظهر؟
+neck pain,Do you have neck pain?,هل لديك ألم في الرقبة؟
+low back pain,Do you experience low back pain?,هل تعاني من ألم أسفل الظهر؟
+pain of the anus,Do you have pain around your anus?,هل لديك ألم حول فتحة الشرج؟
+pain during pregnancy,Are you experiencing pain during pregnancy?,هل تعاني من ألم أثناء الحمل؟
+pelvic pain,Do you have pelvic pain?,هل لديك ألم في الحوض؟
+impotence,Are you having problems with erections (impotence)?,هل لديك مشاكل في الانتصاب (عجز جنسي)؟
+infant spitting up,Does your infant spit up frequently?,هل يخرج طفلك الطعام كثيرًا؟
+vomiting blood,Have you vomited blood?,هل تقيأت دمًا؟
+regurgitation,Are you regurgitating food or liquid?,هل تعاني من ارتجاع الطعام أو السوائل؟
+burning abdominal pain,Are you feeling burning pain in your abdomen?,هل تشعر بألم حارق في بطنك؟
+restlessness,Do you feel restless?,هل تشعر بالقلق؟
+symptoms of infants,Are you concerned about symptoms in your infant?,هل تشعر بالقلق بشأن أعراض في طفلك؟
+wheezing,Are you wheezing?,هل تعاني من صفير عند التنفس؟
+peripheral edema,Do you have swelling in your arms or legs?,هل لديك تورم في ذراعيك أو ساقيك؟
+neck mass,Do you have a neck mass?,هل لديك كتلة في الرقبة؟
+ear pain,Are you experiencing ear pain?,هل تعاني من ألم في الأذن؟
+jaw swelling,Do you have swelling in your jaw?,هل لديك تورم في الفك؟
+mouth dryness,Do you have dry mouth?,هل تعاني من جفاف في الفم؟
+neck swelling,Is your neck swollen?,هل رقبتك متورمة؟
+knee pain,Do you have knee pain?,هل لديك ألم في الركبة؟
+foot or toe pain,Do you feel pain in your foot or toes?,هل تشعر بألم في قدمك أو أصابعك؟
+bowlegged or knock-kneed,Are you bowlegged or knock-kneed?,هل لديك أرجل مقوسة أو متقاطعة؟
+ankle pain,Do you have ankle pain?,هل لديك ألم في الكاحل؟
+bones are painful,Do your bones hurt?,هل تشعر بألم في عظامك؟
+knee weakness,Do you feel weakness in your knees?,هل تشعر بضعف في ركبتيك؟
+elbow pain,Do you feel pain in your elbow?,هل تشعر بألم في مرفقك؟
+knee swelling,Is your knee swollen?,هل ركبتيك متورمتين؟
+skin moles,Do you have skin moles?,هل لديك شامات جلدية؟
+knee lump or mass,Do you have a lump or mass in your knee?,هل لديك كتلة أو ورم في ركبتيك؟
+weight gain,Have you gained weight recently?,هل زدت وزنًا مؤخرًا؟
+problems with movement,Do you have problems with movement?,هل لديك مشاكل في الحركة؟
+knee stiffness or tightness,Is your knee stiff or tight?,هل ركبتيك متصلبتين أو مشدودتين؟
+leg swelling,Are your legs swollen?,هل ساقيك متورمتين؟
+foot or toe swelling,Are your feet or toes swollen?,هل قدميك أو أصابع قدميك متورمة؟
+heartburn,Do you have heartburn?,هل تعاني من حرقة في المعدة؟
+smoking problems,Do you have issues related to smoking?,هل لديك مشكلات تتعلق بالتدخين؟
+muscle pain,Do you experience muscle pain?,هل تشعر بألم في العضلات؟
+infant feeding problem,Is your infant having problems feeding?,هل يواجه طفلك مشاكل في الرضاعة؟
+recent weight loss,Have you experienced recent weight loss?,هل عانيت من فقدان وزن مؤخرًا؟
+problems with shape or size of breast,Do you have concerns about the shape or size of your breast?,هل لديك مخاوف بشأن شكل أو حجم ثدييك؟
+underweight,Are you underweight?,هل تعاني من نقص الوزن؟
+difficulty eating,Are you having difficulty eating?,هل تواجه صعوبة في الأكل؟
+scanty menstrual flow,Do you have scanty menstrual flow?,هل لديك تدفق حيض قليل؟
+vaginal pain,Do you have vaginal pain?,هل تشعر بألم في المهبل؟
+vaginal redness,Are you experiencing vaginal redness?,هل تعاني من احمرار في المهبل؟
+vulvar irritation,Do you feel irritation in your vulva?,هل تشعر بتهيج في منطقة الفرج؟
+weakness,Do you feel weakness?,هل تشعر بالضعف؟
+decreased heart rate,Do you have a decreased heart rate?,هل لديك انخفاض في معدل ضربات القلب؟
+increased heart rate,Is your heart rate increased?,هل زاد معدل ضربات قلبك؟
+bleeding or discharge from nipple,Have you noticed bleeding or discharge from your nipple?,هل لاحظت نزيفًا أو إفرازات من حلمة الثدي؟
+ringing in ear,Do you have ringing in your ears?,هل لديك طنين في الأذنين؟
+plugged feeling in ear,Do you feel a plugged sensation in your ear?,هل تشعر بإحساس مسدود في أذنك؟
+itchy ear(s),Are your ears itchy?,هل تشعر بحكة في أذنيك؟
+frontal headache,Do you have a frontal headache?,هل لديك صداع في الجبهة؟
+fluid in ear,Is there fluid in your ear?,هل يوجد سائل في أذنك؟
+neck stiffness or tightness,Do you feel stiffness in your neck?,هل تشعر بتيبس في عنقك؟
+spots or clouds in vision,Do you see spots or clouds in your vision?,هل ترى بقعًا أو سحبًا في رؤيتك؟
+eye redness,Are your eyes red?,هل عيناك حمراوان؟
+lacrimation,Are your eyes tearing?,هل تعاني من تمزق في عينيك؟
+itchiness of eye,Do your eyes itch?,هل تشعر بحكة في عينيك؟
+blindness,Are you experiencing blindness?,هل تعاني من العمى؟
+eye burns or stings,Do your eyes burn or sting?,هل تحترق أو تؤلم عينيك؟
+itchy eyelid,Are your eyelids itchy?,هل تعاني من حكة في جفونك؟
+feeling cold,Do you feel cold?,هل تشعر بالبرد؟
+decreased appetite,Is your appetite decreased?,هل قلّ شهيتك؟
+excessive appetite,Do you have an excessive appetite?,هل لديك شهية مفرطة؟
+excessive anger,Are you experiencing excessive anger?,هل تعاني من غضب مفرط؟
+loss of sensation,Do you feel a loss of sensation?,هل تشعر بفقدان الإحساس؟
+focal weakness,Do you have focal weakness?,هل لديك ضعف بؤري؟
+slurring words,Are you slurring your words?,هل تتلعثم في كلامك؟
+symptoms of the face,Are you experiencing facial symptoms?,هل تعاني من أعراض في الوجه؟
+disturbance of memory,Do you have memory disturbances?,هل لديك اضطرابات في الذاكرة؟
+paresthesia,Do you have tingling (paresthesia)?,هل تشعر بوخز (تنميل)؟
+side pain,Do you have pain in your side?,هل تشعر بألم في جانبك؟
+fever,Do you have a fever?,هل لديك حمى؟
+shoulder pain,Do you have shoulder pain?,هل لديك ألم في الكتف؟
+shoulder stiffness or tightness,Do you feel stiffness or tightness in your shoulder?,هل تشعر بتيبس أو ضيق في كتفك؟
+shoulder weakness,Do you feel weakness in your shoulder?,هل تشعر بالضعف في كتفك؟
+arm cramps or spasms,Do you have cramps or spasms in your arm?,هل لديك تقلصات أو تشنجات في ذراعك؟
+shoulder swelling,Is your shoulder swollen?,هل كتفك متورمة؟
+tongue lesions,Do you have lesions on your tongue?,هل لديك آفات على لسانك؟
+leg cramps or spasms,Do you experience leg cramps or spasms?,هل تعاني من تقلصات أو تشنجات في ساقيك؟
+abnormal appearing tongue,Is your tongue abnormal in appearance?,هل يبدو لسانك غير طبيعي؟
+ache all over,Do you ache all over?,هل تشعر بالألم في جميع أنحاء جسمك؟
+lower body pain,Do you have pain in your lower body?,هل لديك ألم في الجزء السفلي من جسمك؟
+problems during pregnancy,Are you experiencing problems during pregnancy?,هل تواجه مشكلات أثناء الحمل؟
+spotting or bleeding during pregnancy,Have you had spotting or bleeding during pregnancy?,هل لاحظت نزيفًا أو بقع أثناء الحمل؟
+cramps and spasms,Do you experience cramps or spasms?,هل تعاني من تقلصات أو تشنجات؟
+upper abdominal pain,Do you feel pain in your upper abdomen?,هل تشعر بألم في الجزء العلوي من بطنك؟
+stomach bloating,Do you feel bloating in your stomach?,هل تشعر بالانتفاخ في معدتك؟
+changes in stool appearance,Have you noticed changes in stool appearance?,هل لاحظت تغيرات في مظهر البراز؟
+unusual color or odor to urine,Does your urine have an unusual color or odor?,هل لون أو رائحة بولك غير عادية؟
+kidney mass,Have you noticed a mass in your kidneys?,هل لاحظت كتلة في كليتيك؟
+swollen abdomen,Is your abdomen swollen?,هل بطنك متورم؟
+symptoms of prostate,Do you have prostate symptoms?,هل لديك أعراض تتعلق بالبروستاتا؟
+leg stiffness or tightness,Do you feel stiffness or tightness in your legs?,هل تشعر بتيبس أو ضيق في ساقيك؟
+difficulty breathing,Are you having difficulty breathing?,هل تواجه صعوبة في التنفس؟
+rib pain,Do you feel pain in your ribs?,هل تشعر بألم في أضلاعك؟
+joint pain,Do you experience joint pain?,هل تعاني من ألم في المفاصل؟
+muscle stiffness or tightness,Do you feel muscle stiffness or tightness?,هل تشعر بتيبس أو ضيق في العضلات؟
+pallor,Is your skin pale?,هل بشرتك شاحبة؟
+hand or finger lump or mass,Do you have a lump or mass in your hand or fingers?,هل لديك كتلة أو ورم في يدك أو أصابعك؟
+chills,Do you have chills?,هل لديك قشعريرة؟
+groin pain,Do you feel pain in your groin?,هل تشعر بألم في الفخذ؟
+fatigue,Do you feel fatigued?,هل تشعر بالتعب؟
+abdominal distention,Do you have abdominal distension?,هل لديك انتفاخ في البطن؟
+regurgitation.1,Do you have regurgitation?,هل لديك ارتجاع؟
+symptoms of the kidneys,Do you have kidney-related symptoms?,هل لديك أعراض تتعلق بالكلى؟
+melena,"Have you noticed black, tarry stools (melena)?",هل لاحظت برازًا أسود أو لزجًا (ميلينا)؟
+flushing,Do you feel flushed?,هل تشعر بالاحمرار في الوجه؟
+coughing up sputum,Are you coughing up sputum?,هل تسعل بلغم؟
+seizures,Have you had seizures?,هل تعرضت لنوبات؟
+delusions or hallucinations,Do you experience delusions or hallucinations?,هل تعاني من أوهام أو هلوسات؟
+shoulder cramps or spasms,Do you have cramps or spasms in your shoulder?,هل لديك تقلصات أو تشنجات في كتفك؟
+joint stiffness or tightness,Do you feel stiffness or tightness in your joints?,هل تشعر بتيبس أو ضيق في مفاصلك؟
+pain or soreness of breast,Are your breasts painful or sore?,هل تشعر بألم أو انزعاج في ثدييك؟
+excessive urination at night,Do you urinate excessively at night?,هل تتبول بشكل مفرط ليلاً؟
+bleeding from eye,Are you bleeding from your eye?,هل لديك نزيف من عينك؟
+rectal bleeding,Have you had rectal bleeding?,هل تعرضت لنزيف شرجي؟
+constipation,Are you constipated?,هل تعاني من الإمساك؟
+temper problems,Do you have temper problems?,هل لديك مشاكل في المزاج؟
+coryza,Do you have nasal congestion?,هل تعاني من احتقان الأنف؟
+wrist weakness,Do you have wrist weakness?,هل لديك ضعف في المعصم؟
+eye strain,Do your eyes feel strained?,هل تشعر بإرهاق في عينيك؟
+hemoptysis,Are you coughing up blood (hemoptysis)?,هل تسعل دمًا (نفث دموي)؟
+lymphedema,Do you have lymphedema (swelling in the lymph nodes)?,هل لديك وذمة لمفية (تورم في الغدد اللمفاوية)؟
+skin on leg or foot looks infected,Does your skin on your leg or foot look infected?,هل تبدو بشرتك في ساقك أو قدمك مصابة؟
+allergic reaction,Are you having an allergic reaction?,هل تعاني من رد فعل تحسسي؟
+congestion in chest,Do you have chest congestion?,هل لديك احتقان في الصدر؟
+muscle swelling,Do your muscles feel swollen?,هل تشعر بتورم في عضلاتك؟
+pus in urine,Is there pus in your urine?,هل يوجد صديد في بولك؟
+abnormal size or shape of ear,Is the size or shape of your ear abnormal?,هل حجم أو شكل أذنك غير طبيعي؟
+low back weakness,Do you feel weakness in your lower back?,هل تشعر بالضعف في أسفل ظهرك؟
+sleepiness,Do you feel excessively sleepy?,هل تشعر بالنعاس بشكل مفرط؟
+apnea,Are you experiencing sleep apnea?,هل تعاني من انقطاع النفس أثناء النوم؟
+abnormal breathing sounds,Do you have abnormal breathing sounds?,هل لديك أصوات تنفس غير طبيعية؟
+excessive growth,Are you experiencing excessive growth?,هل تعاني من نمو مفرط؟
+elbow cramps or spasms,Do you have cramps or spasms in your elbow?,هل لديك تقلصات أو تشنجات في كوعك؟
+feeling hot and cold,Do you feel hot and cold?,هل تشعر بالحر والبرودة؟
+blood clots during menstrual periods,Have you noticed blood clots during your menstrual periods?,هل لاحظت جلطات دموية خلال فترات الحيض؟
+absence of menstruation,Do you have an absence of menstruation?,هل لديك غياب في الحيض؟
+pulling at ears,Does your infant pull at their ears?,هل يسحب طفلك آذانه؟
+gum pain,Do you feel pain in your gums?,هل تشعر بألم في لثتك؟
+redness in ear,Are your ears red?,هل أذنيك حمراوان؟
+fluid retention,Are you retaining fluid?,هل تحتفظ بالسوائل؟
+flu-like syndrome,Are you experiencing flu-like symptoms?,هل تعاني من أعراض مشابهة للإنفلونزا؟
+sinus congestion,Do you have sinus congestion?,هل تعاني من احتقان الجيوب الأنفية؟
+painful sinuses,Do your sinuses feel painful?,هل تشعر بألم في الجيوب الأنفية؟
+fears and phobias,Are you experiencing fears or phobias?,هل تعاني من مخاوف أو رهاب؟
+recent pregnancy,Have you had a recent pregnancy?,هل كانت لديك حمل مؤخرًا؟
+uterine contractions,Do you have uterine contractions?,هل لديك انقباضات رحمية؟
+burning chest pain,Do you feel burning pain in your chest?,هل تشعر بألم حارق في صدرك؟
+back cramps or spasms,Do you have cramps or spasms in your back?,هل لديك تقلصات أو تشنجات في ظهرك؟
+stiffness all over,Do you feel stiffness all over?,هل تشعر بالتيبس في جميع أنحاء جسمك؟
+"muscle cramps, contractures, or spasms","Do you have muscle cramps, contractures, or spasms?",هل لديك تقلصات أو تشنجات في العضلات؟
+low back cramps or spasms,Do you have cramps or spasms in your lower back?,هل لديك تقلصات أو تشنجات في أسفل ظهرك؟
+back mass or lump,Do you have a lump or mass in your back?,هل لديك كتلة أو ورم في ظهرك؟
+nosebleed,Have you had a nosebleed?,هل تعرضت لنزيف من أنفك؟
+long menstrual periods,Are your menstrual periods long?,هل فترات حيضك طويلة؟
+heavy menstrual flow,Is your menstrual flow heavy?,هل تدفق الحيض لديك كثيف؟
+unpredictable menstruation,Is your menstruation unpredictable?,هل حيضك غير منتظم؟
+painful menstruation,Are your menstrual periods painful?,هل فترات حيضك مؤلمة؟
+infertility,Are you experiencing infertility?,هل تعاني من العقم؟
+frequent menstruation,Do you menstruate frequently?,هل لديك حيض متكرر؟
+sweating,Do you sweat excessively?,هل تتعرق بشكل مفرط؟
+mass on eyelid,Do you have a mass on your eyelid?,هل لديك كتلة على جفنك؟
+swollen eye,Are your eyes swollen?,هل عيناك متورمتان؟
+eyelid swelling,Is your eyelid swollen?,هل جفنك متورم؟
+eyelid lesion or rash,Do you have a lesion or rash on your eyelid?,هل لديك آفة أو طفح جلدي على جفنك؟
+unwanted hair,Do you have unwanted hair growth?,هل لديك نمو غير مرغوب فيه للشعر؟
+symptoms of bladder,Do you have bladder symptoms?,هل لديك أعراض تتعلق بالمثانة؟
+irregular appearing nails,Are your nails irregular in appearance?,هل أظافرك غير منتظمة في المظهر؟
+itching of skin,Is your skin itchy?,هل بشرتك حكة؟
+hurts to breath,Does it hurt to breathe?,هل يؤلمك التنفس؟
+nailbiting,Do you bite your nails?,هل تعض أظافرك؟
+"skin dryness, peeling, scaliness, or roughness","Is your skin dry, peeling, scaly, or rough?",هل بشرتك جافة أو تتقشر أو خشنة؟
+skin on arm or hand looks infected,Does the skin on your arm or hand look infected?,هل تبدو بشرتك في ذراعك أو يدك مصابة؟
+skin irritation,Is your skin irritated?,هل بشرتك متهيجة؟
+itchy scalp,Is your scalp itchy?,هل فروة رأسك حكة؟
+hip swelling,Is your hip swollen?,هل وركك متورم؟
+incontinence of stool,Are you experiencing incontinence of stool?,هل تعاني من سلس البراز؟
+foot or toe cramps or spasms,Do you have cramps or spasms in your foot or toes?,هل لديك تقلصات أو تشنجات في قدمك أو أصابع قدميك؟
+warts,Do you have warts?,هل لديك ثآليل؟
+bumps on penis,Do you have bumps on your penis?,هل لديك نتوءات على قضيبك؟
+too little hair,Do you have too little hair?,هل لديك شعر قليل جدًا؟
+foot or toe lump or mass,Do you have a lump or mass in your foot or toes?,هل لديك كتلة أو ورم في قدمك أو أصابع قدميك؟
+skin rash,Do you have a skin rash?,هل لديك طفح جلدي؟
+mass or swelling around the anus,Do you have a mass or swelling around your anus?,هل لديك كتلة أو تورم حول الشرج؟
+low back swelling,Is your lower back swollen?,هل أسفل ظهرك متورم؟
+ankle swelling,Are your ankles swollen?,هل كاحلاك متورمان؟
+hip lump or mass,Do you have a lump or mass in your hip?,هل لديك كتلة أو ورم في وركك؟
+drainage in throat,Do you feel drainage in your throat?,هل تشعر بتصريف في حلقك؟
+dry or flaky scalp,Is your scalp dry or flaky?,هل فروة رأسك جافة أو متقشرة؟
+premenstrual tension or irritability,Are you experiencing premenstrual tension or irritability?,هل تعاني من توتر ما قبل الحيض أو انفعالية؟
+feeling hot,Do you feel hot?,هل تشعر بالحر؟
+feet turned in,Are your feet turned inward?,هل قدماك موجهتان نحو الداخل؟
+foot or toe stiffness or tightness,Do you feel stiffness or tightness in your foot or toes?,هل تشعر بتيبس أو ضيق في قدمك أو أصابع قدميك؟
+pelvic pressure,Do you feel pressure in your pelvis?,هل تشعر بضغط في حوضك؟
+elbow swelling,Is your elbow swollen?,هل كوعك متورم؟
+elbow stiffness or tightness,Is your elbow stiff or tight?,هل كوعك متصلب أو ضيق؟
+early or late onset of menopause,Have you noticed an early or late onset of menopause?,هل لاحظت بداية مبكرة أو متأخرة لانقطاع الطمث؟
+mass on ear,Do you have a mass on your ear?,هل لديك كتلة على أذنك؟
+bleeding from ear,Have you had bleeding from your ear?,هل تعرضت لنزيف من أذنك؟
+hand or finger weakness,Do you feel weakness in your hands or fingers?,هل تشعر بالضعف في يديك أو أصابعك؟
+low self-esteem,Do you have low self-esteem?,هل لديك تقدير منخفض للذات؟
+throat irritation,Do you feel throat irritation?,هل تشعر بتهيج في حلقك؟
+itching of the anus,Do you have itching around your anus?,هل لديك حكة حول الشرج؟
+swollen or red tonsils,Are your tonsils swollen or red?,هل لوزتيك متورمتان أو حمرتان؟
+irregular belly button,Does your belly button appear irregular?,هل يبدو سُرة بطنك غير منتظمة؟
+swollen tongue,Is your tongue swollen?,هل لسانك متورم؟
+lip sore,Do you have a sore on your lips?,هل لديك جرح على شفتيك؟
+vulvar sore,Do you have a sore on your vulva?,هل لديك جرح في منطقة الفرج؟
+hip stiffness or tightness,Do you feel stiffness or tightness in your hip?,هل تشعر بتيبس أو ضيق في وركك؟
+mouth pain,Do you feel pain in your mouth?,هل تشعر بألم في فمك؟
+arm weakness,Do you feel weakness in your arm?,هل تشعر بالضعف في ذراعك؟
+leg lump or mass,Do you have a lump or mass in your leg?,هل لديك كتلة أو ورم في ساقك؟
+disturbance of smell or taste,Do you experience disturbance of smell or taste?,هل تعاني من اضطراب في الشم أو التذوق؟
+discharge in stools,Do you have discharge in your stools?,هل لديك إفرازات في برازك؟
+penis pain,Do you feel pain in your penis?,هل تشعر بألم في قضيبك؟
+loss of sex drive,Do you have a loss of sex drive?,هل تعاني من فقدان الرغبة الجنسية؟
+obsessions and compulsions,Do you have obsessions or compulsions?,هل لديك وساوس أو قهريات؟
+antisocial behavior,Do you display antisocial behavior?,هل تظهر سلوكيات معادية للمجتمع؟
+neck cramps or spasms,Do you experience neck cramps or spasms?,هل تعاني من تشنجات أو تقلصات في الرقبة؟
+pupils unequal,Are your pupils unequal in size?,هل بؤبؤا عينيك غير متساويين في الحجم؟
+poor circulation,Do you have poor circulation?,هل لديك ضعف في الدورة الدموية؟
+thirst,Are you feeling thirsty?,هل تشعر بالعطش؟
+sleepwalking,Do you sleepwalk?,هل تسير أثناء النوم؟
+skin oiliness,Is your skin oily?,هل بشرتك دهنية؟
+sneezing,Are you sneezing?,هل تعاني من العطس؟
+bladder mass,Have you noticed a mass in your bladder?,هل لاحظت وجود كتلة في مثانتك؟
+knee cramps or spasms,Do you experience knee cramps or spasms?,هل تعاني من تشنجات أو تقلصات في الركبة؟
+premature ejaculation,Do you experience premature ejaculation?,هل تعاني من القذف المبكر؟
+leg weakness,Do you feel weakness in your legs?,هل تشعر بالضعف في ساقيك؟
+posture problems,Do you have posture problems?,هل لديك مشاكل في القوام؟
+bleeding in mouth,Have you had bleeding in your mouth?,هل كنت تعاني من نزيف في فمك؟
+tongue bleeding,Is your tongue bleeding?,هل لسانك ينزف؟
+change in skin mole size or color,Have you noticed changes in the size or color of a mole?,هل لاحظت تغيرات في حجم أو لون الشامة؟
+penis redness,Do you have redness on your penis?,هل لديك احمرار على قضيبك؟
+penile discharge,Is there discharge from your penis?,هل هناك إفرازات من قضيبك؟
+shoulder lump or mass,Do you have a lump or mass in your shoulder?,هل لديك كتلة أو ورم في كتفك؟
+polyuria,Do you urinate excessively (polyuria)?,هل تتبول بشكل مفرط (البول المتكرر)؟
+cloudy eye,Is your eye cloudy?,هل عينك تبدو ضبابية؟
+hysterical behavior,Are you displaying hysterical behavior?,هل تظهر عليك سلوكيات هستيرية؟
+arm lump or mass,Do you have a lump or mass in your arm?,هل لديك كتلة أو ورم في ذراعك؟
+nightmares,Do you have nightmares?,هل لديك كوابيس؟
+bleeding gums,Are your gums bleeding?,هل نزفت لثتك؟
+pain in gums,Do you feel pain in your gums?,هل تشعر بألم في لثتك؟
+bedwetting,Does your child wet the bed?,هل يبلل طفلك السرير؟
+diaper rash,Does your infant have diaper rash?,هل يعاني رضيعك من طفح الحفاض؟
+lump or mass of breast,Do you have a lump or mass in your breast?,هل لديك كتلة أو ورم في ثديك؟
+vaginal bleeding after menopause,Are you experiencing vaginal bleeding after menopause?,هل تعاني من نزيف مهبلي بعد انقطاع الطمث؟
+infrequent menstruation,Is your menstruation infrequent?,هل دورتك الشهرية غير منتظمة؟
+mass on vulva,Do you have a mass on your vulva?,هل لديك كتلة على الفرج؟
+jaw pain,Do you feel pain in your jaw?,هل تشعر بألم في فكك؟
+itching of scrotum,Does your scrotum itch?,هل كيس الصفن لديك يحك؟
+postpartum problems of the breast,Are you experiencing postpartum problems with your breast?,هل تعاني من مشاكل بعد الولادة مع ثديك؟
+eyelid retracted,Is your eyelid retracted?,هل جفنك مرتفع؟
+hesitancy,Are you experiencing difficulty urinating (hesitancy)?,هل تواجه صعوبة في التبول (التردد)؟
+elbow lump or mass,Do you have a lump or mass in your elbow?,هل لديك كتلة أو ورم في كوعك؟
+muscle weakness,Do your muscles feel weak?,هل تشعر بضعف في عضلاتك؟
+throat redness,Is your throat red?,هل حلقك أحمر؟
+joint swelling,Do your joints feel swollen?,هل تشعر بأن مفاصلك متورمة؟
+tongue pain,Do you feel pain in your tongue?,هل تشعر بألم في لسانك؟
+redness in or around nose,Is there redness in or around your nose?,هل هناك احمرار في أو حول أنفك؟
+wrinkles on skin,Do you have wrinkles on your skin?,هل لديك تجاعيد على بشرتك؟
+foot or toe weakness,Do you feel weakness in your foot or toes?,هل تشعر بالضعف في قدمك أو أصابع قدميك؟
+hand or finger cramps or spasms,Do you have cramps or spasms in your hands or fingers?,هل لديك تشنجات أو تقلصات في يديك أو أصابعك؟
+back stiffness or tightness,Does your back feel stiff or tight?,هل تشعر بأن ظهرك متصلب أو مشدود؟
+wrist lump or mass,Do you have a lump or mass in your wrist?,هل لديك كتلة أو ورم في معصمك؟
+skin pain,Does your skin hurt?,هل تؤلمك بشرتك؟
+low back stiffness or tightness,Do you feel stiffness or tightness in your lower back?,هل تشعر بتصلب أو شد في أسفل ظهرك؟
+low urine output,Do you have low urine output?,هل لديك انخفاض في كمية البول؟
+skin on head or neck looks infected,Does the skin on your head or neck look infected?,هل تبدو البشرة على رأسك أو رقبتك ملتهبة؟
+stuttering or stammering,Do you stutter or stammer?,هل تتلعثم أو تتردد؟
+problems with orgasm,Do you have problems with orgasm?,هل لديك مشاكل في النشوة؟
+nose deformity,Do you have a nose deformity?,هل لديك تشوه في الأنف؟
+lump over jaw,Do you have a lump over your jaw?,هل لديك كتلة فوق فكك؟
+sore in nose,Do you have a sore in your nose?,هل لديك جرح في أنفك؟
+hip weakness,Do you feel weakness in your hip?,هل تشعر بالضعف في وركك؟
+back swelling,Do you have swelling in your back?,هل لديك تورم في ظهرك؟
+ankle stiffness or tightness,Do your ankles feel stiff or tight?,هل تشعر بتصلب أو شد في كاحليك؟
+ankle weakness,Do your ankles feel weak?,هل تشعر بأن كاحليك ضعيفتان؟
+neck weakness,Do you feel weakness in your neck?,هل تشعر بالضعف في رقبتك؟
