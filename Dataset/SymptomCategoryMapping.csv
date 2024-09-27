@@ -1,0 +1,378 @@
+Symptom,Category,Category ID
+anxiety and nervousness,Mental,0
+depression,Mental,0
+shortness of breath,Chest and Respiratory System,6
+depressive or psychotic symptoms,Mental,0
+sharp chest pain,Chest and Respiratory System,6
+dizziness,Brain,1
+insomnia,Mental,0
+abnormal involuntary movements,Brain,1
+chest tightness,Chest and Respiratory System,6
+palpitations,Heart and Circulatory System,7
+irregular heartbeat,Heart and Circulatory System,7
+breathing fast,Chest and Respiratory System,6
+hoarse voice,Mouth and Throat,5
+sore throat,Mouth and Throat,5
+difficulty speaking,Mouth and Throat,5
+cough,Chest and Respiratory System,6
+nasal congestion,Nose,4
+throat swelling,Mouth and Throat,5
+diminished hearing,Ears,3
+lump in throat,Mouth and Throat,5
+throat feels tight,Mouth and Throat,5
+difficulty in swallowing,Mouth and Throat,5
+skin swelling,Skin and Hair,15
+retention of urine,Reproductive and Urinary System - General,11
+groin mass,Reproductive and Urinary System - General,11
+leg pain,Musculoskeletal System - Lower Limbs,14
+hip pain,Musculoskeletal System - Lower Limbs,14
+suprapubic pain,Reproductive and Urinary System - General,11
+blood in stool,Gastrointestinal System,8
+lack of growth,Endocrine/Metabolic System,16
+emotional symptoms,Mental,0
+elbow weakness,Musculoskeletal System - Upper Limbs,13
+back weakness,Musculoskeletal System - General,12
+pus in sputum,Chest and Respiratory System,6
+symptoms of the scrotum and testes,Reproductive and Urinary System - Male,10
+swelling of scrotum,Reproductive and Urinary System - Male,10
+pain in testicles,Reproductive and Urinary System - Male,10
+flatulence,Gastrointestinal System,8
+pus draining from ear,Ears,3
+jaundice,Endocrine/Metabolic System,16
+mass in scrotum,Reproductive and Urinary System - Male,10
+white discharge from eye,Eyes,2
+irritable infant,Mental,0
+abusing alcohol,Mental,0
+fainting,Brain,1
+hostile behavior,Mental,0
+drug abuse,Mental,0
+sharp abdominal pain,Gastrointestinal System,8
+feeling ill,Brain,1
+vomiting,Gastrointestinal System,8
+headache,Brain,1
+nausea,Gastrointestinal System,8
+diarrhea,Gastrointestinal System,8
+vaginal itching,Reproductive and Urinary System - Female,9
+vaginal dryness,Reproductive and Urinary System - Female,9
+painful urination,Reproductive and Urinary System - General,11
+involuntary urination,Reproductive and Urinary System - General,11
+pain during intercourse,Reproductive and Urinary System - Female,9
+frequent urination,Reproductive and Urinary System - General,11
+lower abdominal pain,Reproductive and Urinary System - General,11
+vaginal discharge,Reproductive and Urinary System - Female,9
+blood in urine,Reproductive and Urinary System - General,11
+hot flashes,Reproductive and Urinary System - Female,9
+intermenstrual bleeding,Reproductive and Urinary System - Female,9
+hand or finger pain,Musculoskeletal System - Upper Limbs,13
+wrist pain,Musculoskeletal System - Upper Limbs,13
+hand or finger swelling,Musculoskeletal System - Upper Limbs,13
+arm pain,Musculoskeletal System - Upper Limbs,13
+wrist swelling,Musculoskeletal System - Upper Limbs,13
+arm stiffness or tightness,Musculoskeletal System - Upper Limbs,13
+arm swelling,Musculoskeletal System - Upper Limbs,13
+hand or finger stiffness or tightness,Musculoskeletal System - Upper Limbs,13
+wrist stiffness or tightness,Musculoskeletal System - Upper Limbs,13
+lip swelling,Mouth and Throat,5
+toothache,Mouth and Throat,5
+abnormal appearing skin,Skin and Hair,15
+skin lesion,Skin and Hair,15
+acne or pimples,Skin and Hair,15
+dry lips,Mouth and Throat,5
+facial pain,Skin and Hair,15
+mouth ulcer,Mouth and Throat,5
+skin growth,Skin and Hair,15
+eye deviation,Eyes,2
+diminished vision,Eyes,2
+double vision,Eyes,2
+cross-eyed,Eyes,2
+symptoms of eye,Eyes,2
+pain in eye,Eyes,2
+eye moves abnormally,Eyes,2
+abnormal movement of eyelid,Eyes,2
+foreign body sensation in eye,Eyes,2
+irregular appearing scalp,Skin and Hair,15
+swollen lymph nodes,Lymphatic System,17
+back pain,Musculoskeletal System - General,12
+neck pain,Musculoskeletal System - General,12
+low back pain,Musculoskeletal System - General,12
+pain of the anus,Gastrointestinal System,8
+pain during pregnancy,Reproductive and Urinary System - Female,9
+pelvic pain,Reproductive and Urinary System - Female,9
+impotence,Reproductive and Urinary System - Male,10
+infant spitting up,Gastrointestinal System,8
+vomiting blood,Gastrointestinal System,8
+regurgitation,Gastrointestinal System,8
+burning abdominal pain,Gastrointestinal System,8
+restlessness,Mental,0
+symptoms of infants,Reproductive and Urinary System - General,11
+wheezing,Chest and Respiratory System,6
+peripheral edema,Heart and Circulatory System,7
+neck mass,Lymphatic System,17
+ear pain,Ears,3
+jaw swelling,Mouth and Throat,5
+mouth dryness,Mouth and Throat,5
+neck swelling,Musculoskeletal System - General,12
+knee pain,Musculoskeletal System - Lower Limbs,14
+foot or toe pain,Musculoskeletal System - Lower Limbs,14
+bowlegged or knock-kneed,Musculoskeletal System - Lower Limbs,14
+ankle pain,Musculoskeletal System - Lower Limbs,14
+bones are painful,Musculoskeletal System - General,12
+knee weakness,Musculoskeletal System - Lower Limbs,14
+elbow pain,Musculoskeletal System - Upper Limbs,13
+knee swelling,Musculoskeletal System - Lower Limbs,14
+skin moles,Skin and Hair,15
+knee lump or mass,Musculoskeletal System - Lower Limbs,14
+weight gain,Endocrine/Metabolic System,16
+problems with movement,Musculoskeletal System - General,12
+knee stiffness or tightness,Musculoskeletal System - Lower Limbs,14
+leg swelling,Musculoskeletal System - Lower Limbs,14
+foot or toe swelling,Musculoskeletal System - Lower Limbs,14
+heartburn,Gastrointestinal System,8
+smoking problems,Chest and Respiratory System,6
+muscle pain,Musculoskeletal System - General,12
+infant feeding problem,Reproductive and Urinary System - Female,9
+recent weight loss,Endocrine/Metabolic System,16
+problems with shape or size of breast,Reproductive and Urinary System - General,11
+underweight,Endocrine/Metabolic System,16
+difficulty eating,Gastrointestinal System,8
+scanty menstrual flow,Reproductive and Urinary System - Female,9
+vaginal pain,Reproductive and Urinary System - Female,9
+vaginal redness,Reproductive and Urinary System - Female,9
+vulvar irritation,Reproductive and Urinary System - Female,9
+weakness,Musculoskeletal System - General,12
+decreased heart rate,Heart and Circulatory System,7
+increased heart rate,Heart and Circulatory System,7
+bleeding or discharge from nipple,Reproductive and Urinary System - General,11
+ringing in ear,Ears,3
+plugged feeling in ear,Ears,3
+itchy ear(s),Ears,3
+frontal headache,Brain,1
+fluid in ear,Ears,3
+neck stiffness or tightness,Musculoskeletal System - General,12
+spots or clouds in vision,Eyes,2
+eye redness,Eyes,2
+lacrimation,Eyes,2
+itchiness of eye,Eyes,2
+blindness,Eyes,2
+eye burns or stings,Eyes,2
+itchy eyelid,Eyes,2
+feeling cold,Endocrine/Metabolic System,16
+decreased appetite,Gastrointestinal System,8
+excessive appetite,Endocrine/Metabolic System,16
+excessive anger,Mental,0
+loss of sensation,Brain,1
+focal weakness,Brain,1
+slurring words,Brain,1
+symptoms of the face,Brain,1
+disturbance of memory,Brain,1
+paresthesia,Brain,1
+side pain,Musculoskeletal System - General,12
+fever,Endocrine/Metabolic System,16
+shoulder pain,Musculoskeletal System - Upper Limbs,13
+shoulder stiffness or tightness,Musculoskeletal System - Upper Limbs,13
+shoulder weakness,Musculoskeletal System - Upper Limbs,13
+arm cramps or spasms,Musculoskeletal System - Upper Limbs,13
+shoulder swelling,Musculoskeletal System - Upper Limbs,13
+tongue lesions,Mouth and Throat,5
+leg cramps or spasms,Musculoskeletal System - Lower Limbs,14
+abnormal appearing tongue,Mouth and Throat,5
+ache all over,Musculoskeletal System - General,12
+lower body pain,Musculoskeletal System - Lower Limbs,14
+problems during pregnancy,Reproductive and Urinary System - Female,9
+spotting or bleeding during pregnancy,Reproductive and Urinary System - Female,9
+cramps and spasms,Musculoskeletal System - General,12
+upper abdominal pain,Gastrointestinal System,8
+stomach bloating,Gastrointestinal System,8
+changes in stool appearance,Gastrointestinal System,8
+unusual color or odor to urine,Reproductive and Urinary System - General,11
+kidney mass,Reproductive and Urinary System - General,11
+swollen abdomen,Gastrointestinal System,8
+symptoms of prostate,Reproductive and Urinary System - Male,10
+leg stiffness or tightness,Musculoskeletal System - Lower Limbs,14
+difficulty breathing,Chest and Respiratory System,6
+rib pain,Musculoskeletal System - General,12
+joint pain,Musculoskeletal System - General,12
+muscle stiffness or tightness,Musculoskeletal System - General,12
+pallor,Endocrine/Metabolic System,16
+hand or finger lump or mass,Musculoskeletal System - Upper Limbs,13
+chills,Endocrine/Metabolic System,16
+groin pain,Musculoskeletal System - General,12
+fatigue,Endocrine/Metabolic System,16
+abdominal distention,Gastrointestinal System,8
+regurgitation,Gastrointestinal System,8
+symptoms of the kidneys,Reproductive and Urinary System - General,11
+melena,Gastrointestinal System,8
+flushing,Endocrine/Metabolic System,16
+coughing up sputum,Chest and Respiratory System,6
+seizures,Brain,1
+delusions or hallucinations,Mental,0
+shoulder cramps or spasms,Musculoskeletal System - Upper Limbs,13
+joint stiffness or tightness,Musculoskeletal System - General,12
+pain or soreness of breast,Reproductive and Urinary System - General,11
+excessive urination at night,Reproductive and Urinary System - General,11
+bleeding from eye,Eyes,2
+rectal bleeding,Gastrointestinal System,8
+constipation,Gastrointestinal System,8
+temper problems,Mental,0
+coryza,Nose,4
+wrist weakness,Musculoskeletal System - Upper Limbs,13
+eye strain,Eyes,2
+hemoptysis,Chest and Respiratory System,6
+lymphedema,Lymphatic System,17
+skin on leg or foot looks infected,Skin and Hair,15
+allergic reaction,Skin and Hair,15
+congestion in chest,Chest and Respiratory System,6
+muscle swelling,Musculoskeletal System - General,12
+pus in urine,Reproductive and Urinary System - General,11
+abnormal size or shape of ear,Ears,3
+low back weakness,Musculoskeletal System - Lower Limbs,14
+sleepiness,Brain,1
+apnea,Chest and Respiratory System,6
+abnormal breathing sounds,Chest and Respiratory System,6
+excessive growth,Endocrine/Metabolic System,16
+elbow cramps or spasms,Musculoskeletal System - Upper Limbs,13
+feeling hot and cold,Endocrine/Metabolic System,16
+blood clots during menstrual periods,Reproductive and Urinary System - Female,9
+absence of menstruation,Reproductive and Urinary System - Female,9
+pulling at ears,Ears,3
+gum pain,Mouth and Throat,5
+redness in ear,Ears,3
+fluid retention,Endocrine/Metabolic System,16
+flu-like syndrome,Endocrine/Metabolic System,16
+sinus congestion,Nose,4
+painful sinuses,Nose,4
+fears and phobias,Mental,0
+recent pregnancy,Reproductive and Urinary System - Female,9
+uterine contractions,Reproductive and Urinary System - Female,9
+burning chest pain,Chest and Respiratory System,6
+back cramps or spasms,Musculoskeletal System - Lower Limbs,14
+stiffness all over,Musculoskeletal System - General,12
+"muscle cramps, contractures, or spasms",Musculoskeletal System - General,12
+low back cramps or spasms,Musculoskeletal System - Lower Limbs,14
+back mass or lump,Musculoskeletal System - Lower Limbs,14
+nosebleed,Nose,4
+long menstrual periods,Reproductive and Urinary System - Female,9
+heavy menstrual flow,Reproductive and Urinary System - Female,9
+unpredictable menstruation,Reproductive and Urinary System - Female,9
+painful menstruation,Reproductive and Urinary System - Female,9
+infertility,Reproductive and Urinary System - Female,9
+frequent menstruation,Reproductive and Urinary System - Female,9
+sweating,Endocrine/Metabolic System,16
+mass on eyelid,Eyes,2
+swollen eye,Eyes,2
+eyelid swelling,Eyes,2
+eyelid lesion or rash,Eyes,2
+unwanted hair,Endocrine/Metabolic System,16
+symptoms of bladder,Reproductive and Urinary System - General,11
+irregular appearing nails,Skin and Hair,15
+itching of skin,Skin and Hair,15
+hurts to breath,Chest and Respiratory System,6
+nailbiting,Skin and Hair,15
+"skin dryness, peeling, scaliness, or roughness",Skin and Hair,15
+skin on arm or hand looks infected,Skin and Hair,15
+skin irritation,Skin and Hair,15
+itchy scalp,Skin and Hair,15
+hip swelling,Musculoskeletal System - Lower Limbs,14
+incontinence of stool,Gastrointestinal System,8
+foot or toe cramps or spasms,Musculoskeletal System - Lower Limbs,14
+warts,Skin and Hair,15
+bumps on penis,Reproductive and Urinary System - Male,10
+too little hair,Skin and Hair,15
+foot or toe lump or mass,Musculoskeletal System - Lower Limbs,14
+skin rash,Skin and Hair,15
+mass or swelling around the anus,Gastrointestinal System,8
+low back swelling,Musculoskeletal System - Lower Limbs,14
+ankle swelling,Musculoskeletal System - Lower Limbs,14
+hip lump or mass,Musculoskeletal System - Lower Limbs,14
+drainage in throat,Mouth and Throat,5
+dry or flaky scalp,Skin and Hair,15
+premenstrual tension or irritability,Reproductive and Urinary System - Female,9
+feeling hot,Endocrine/Metabolic System,16
+feet turned in,Musculoskeletal System - Lower Limbs,14
+foot or toe stiffness or tightness,Musculoskeletal System - Lower Limbs,14
+pelvic pressure,Reproductive and Urinary System - Female,9
+elbow swelling,Musculoskeletal System - Upper Limbs,13
+elbow stiffness or tightness,Musculoskeletal System - Upper Limbs,13
+early or late onset of menopause,Reproductive and Urinary System - Female,9
+mass on ear,Ears,3
+bleeding from ear,Ears,3
+hand or finger weakness,Musculoskeletal System - Upper Limbs,13
+low self-esteem,Mental,0
+throat irritation,Mouth and Throat,5
+itching of the anus,Gastrointestinal System,8
+swollen or red tonsils,Mouth and Throat,5
+irregular belly button,Gastrointestinal System,8
+swollen tongue,Mouth and Throat,5
+lip sore,Mouth and Throat,5
+vulvar sore,Reproductive and Urinary System - Female,9
+hip stiffness or tightness,Musculoskeletal System - Lower Limbs,14
+mouth pain,Mouth and Throat,5
+arm weakness,Musculoskeletal System - Upper Limbs,13
+leg lump or mass,Musculoskeletal System - Lower Limbs,14
+disturbance of smell or taste,Nose,4
+discharge in stools,Gastrointestinal System,8
+penis pain,Reproductive and Urinary System - Male,10
+loss of sex drive,Reproductive and Urinary System - General,11
+obsessions and compulsions,Mental,0
+antisocial behavior,Mental,0
+neck cramps or spasms,Musculoskeletal System - General,12
+pupils unequal,Eyes,2
+poor circulation,Heart and Circulatory System,7
+thirst,Endocrine/Metabolic System,16
+sleepwalking,Mental,0
+skin oiliness,Skin and Hair,15
+sneezing,Nose,4
+bladder mass,Reproductive and Urinary System - General,11
+knee cramps or spasms,Musculoskeletal System - Lower Limbs,14
+premature ejaculation,Reproductive and Urinary System - Male,10
+leg weakness,Musculoskeletal System - Lower Limbs,14
+posture problems,Musculoskeletal System - General,12
+bleeding in mouth,Mouth and Throat,5
+tongue bleeding,Mouth and Throat,5
+change in skin mole size or color,Skin and Hair,15
+penis redness,Reproductive and Urinary System - Male,10
+penile discharge,Reproductive and Urinary System - Male,10
+shoulder lump or mass,Musculoskeletal System - Upper Limbs,13
+polyuria,Reproductive and Urinary System - General,11
+cloudy eye,Eyes,2
+hysterical behavior,Mental,0
+arm lump or mass,Musculoskeletal System - Upper Limbs,13
+nightmares,Mental,0
+bleeding gums,Mouth and Throat,5
+pain in gums,Mouth and Throat,5
+bedwetting,Reproductive and Urinary System - General,11
+diaper rash,Skin and Hair,15
+lump or mass of breast,Reproductive and Urinary System - General,11
+vaginal bleeding after menopause,Reproductive and Urinary System - Female,9
+infrequent menstruation,Reproductive and Urinary System - Female,9
+mass on vulva,Reproductive and Urinary System - Female,9
+jaw pain,Mouth and Throat,5
+itching of scrotum,Reproductive and Urinary System - Male,10
+postpartum problems of the breast,Reproductive and Urinary System - Female,9
+eyelid retracted,Eyes,2
+hesitancy,Reproductive and Urinary System - General,11
+elbow lump or mass,Musculoskeletal System - Upper Limbs,13
+muscle weakness,Musculoskeletal System - General,12
+throat redness,Mouth and Throat,5
+joint swelling,Musculoskeletal System - General,12
+tongue pain,Mouth and Throat,5
+redness in or around nose,Nose,4
+wrinkles on skin,Skin and Hair,15
+foot or toe weakness,Musculoskeletal System - Lower Limbs,14
+hand or finger cramps or spasms,Musculoskeletal System - Upper Limbs,13
+back stiffness or tightness,Musculoskeletal System - Lower Limbs,14
+wrist lump or mass,Musculoskeletal System - Upper Limbs,13
+skin pain,Skin and Hair,15
+low back stiffness or tightness,Musculoskeletal System - Lower Limbs,14
+low urine output,Reproductive and Urinary System - General,11
+skin on head or neck looks infected,Skin and Hair,15
+stuttering or stammering,Brain,1
+problems with orgasm,Reproductive and Urinary System - General,11
+nose deformity,Nose,4
+lump over jaw,Mouth and Throat,5
+sore in nose,Nose,4
+hip weakness,Musculoskeletal System - Lower Limbs,14
+back swelling,Musculoskeletal System - Lower Limbs,14
+ankle stiffness or tightness,Musculoskeletal System - Lower Limbs,14
+ankle weakness,Musculoskeletal System - Lower Limbs,14
+neck weakness,Musculoskeletal System - General,12
