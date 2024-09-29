@@ -101,7 +101,7 @@ pelvic pain,Reproductive and Urinary System - Female,9
 impotence,Reproductive and Urinary System - Male,10
 infant spitting up,Gastrointestinal System,8
 vomiting blood,Gastrointestinal System,8
-regurgitation,Gastrointestinal System,8
+regurgitation.1,Gastrointestinal System,8
 burning abdominal pain,Gastrointestinal System,8
 restlessness,Mental,0
 symptoms of infants,Reproductive and Urinary System - General,11
@@ -199,7 +199,6 @@ chills,Endocrine/Metabolic System,16
 groin pain,Musculoskeletal System - General,12
 fatigue,Endocrine/Metabolic System,16
 abdominal distention,Gastrointestinal System,8
-regurgitation,Gastrointestinal System,8
 symptoms of the kidneys,Reproductive and Urinary System - General,11
 melena,Gastrointestinal System,8
 flushing,Endocrine/Metabolic System,16
