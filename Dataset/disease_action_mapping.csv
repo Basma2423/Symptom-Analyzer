@@ -1,0 +1,774 @@
+Disease,Recommendations,Doctor
+abdominal aortic aneurysm,"['Monitor blood pressure regularly', 'Avoid heavy lifting', 'Consult a vascular surgeon for evaluation']",Vascular Surgeon
+abdominal hernia,"['Avoid heavy lifting', 'Consider surgical evaluation', 'Monitor for signs of strangulation']",General Surgeon
+abscess of nose,"['Keep the area clean', 'Apply warm compresses', 'Consult a healthcare provider for drainage if necessary']",ENT Specialist
+abscess of the lung,"['Seek immediate medical attention', 'Follow prescribed antibiotic treatment', 'Monitor for breathing difficulties']",Pulmonologist
+abscess of the pharynx,"['Consult a healthcare provider', 'Consider antibiotics', 'Monitor for swallowing difficulties']",ENT Specialist
+acanthosis nigricans,"['Consult a dermatologist', 'Manage underlying conditions like diabetes', 'Consider weight management strategies']",Dermatologist
+acariasis,"['Consult a healthcare provider for treatment', 'Consider environmental cleaning', 'Avoid scratching to prevent secondary infections']",Dermatologist
+achalasia,"['Consult a gastroenterologist', 'Consider dilation or surgery', 'Manage dietary intake to ease symptoms']",Gastroenterologist
+acne,"['Maintain a good skincare routine', 'Consult a dermatologist for topical treatments', 'Avoid picking or squeezing lesions']",Dermatologist
+actinic keratosis,"['Consult a dermatologist for evaluation', 'Consider cryotherapy or topical treatments', 'Protect skin from sun exposure']",Dermatologist
+acute bronchiolitis,"['Seek medical attention if symptoms worsen', 'Ensure hydration', 'Use a humidifier to ease breathing']",Pediatrician
+acute bronchitis,"['Rest and stay hydrated', 'Avoid smoking and irritants', 'Consult a healthcare provider if symptoms persist']",Pulmonologist
+acute bronchospasm,"['Use prescribed bronchodilators', 'Avoid known triggers', 'Seek immediate medical help if severe']",Pulmonologist
+acute fatty liver of pregnancy (aflp),"['Consult a healthcare provider immediately', 'Monitor liver function', 'Consider early delivery if necessary']",Obstetrician
+acute glaucoma,"['Seek immediate medical attention', 'Use prescribed medications', 'Consider surgical options if necessary']",Ophthalmologist
+acute kidney injury,"['Seek immediate medical attention', 'Follow prescribed treatment plans', 'Monitor kidney function regularly']",Nephrologist
+acute otitis media,"['Consult a healthcare provider', 'Consider pain relief measures', 'Follow prescribed antibiotic treatment if necessary']",ENT Specialist
+acute pancreatitis,"['Avoid alcohol and fatty foods', 'Follow a low-fat diet', 'Stay hydrated and consult a healthcare provider']",Gastroenterologist
+acute respiratory distress syndrome (ards),"['Seek immediate medical attention', 'Consider hospitalization for monitoring', 'Follow prescribed treatment plans']",Pulmonologist
+acute sinusitis,"['Consider saline nasal sprays', 'Consult a healthcare provider for evaluation', 'Stay hydrated and rest']",ENT Specialist
+acute stress reaction,"['Consider counseling or therapy', 'Practice relaxation techniques', 'Monitor symptoms and seek help if persistent']",Psychiatrist
+adhesive capsulitis of the shoulder,"['Consider physical therapy', 'Avoid overhead activities', 'Consult a healthcare provider for pain management']",Orthopedic Specialist
+adjustment reaction,"['Consider counseling or therapy', 'Practice stress management techniques', 'Monitor symptoms and seek support']",Psychiatrist
+adrenal adenoma,"['Consult an endocrinologist', 'Monitor hormone levels', 'Consider surgical options if necessary']",Endocrinologist
+adrenal cancer,"['Consult an oncologist', 'Consider treatment options like surgery or chemotherapy', 'Monitor symptoms closely']",Oncologist
+alcohol abuse,"['Consider counseling or support groups', 'Avoid triggers', 'Consult a healthcare provider for treatment options']",Addiction Specialist
+alcohol intoxication,"['Seek medical attention if severe', 'Stay hydrated', 'Avoid further alcohol consumption']",Emergency Medicine
+alcohol withdrawal,"['Seek medical attention', 'Consider medication for symptom management', 'Participate in a support program']",Addiction Specialist
+alcoholic liver disease,"['Avoid alcohol completely', 'Consult a hepatologist', 'Follow a healthy diet']",Hepatologist
+allergy,"['Identify and avoid allergens', 'Consider antihistamines for relief', 'Consult an allergist for evaluation']",Allergist
+allergy to animals,"['Avoid contact with animals', 'Consider antihistamines for relief', 'Consult an allergist for management strategies']",Allergist
+alopecia,"['Consult a dermatologist for evaluation', 'Consider treatments like minoxidil', 'Manage stress levels']",Dermatologist
+alzheimer disease,"['Consult a neurologist', 'Consider memory care support', 'Engage in cognitive activities']",Neurologist
+amblyopia,"['Consult an ophthalmologist', 'Consider vision therapy', 'Use prescribed eye patches or glasses']",Ophthalmologist
+amyloidosis,"['Consult a hematologist', 'Consider treatment for underlying conditions', 'Monitor organ function']",Rheumatologist
+amyotrophic lateral sclerosis (als),"['Consult a neurologist', 'Consider palliative care options', 'Engage in physical therapy']",Neurologist
+anal fissure,"['Increase dietary fiber intake', 'Use topical analgesics', 'Consider warm baths for relief']",Proctologist
+anal fistula,"['Consult a colorectal surgeon', 'Consider surgical intervention', 'Maintain good hygiene']",Proctologist
+anemia,"['Consult a healthcare provider for evaluation', 'Consider dietary changes to increase iron intake', 'Follow prescribed supplements']",Hematologist
+anemia due to chronic kidney disease,"['Consult a nephrologist', 'Consider erythropoiesis-stimulating agents', 'Monitor hemoglobin levels']",Nephrologist
+anemia due to malignancy,"['Consult an oncologist', 'Consider treatment for underlying cancer', 'Monitor blood levels closely']",Oncologist
+anemia of chronic disease,"['Consult a healthcare provider', 'Consider dietary changes', 'Monitor blood levels']",Hematologist
+angina,"['Avoid stress and triggers', 'Consult a cardiologist', 'Follow prescribed medication regimen']",Cardiologist
+ankylosing spondylitis,"['Consult a rheumatologist', 'Consider physical therapy', 'Manage pain with medications']",Rheumatologist
+anxiety,"['Consider counseling or therapy', 'Practice relaxation techniques', 'Monitor symptoms and seek support']",Psychiatrist
+aortic valve disease,"['Consult a cardiologist', 'Monitor symptoms closely', 'Consider surgical options if severe']",Cardiologist
+aphakia,"['Consult an ophthalmologist', 'Consider corrective lenses or surgery', 'Manage eye health regularly']",Ophthalmologist
+aphthous ulcer,"['Avoid irritants', 'Consider topical treatments', 'Maintain good oral hygiene']",Dentist
+aplastic anemia,"['Consult a hematologist', 'Consider bone marrow transplant', 'Monitor blood levels closely']",Hematologist
+appendicitis,"['Seek immediate medical attention', 'Consider surgical intervention', 'Monitor for signs of perforation']",General Surgeon
+arrhythmia,"['Consult a cardiologist for evaluation', 'Monitor heart rate regularly', 'Follow prescribed medications']",Cardiologist
+arthritis of the hip,"['Consider physical therapy', 'Manage pain with anti-inflammatory medications', 'Maintain a healthy weight']",Orthopedic Specialist
+ascending cholangitis,"['Seek immediate medical attention', 'Consider antibiotic treatment', 'Follow-up imaging studies']",Gastroenterologist
+asperger syndrome,"['Consider behavioral therapy', 'Engage in social skills training', 'Provide structured environments']",Psychiatrist
+aspergillosis,"['Consult a pulmonologist', 'Consider antifungal treatment', 'Monitor lung function regularly']",Infectious Disease Specialist
+asthma,"['Use prescribed inhalers', 'Avoid known triggers', 'Consider regular monitoring with a peak flow meter']",Pulmonologist
+astigmatism,"['Consider corrective lenses', 'Consult an ophthalmologist for evaluation', 'Consider refractive surgery if necessary']",Ophthalmologist
+atelectasis,"['Encourage deep breathing exercises', 'Consider physical therapy', 'Monitor for respiratory complications']",Pulmonologist
+athlete's foot,"['Keep feet clean and dry', 'Use antifungal powder or cream', 'Avoid walking barefoot in public areas']",Dermatologist
+atonic bladder,"['Consult a urologist for evaluation', 'Consider bladder training exercises', 'Manage fluid intake']",Urologist
+atrial fibrillation,"['Consult a cardiologist for evaluation', 'Consider anticoagulant therapy', 'Monitor heart rate regularly']",Cardiologist
+atrial flutter,"['Consult a cardiologist', 'Consider catheter ablation if needed', 'Monitor heart rhythm regularly']",Cardiologist
+atrophic skin condition,"['Consult a dermatologist for evaluation', 'Consider moisturizing treatments', 'Protect skin from sun exposure']",Dermatologist
+atrophic vaginitis,"['Consult a gynecologist', 'Consider topical estrogen therapy', 'Use water-based lubricants']",Gynecologist
+atrophy of the corpus cavernosum,"['Consult a urologist', 'Consider treatment options for erectile dysfunction', 'Monitor overall health']",Urologist
+attention deficit hyperactivity disorder (adhd),"['Consider behavioral therapy', 'Consult a psychiatrist for medication management', 'Implement organizational strategies']",Psychiatrist
+autism,"['Consider behavioral and educational interventions', 'Engage in social skills training', 'Monitor developmental milestones']",Psychiatrist
+autonomic nervous system disorder,"['Consult a neurologist', 'Consider lifestyle modifications', 'Monitor symptoms regularly']",Neurologist
+avascular necrosis,"['Consult an orthopedic surgeon', 'Consider physical therapy', 'Avoid weight-bearing activities if advised']",Orthopedic Specialist
+balanitis,"['Maintain good hygiene', 'Consider antifungal or antibiotic treatment', 'Consult a urologist for persistent cases']",Urologist
+bell palsy,"['Consult a healthcare provider for evaluation', 'Consider corticosteroids', 'Practice facial exercises']",Neurologist
+benign kidney cyst,"['Monitor with regular imaging studies', 'Consult a nephrologist for evaluation', 'Consider lifestyle modifications']",Urologist
+benign paroxysmal positional vertigo (bppv),"['Consult a healthcare provider for maneuvers', 'Avoid sudden head movements', 'Consider vestibular rehabilitation']",Neurologist
+benign prostatic hyperplasia (bph),"['Consult a urologist for evaluation', 'Consider medication for symptom relief', 'Monitor urinary symptoms regularly']",Urologist
+benign vaginal discharge (leukorrhea),"['Maintain good hygiene', 'Monitor for changes in color or odor', 'Consult a gynecologist if concerns arise']",Gynecologist
+bipolar disorder,"['Consult a psychiatrist for evaluation', 'Consider medication management', 'Engage in therapy for coping strategies']",Psychiatrist
+birth trauma,"['Consult a pediatrician for evaluation', 'Consider physical or occupational therapy', 'Monitor developmental milestones']",Obstetrician
+bladder cancer,"['Consult an oncologist for evaluation', 'Consider treatment options like surgery or chemotherapy', 'Monitor symptoms closely']",Urologist
+bladder disorder,"['Consult a urologist for evaluation', 'Consider lifestyle modifications', 'Monitor symptoms regularly']",Urologist
+bladder obstruction,"['Seek medical attention immediately', 'Consider catheterization or surgery', 'Monitor urinary output']",Urologist
+blepharitis,"['Maintain good eyelid hygiene', 'Consider warm compresses', 'Consult an ophthalmologist for treatment']",Ophthalmologist
+blepharospasm,"['Consult a neurologist for evaluation', 'Consider botulinum toxin injections', 'Avoid known triggers']",Neurologist
+bone cancer,"['Consult an oncologist for evaluation', 'Consider treatment options like surgery or chemotherapy', 'Monitor symptoms closely']",Oncologist
+bone disorder,"['Consult an orthopedic specialist', 'Consider bone density testing', 'Follow a healthy diet with adequate calcium']",Orthopedic Specialist
+bone spur of the calcaneus,"['Consider physical therapy', 'Use orthotic devices for support', 'Monitor for pain and seek treatment if necessary']",Orthopedic Specialist
+brachial neuritis,"['Consult a neurologist for evaluation', 'Consider pain management strategies', 'Engage in physical therapy']",Neurologist
+brain cancer,"['Consult an oncologist for evaluation', 'Consider treatment options like surgery or radiation', 'Monitor neurological symptoms closely']",Oncologist
+breast cancer,"['Consult an oncologist for evaluation', 'Consider treatment options like surgery or chemotherapy', 'Monitor symptoms and follow-up care']",Oncologist
+breast cyst,"['Consult a healthcare provider for evaluation', 'Consider ultrasound for monitoring', 'Manage symptoms if necessary']",Gynecologist
+breast infection (mastitis),"['Consult a healthcare provider for evaluation', 'Consider antibiotics for treatment', 'Monitor for worsening symptoms']",Gynecologist
+broken tooth,"['Consult a dentist for evaluation', 'Consider dental repair options', 'Avoid chewing on the affected side']",Dentist
+bunion,"['Consider footwear modifications', 'Consult a podiatrist for evaluation', 'Consider surgical options if severe']",Podiatrist
+burn,"['Cool the burn with running water', 'Consider pain management strategies', 'Consult a healthcare provider for severe burns']",Plastic Surgeon
+bursitis,"['Consider rest and ice therapy', 'Engage in physical therapy', 'Monitor for signs of infection']",Orthopedic Specialist
+callus,"['Consider regular exfoliation', 'Use protective footwear', 'Consult a podiatrist for persistent calluses']",Podiatrist
+carbon monoxide poisoning,"['Seek immediate medical attention', 'Move to fresh air immediately', 'Consider hyperbaric oxygen therapy if severe']",Emergency Medicine
+carcinoid syndrome,"['Consult an oncologist for evaluation', 'Consider management of symptoms', 'Monitor for potential complications']",Oncologist
+cardiac arrest,"['Call emergency services immediately', 'Consider CPR until help arrives', 'Use an AED if available']",Cardiologist
+cardiomyopathy,"['Consult a cardiologist for evaluation', 'Consider lifestyle modifications', 'Follow prescribed medications']",Cardiologist
+carpal tunnel syndrome,"['Consider wrist splinting', 'Engage in physical therapy', 'Consult a healthcare provider for evaluation']",Neurologist
+cat scratch disease,"['Consult a healthcare provider for evaluation', 'Consider antibiotic treatment', 'Monitor for complications']",Infectious Disease Specialist
+cataract,"['Consult an ophthalmologist for evaluation', 'Consider cataract surgery if vision is affected', 'Manage symptoms with proper lighting and glasses']",Ophthalmologist
+celiac disease,"['Follow a strict gluten-free diet', 'Consult a dietitian for meal planning', 'Monitor for nutritional deficiencies']",Gastroenterologist
+cellulitis or abscess of mouth,"['Seek medical attention immediately', 'Consider antibiotics for treatment', 'Monitor for signs of spreading infection']",Oral Surgeon
+central atherosclerosis,"['Consult a cardiologist for evaluation', 'Consider lifestyle modifications', 'Manage risk factors such as hypertension and diabetes']",Cardiologist
+central retinal artery or vein occlusion,"['Consult an ophthalmologist immediately', 'Consider treatment options based on severity', 'Monitor for vision changes']",Ophthalmologist
+cerebral edema,"['Seek immediate medical attention', 'Consider corticosteroids for treatment', 'Monitor neurological status closely']",Neurologist
+cerebral palsy,"['Consider physical therapy and occupational therapy', 'Consult a neurologist for management options', 'Engage in supportive educational programs']",Pediatric Neurologist
+cervical cancer,"['Consult an oncologist for evaluation', 'Consider treatment options like surgery or chemotherapy', 'Monitor for follow-up care']",Gynecologist
+cervical disorder,"['Consult a healthcare provider for evaluation', 'Consider physical therapy', 'Monitor symptoms and manage pain']",Orthopedic Specialist
+cervicitis,"['Consult a healthcare provider for evaluation', 'Consider antibiotic treatment if caused by infection', 'Practice safe sex to prevent recurrence']",Gynecologist
+chalazion,"['Apply warm compresses to the eyelid', 'Consider seeing an ophthalmologist if persistent', 'Monitor for signs of infection']",Ophthalmologist
+chickenpox,"['Consult a healthcare provider for evaluation', 'Consider antiviral medication if severe', 'Monitor for complications']",Infectious Disease Specialist
+chlamydia,"['Consult a healthcare provider for testing and treatment', 'Follow prescribed antibiotics', 'Notify sexual partners for testing']",Infectious Disease Specialist
+cholecystitis,"['Seek medical attention immediately', 'Consider surgical intervention if necessary', 'Manage pain and nausea']",Gastroenterologist
+choledocholithiasis,"['Seek medical attention immediately', 'Consider endoscopic retrograde cholangiopancreatography (ERCP)', 'Monitor for complications']",Gastroenterologist
+cholesteatoma,"['Consult an otolaryngologist for evaluation', 'Consider surgical intervention', 'Monitor for hearing loss and infections']",ENT Specialist
+chondromalacia of the patella,"['Engage in physical therapy', 'Consider pain management strategies', 'Avoid activities that aggravate symptoms']",Orthopedic Specialist
+chorioretinitis,"['Consult an ophthalmologist for evaluation', 'Consider antiviral or antibiotic treatment if necessary', 'Monitor for vision changes']",Ophthalmologist
+chronic back pain,"['Consult a healthcare provider for evaluation', 'Engage in physical therapy', 'Consider pain management strategies']",Orthopedic Specialist
+chronic constipation,"['Increase dietary fiber intake', 'Consider over-the-counter laxatives if needed', 'Consult a healthcare provider for evaluation']",Gastroenterologist
+chronic glaucoma,"['Consult an ophthalmologist for evaluation', 'Consider prescribed eye drops', 'Monitor intraocular pressure regularly']",Ophthalmologist
+chronic inflammatory demyelinating polyneuropathy (cidp),"['Consult a neurologist for evaluation', 'Consider immunotherapy or corticosteroids', 'Engage in supportive therapies']",Neurologist
+chronic kidney disease,"['Consult a nephrologist for evaluation', 'Manage blood pressure and diabetes', 'Monitor kidney function regularly']",Nephrologist
+chronic knee pain,"['Engage in physical therapy', 'Consider weight management strategies', 'Consult a healthcare provider for pain management']",Orthopedic Specialist
+chronic obstructive pulmonary disease (copd),"['Consult a pulmonologist for management', 'Consider smoking cessation programs', 'Engage in pulmonary rehabilitation']",Pulmonologist
+chronic otitis media,"['Consult an ear, nose, and throat specialist', 'Consider antibiotic treatment', 'Monitor for hearing loss']",ENT Specialist
+chronic pain disorder,"['Consult a healthcare provider for evaluation', 'Consider a multidisciplinary approach to pain management', 'Engage in physical therapy']",Pain Specialist
+chronic pancreatitis,"['Consult a gastroenterologist for management', 'Consider dietary modifications', 'Monitor for complications']",Gastroenterologist
+chronic rheumatic fever,"['Consult a healthcare provider for evaluation', 'Consider long-term antibiotic prophylaxis', 'Monitor for heart complications']",Cardiologist
+chronic sinusitis,"['Consult an ear, nose, and throat specialist', 'Consider nasal corticosteroids', 'Engage in saline nasal irrigation']",ENT Specialist
+chronic ulcer,"['Consult a healthcare provider for evaluation', 'Consider dietary modifications', 'Monitor for complications']",Dermatologist
+cirrhosis,"['Consult a hepatologist for evaluation', 'Consider lifestyle modifications', 'Monitor liver function regularly']",Hepatologist
+coagulation (bleeding) disorder,"['Consult a hematologist for evaluation', 'Consider genetic counseling if hereditary', 'Monitor for bleeding episodes']",Hematologist
+cold sore,"['Consider antiviral treatment if severe', 'Avoid triggers such as stress and sunlight', 'Practice good hygiene to prevent spread']",Dermatologist
+colonic polyp,"['Consult a gastroenterologist for evaluation', 'Consider colonoscopy for monitoring', 'Follow recommended screening guidelines']",Gastroenterologist
+colorectal cancer,"['Consult an oncologist for evaluation', 'Consider treatment options like surgery or chemotherapy', 'Monitor for follow-up care']",Oncologist
+common cold,"['Rest and stay hydrated', 'Consider over-the-counter medications for relief', 'Monitor for worsening symptoms']",General Practitioner
+complex regional pain syndrome,"['Consult a pain management specialist', 'Engage in physical therapy', 'Consider nerve blocks or other treatments']",Pain Specialist
+concussion,"['Seek immediate medical attention if severe', 'Rest and avoid physical exertion', 'Monitor for neurological symptoms']",Neurologist
+conduct disorder,"['Consider behavioral therapy', 'Engage in family counseling', 'Monitor for safety concerns']",Psychiatrist
+conductive hearing loss,"['Consult an audiologist for evaluation', 'Consider hearing aids if necessary', 'Monitor for underlying causes']",ENT Specialist
+congenital heart defect,"['Consult a pediatric cardiologist for evaluation', 'Consider surgical intervention if necessary', 'Monitor for developmental milestones']",Cardiologist
+congenital malformation syndrome,"['Consult a healthcare provider for evaluation', 'Consider genetic counseling', 'Monitor for associated conditions']",Geneticist
+conjunctivitis,"['Consult a healthcare provider for evaluation', 'Consider antibiotic treatment for bacterial cases', 'Practice good hygiene to prevent spread']",Ophthalmologist
+conjunctivitis due to allergy,"['Avoid known allergens', 'Consider antihistamine eye drops', 'Consult an allergist if severe']",Allergist
+conjunctivitis due to bacteria,"['Consult a healthcare provider for evaluation', 'Consider antibiotic eye drops', 'Practice good hygiene to prevent spread']",Ophthalmologist
+conjunctivitis due to virus,"['Consult a healthcare provider for evaluation', 'Practice good hygiene to prevent spread', 'Consider symptomatic treatment']",Ophthalmologist
+connective tissue disorder,"['Consult a rheumatologist for evaluation', 'Consider lifestyle modifications', 'Monitor for complications']",Rheumatologist
+contact dermatitis,"['Avoid known irritants', 'Consider topical corticosteroids', 'Consult a dermatologist if severe']",Dermatologist
+conversion disorder,"['Consult a mental health professional for evaluation', 'Engage in psychotherapy or cognitive-behavioral therapy', 'Consider stress management techniques']",Psychiatrist
+cornea infection,"['Seek immediate medical attention', 'Consider antibiotic or antiviral treatment', 'Avoid contact lenses until resolved']",Ophthalmologist
+corneal abrasion,"['Consult an eye care specialist for evaluation', 'Consider antibiotic eye drops', 'Avoid rubbing the eye and monitor symptoms']",Ophthalmologist
+corneal disorder,"['Consult an ophthalmologist for evaluation', 'Consider treatment options based on specific disorder', 'Monitor for vision changes']",Ophthalmologist
+coronary atherosclerosis,"['Consult a cardiologist for evaluation', 'Consider lifestyle modifications and medication', 'Monitor heart health regularly']",Cardiologist
+cranial nerve palsy,"['Consult a neurologist for evaluation', 'Consider physical therapy for rehabilitation', 'Monitor for improvements or complications']",Neurologist
+crohn disease,"['Consult a gastroenterologist for management', 'Consider anti-inflammatory medications', 'Engage in nutritional support']",Gastroenterologist
+croup,"['Consult a healthcare provider for evaluation', 'Consider corticosteroids for inflammation', 'Monitor for breathing difficulties']",Pediatrician
+crushing injury,"['Seek immediate medical attention', 'Consider imaging studies for assessment', 'Manage pain and monitor for complications']",Trauma Specialist
+cryptococcosis,"['Consult an infectious disease specialist', 'Consider antifungal treatment', 'Monitor for respiratory symptoms']",Infectious Disease Specialist
+cryptorchidism,"['Consult a pediatric urologist for evaluation', 'Consider surgical intervention if necessary', 'Monitor for testicular health']",Pediatric Surgeon
+cushing syndrome,"['Consult an endocrinologist for evaluation', 'Consider treatment options based on cause', 'Monitor for complications']",Endocrinologist
+cyst of the eyelid,"['Consult an ophthalmologist for evaluation', 'Consider warm compresses for symptomatic relief', 'Monitor for changes in size or symptoms']",Ophthalmologist
+cystic fibrosis,"['Consult a pulmonologist for management', 'Engage in airway clearance techniques', 'Consider nutritional support']",Pulmonologist
+cysticercosis,"['Consult an infectious disease specialist for evaluation', 'Consider antiparasitic medication', 'Monitor for neurological symptoms']",Infectious Disease Specialist
+cystitis,"['Consult a healthcare provider for evaluation', 'Consider antibiotic treatment', 'Increase fluid intake to help flush out the bladder']",Urologist
+de quervain disease,"['Consult a healthcare provider for evaluation', 'Consider rest and immobilization of the wrist', 'Engage in physical therapy']",Orthopedic Specialist
+decubitus ulcer,"['Consult a healthcare provider for evaluation', 'Consider pressure relief techniques', 'Monitor for signs of infection']",Dermatologist
+deep vein thrombosis (dvt),"['Seek immediate medical attention', 'Consider anticoagulant therapy', 'Monitor for symptoms of pulmonary embolism']",Vascular Surgeon
+degenerative disc disease,"['Consult a healthcare provider for evaluation', 'Engage in physical therapy for pain management', 'Consider lifestyle modifications']",Orthopedic Specialist
+delirium,"['Seek immediate medical attention', 'Identify and treat underlying causes', 'Consider supportive care']",Psychiatrist
+dementia,"['Consult a neurologist for evaluation', 'Consider cognitive therapies and support groups', 'Engage in activities to stimulate memory']",Neurologist
+dengue fever,"['Consult a healthcare provider for evaluation', 'Stay hydrated and manage symptoms', 'Monitor for severe manifestations']",Infectious Disease Specialist
+dental caries,"['Consult a dentist for evaluation and treatment', 'Engage in proper oral hygiene practices', 'Consider fluoride treatments or sealants']",Dentist
+depression,"['Consult a mental health professional for evaluation', 'Engage in psychotherapy or counseling', 'Consider medication management if necessary']",Psychiatrist
+dermatitis due to sun exposure,"['Avoid further sun exposure', 'Consider topical corticosteroids for inflammation', 'Engage in sun protection measures']",Dermatologist
+developmental disability,"['Consult a healthcare provider for evaluation', 'Engage in supportive therapies and educational interventions', 'Consider family counseling']",Pediatrician
+deviated nasal septum,"['Consult an ear, nose, and throat specialist for evaluation', 'Consider surgical intervention if severe', 'Manage symptoms with nasal decongestants']",ENT Specialist
+diabetes,"['Consult a healthcare provider for management', 'Engage in lifestyle modifications and monitoring', 'Consider medication management if necessary']",Endocrinologist
+diabetes insipidus,"['Consult an endocrinologist for evaluation', 'Consider desmopressin treatment', 'Monitor fluid intake and output']",Endocrinologist
+diabetic ketoacidosis,"['Seek immediate medical attention', 'Consider intravenous fluids and insulin therapy', 'Monitor for complications']",Endocrinologist
+diabetic kidney disease,"['Consult a nephrologist for management', 'Monitor kidney function regularly', 'Manage blood pressure and diabetes']",Nephrologist
+diabetic peripheral neuropathy,"['Consult a healthcare provider for evaluation', 'Engage in pain management strategies', 'Consider medications to improve nerve health']",Neurologist
+diabetic retinopathy,"['Consult an ophthalmologist for evaluation', 'Consider laser treatment or injections if severe', 'Monitor blood sugar levels closely']",Ophthalmologist
+diaper rash,"['Keep the area clean and dry', 'Consider barrier creams for protection', 'Monitor for signs of infection']",Pediatrician
+dislocation of the ankle,"['Seek immediate medical attention', 'Consider immobilization and pain management', 'Monitor for signs of complications']",Orthopedic Specialist
+dislocation of the elbow,"['Seek immediate medical attention', 'Consider immobilization and pain management', 'Monitor for signs of complications']",Orthopedic Specialist
+dislocation of the finger,"['Seek immediate medical attention', 'Consider immobilization and pain management', 'Monitor for signs of complications']",Orthopedic Specialist
+dislocation of the foot,"['Seek immediate medical attention', 'Consider immobilization and pain management', 'Monitor for signs of complications']",Orthopedic Specialist
+dislocation of the hip,"['Seek immediate medical attention', 'Consider immobilization and pain management', 'Monitor for signs of complications']",Orthopedic Specialist
+dislocation of the knee,"['Seek immediate medical attention', 'Consider immobilization and pain management', 'Monitor for signs of complications']",Orthopedic Specialist
+dislocation of the patella,"['Seek immediate medical attention', 'Consider immobilization and pain management', 'Monitor for signs of complications']",Orthopedic Specialist
+dislocation of the shoulder,"['Seek immediate medical attention', 'Consider immobilization and pain management', 'Monitor for signs of complications']",Orthopedic Specialist
+dislocation of the vertebra,"['Seek immediate medical attention', 'Consider imaging studies for assessment', 'Monitor for neurological symptoms']",Orthopedic Specialist
+dislocation of the wrist,"['Seek immediate medical attention', 'Consider immobilization and pain management', 'Monitor for signs of complications']",Orthopedic Specialist
+dissociative disorder,"['Consult a mental health professional for evaluation', 'Engage in psychotherapy', 'Consider stress management techniques']",Psychiatrist
+diverticulitis,"['Consult a gastroenterologist for evaluation', 'Consider dietary modifications', 'Monitor for complications']",Gastroenterologist
+diverticulosis,"['Consult a healthcare provider for evaluation', 'Consider dietary modifications', 'Monitor for symptoms']",Gastroenterologist
+down syndrome,"['Consult a healthcare provider for evaluation', 'Engage in early intervention programs', 'Monitor for associated health conditions']",Geneticist
+drug abuse,"['Consult a mental health professional for evaluation', 'Engage in substance abuse treatment programs', 'Consider support groups for recovery']",Addiction Specialist
+drug abuse (barbiturates),"['Consult a mental health professional for evaluation', 'Engage in substance abuse treatment programs', 'Consider detoxification under medical supervision']",Addiction Specialist
+drug abuse (cocaine),"['Consult a mental health professional for evaluation', 'Engage in substance abuse treatment programs', 'Consider support groups for recovery']",Addiction Specialist
+drug abuse (methamphetamine),"['Consult a mental health professional for evaluation', 'Engage in substance abuse treatment programs', 'Consider behavioral therapies']",Addiction Specialist
+drug abuse (opioids),"['Consult a mental health professional for evaluation', 'Engage in substance abuse treatment programs', 'Consider medication-assisted treatment']",Addiction Specialist
+drug poisoning due to medication,"['Seek immediate medical attention', 'Consider supportive care and treatment for overdose', 'Identify and remove the offending medication']",Toxicologist
+drug reaction,"['Consult a healthcare provider for evaluation', 'Consider discontinuing the offending medication', 'Monitor for further symptoms']",Allergist
+drug withdrawal,"['Consult a healthcare provider for management', 'Consider gradual tapering of the medication', 'Engage in supportive care']",Addiction Specialist
+dry eye of unknown cause,"['Consult an eye care specialist for evaluation', 'Consider artificial tears or lubricating eye drops', 'Monitor for symptoms and triggers']",Ophthalmologist
+dumping syndrome,"['Consult a gastroenterologist for management', 'Consider dietary modifications', 'Monitor for symptoms after meals']",Gastroenterologist
+dyshidrosis,"['Consult a dermatologist for evaluation', 'Consider topical corticosteroids', 'Avoid known triggers']",Dermatologist
+dysthymic disorder,"['Consult a mental health professional for evaluation', 'Engage in psychotherapy', 'Consider medication management if necessary']",Psychiatrist
+ear drum damage,"['Consult an ear, nose, and throat specialist', 'Consider monitoring and avoiding water in the ear', 'Manage pain and potential infections']",ENT Specialist
+ear wax impaction,"['Consult a healthcare provider for evaluation', 'Consider earwax removal techniques', 'Avoid using cotton swabs']",ENT Specialist
+eating disorder,"['Consult a mental health professional for evaluation', 'Engage in therapy and nutritional counseling', 'Consider support groups']",Psychiatrist
+ectopic pregnancy,"['Seek immediate medical attention', 'Consider medical or surgical intervention', 'Monitor for complications']",Obstetrician
+ectropion,"['Consult an eye care specialist for evaluation', 'Consider surgical correction if severe', 'Monitor for irritation and dryness']",Ophthalmologist
+eczema,"['Consult a dermatologist for evaluation', 'Consider topical corticosteroids', 'Engage in moisturizing and avoiding triggers']",Dermatologist
+edward syndrome,"['Consult a healthcare provider for evaluation', 'Consider genetic counseling and supportive care', 'Monitor for associated health issues']",Geneticist
+emphysema,"['Consult a pulmonologist for management', 'Engage in smoking cessation programs', 'Consider pulmonary rehabilitation']",Pulmonologist
+empyema,"['Consult a healthcare provider for evaluation', 'Consider drainage and antibiotics', 'Monitor for respiratory symptoms']",Pulmonologist
+encephalitis,"['Seek immediate medical attention', 'Consider antiviral or supportive treatments', 'Monitor neurological symptoms closely']",Neurologist
+endocarditis,"['Consult a healthcare provider for evaluation', 'Consider antibiotic treatment', 'Monitor for cardiac complications']",Cardiologist
+endometrial cancer,"['Consult an oncologist for evaluation', 'Consider treatment options based on stage', 'Engage in regular follow-up care']",Gynecologist
+endometrial hyperplasia,"['Consult a healthcare provider for evaluation', 'Consider hormonal treatments', 'Monitor for progression to cancer']",Gynecologist
+endometriosis,"['Consult a healthcare provider for evaluation', 'Consider pain management and hormonal therapy', 'Engage in support groups']",Gynecologist
+endophthalmitis,"['Consult an eye care specialist for urgent evaluation', 'Consider antibiotic treatment', 'Monitor for vision changes']",Ophthalmologist
+envenomation from spider or animal bite,"['Seek immediate medical attention', 'Consider antivenom or supportive care', 'Monitor for allergic reactions']",Toxicologist
+ependymoma,"['Consult a neurologist for evaluation', 'Consider surgical intervention and radiation therapy', 'Engage in follow-up care']",Neurosurgeon
+epididymitis,"['Consult a healthcare provider for evaluation', 'Consider antibiotics and pain management', 'Monitor for complications']",Urologist
+epidural hemorrhage,"['Seek immediate medical attention', 'Consider imaging studies for assessment', 'Engage in surgical intervention if necessary']",Neurosurgeon
+epilepsy,"['Consult a neurologist for management', 'Consider antiepileptic medications', 'Engage in lifestyle modifications']",Neurologist
+erectile dysfunction,"['Consult a healthcare provider for evaluation', 'Consider lifestyle modifications and medications', 'Engage in counseling if necessary']",Urologist
+erythema multiforme,"['Consult a healthcare provider for evaluation', 'Consider supportive care and symptom management', 'Monitor for progression to more severe forms']",Dermatologist
+esophageal cancer,"['Consult an oncologist for evaluation', 'Consider treatment options based on stage', 'Engage in regular follow-up care']",Oncologist
+esophageal varices,"['Consult a gastroenterologist for evaluation', 'Consider medications and lifestyle modifications', 'Monitor for bleeding complications']",Gastroenterologist
+esophagitis,"['Consult a healthcare provider for evaluation', 'Consider dietary modifications and medications', 'Monitor for complications']",Gastroenterologist
+essential tremor,"['Consult a neurologist for management', 'Consider medications for symptom relief', 'Engage in physical therapy']",Neurologist
+eustachian tube dysfunction (ear disorder),"['Consult an ear, nose, and throat specialist', 'Consider nasal decongestants or corticosteroids', 'Engage in exercises to equalize pressure']",ENT Specialist
+extrapyramidal effect of drugs,"['Consult a healthcare provider for evaluation', 'Consider adjusting or changing medications', 'Monitor for symptoms and side effects']",Neurologist
+eye alignment disorder,"['Consult an eye care specialist for evaluation', 'Consider corrective lenses or surgery if necessary', 'Engage in vision therapy']",Ophthalmologist
+factitious disorder,"['Consult a mental health professional for evaluation', 'Engage in psychotherapy', 'Consider family therapy']",Psychiatrist
+female genitalia infection,"['Consult a healthcare provider for evaluation', 'Consider appropriate antifungal or antibiotic treatments', 'Engage in preventive measures']",Gynecologist
+female infertility of unknown cause,"['Consult a fertility specialist for evaluation', 'Consider lifestyle modifications and support', 'Engage in assisted reproductive technologies if necessary']",Gynecologist
+fetal alcohol syndrome,"['Consult a healthcare provider for evaluation', 'Engage in supportive care and monitoring', 'Consider educational interventions']",Pediatrician
+fibroadenoma,"['Consult a healthcare provider for evaluation', 'Consider monitoring and imaging studies', 'Engage in regular follow-up care']",Gynecologist
+fibrocystic breast disease,"['Consult a healthcare provider for evaluation', 'Consider lifestyle modifications for symptom relief', 'Monitor for changes in breast tissue']",Gynecologist
+fibromyalgia,"['Consult a healthcare provider for evaluation', 'Engage in pain management strategies and therapies', 'Consider support groups']",Rheumatologist
+flat feet,"['Consult a healthcare provider for evaluation', 'Consider arch supports or orthotics', 'Engage in physical therapy if necessary']",Orthopedic Specialist
+floaters,"['Consult an eye care specialist for evaluation', 'Monitor for changes in vision or symptoms', 'Consider treatment if associated with other symptoms']",Ophthalmologist
+flu,"['Consult a healthcare provider for evaluation', 'Consider antiviral medications if early', 'Engage in rest and hydration']",General Practitioner
+fluid overload,"['Consult a healthcare provider for evaluation', 'Consider diuretics for fluid management', 'Monitor electrolyte levels']",Nephrologist
+folate deficiency,"['Consult a healthcare provider for evaluation', 'Consider dietary modifications and supplementation', 'Monitor blood levels regularly']",Hematologist
+food allergy,"['Consult an allergist for evaluation', 'Consider avoidance of identified allergens', 'Carry an epinephrine auto-injector if severe']",Allergist
+foreign body in the ear,"['Seek immediate medical attention for removal', 'Avoid attempts to remove it yourself', 'Monitor for signs of infection']",ENT Specialist
+foreign body in the eye,"['Seek immediate medical attention for removal', 'Avoid rubbing the eye', 'Monitor for pain or vision changes']",Ophthalmologist
+foreign body in the gastrointestinal tract,"['Consult a healthcare provider for evaluation', 'Consider imaging studies to locate the object', 'Monitor for symptoms of obstruction or perforation']",Gastroenterologist
+foreign body in the nose,"['Seek immediate medical attention for removal', 'Avoid attempts to remove it yourself', 'Monitor for signs of infection']",ENT Specialist
+foreign body in the throat,"['Seek immediate medical attention', 'Consider assessment for airway obstruction', 'Monitor for respiratory distress']",ENT Specialist
+foreign body in the vagina,"['Seek medical attention for removal', 'Avoid attempts to remove it yourself', 'Monitor for signs of infection']",Gynecologist
+fracture of the ankle,"['Consult an orthopedic specialist for evaluation', 'Consider imaging studies for assessment', 'Engage in appropriate rest and immobilization']",Orthopedic Specialist
+fracture of the arm,"['Consult an orthopedic specialist for evaluation', 'Consider imaging studies for assessment', 'Engage in appropriate rest and immobilization']",Orthopedic Specialist
+fracture of the facial bones,"['Consult an oral and maxillofacial surgeon for evaluation', 'Consider imaging studies for assessment', 'Engage in appropriate rest and immobilization']",Oral and Maxillofacial Surgeon
+fracture of the finger,"['Consult an orthopedic specialist for evaluation', 'Consider imaging studies for assessment', 'Engage in appropriate rest and immobilization']",Orthopedic Specialist
+fracture of the foot,"['Consult an orthopedic specialist for evaluation', 'Consider imaging studies for assessment', 'Engage in appropriate rest and immobilization']",Orthopedic Specialist
+fracture of the hand,"['Consult an orthopedic specialist for evaluation', 'Consider imaging studies for assessment', 'Engage in appropriate rest and immobilization']",Orthopedic Specialist
+fracture of the jaw,"['Consult an oral and maxillofacial surgeon for evaluation', 'Consider imaging studies for assessment', 'Engage in appropriate rest and immobilization']",Oral and Maxillofacial Surgeon
+fracture of the leg,"['Consult an orthopedic specialist for evaluation', 'Consider imaging studies for assessment', 'Engage in appropriate rest and immobilization']",Orthopedic Specialist
+fracture of the neck,"['Seek immediate medical attention', 'Consider imaging studies for assessment', 'Engage in appropriate rest and immobilization']",Orthopedic Specialist
+fracture of the patella,"['Consult an orthopedic specialist for evaluation', 'Consider imaging studies for assessment', 'Engage in appropriate rest and immobilization']",Orthopedic Specialist
+fracture of the pelvis,"['Consult an orthopedic specialist for evaluation', 'Consider imaging studies for assessment', 'Engage in appropriate rest and immobilization']",Orthopedic Specialist
+fracture of the rib,"['Consult a healthcare provider for evaluation', 'Consider pain management and breathing exercises', 'Monitor for complications such as pneumothorax']",Orthopedic Specialist
+fracture of the shoulder,"['Consult an orthopedic specialist for evaluation', 'Consider imaging studies for assessment', 'Engage in appropriate rest and immobilization']",Orthopedic Specialist
+fracture of the skull,"['Seek immediate medical attention', 'Consider imaging studies for assessment', 'Monitor for neurological symptoms']",Neurosurgeon
+fracture of the vertebra,"['Seek immediate medical attention', 'Consider imaging studies for assessment', 'Engage in appropriate rest and immobilization']",Orthopedic Specialist
+friedrich ataxia,"['Consult a neurologist for management', 'Consider physical therapy and rehabilitation', 'Engage in genetic counseling']",Neurologist
+frostbite,"['Seek immediate medical attention', 'Consider gradual warming and pain management', 'Monitor for complications such as infection']",Emergency Medicine Specialist
+fungal infection of the hair,"['Consult a dermatologist for evaluation', 'Consider antifungal treatments', 'Monitor for improvement and follow up']",Dermatologist
+fungal infection of the skin,"['Consult a dermatologist for evaluation', 'Consider antifungal treatments', 'Engage in proper skin hygiene']",Dermatologist
+g6pd enzyme deficiency,"['Consult a healthcare provider for management', 'Avoid triggers that may cause hemolysis', 'Engage in regular follow-up care']",Hematologist
+galactorrhea of unknown cause,"['Consult a healthcare provider for evaluation', 'Consider hormonal assessment and imaging studies', 'Monitor for associated symptoms']",Endocrinologist
+gallstone,"['Consult a gastroenterologist for evaluation', 'Consider dietary modifications and monitoring', 'Engage in surgical intervention if symptomatic']",Gastroenterologist
+ganglion cyst,"['Consult a healthcare provider for evaluation', 'Consider observation or aspiration if symptomatic', 'Monitor for changes in size or symptoms']",Orthopedic Specialist
+gas gangrene,"['Seek immediate medical attention', 'Consider surgical intervention and antibiotics', 'Monitor for systemic symptoms']",Vascular Surgeon
+gastritis,"['Consult a gastroenterologist for evaluation', 'Consider dietary modifications and medications', 'Monitor for complications']",Gastroenterologist
+gastroduodenal ulcer,"['Consult a gastroenterologist for evaluation', 'Consider medications for acid reduction', 'Engage in dietary modifications']",Gastroenterologist
+gastroesophageal reflux disease (gerd),"['Consult a gastroenterologist for management', 'Consider lifestyle modifications and medications', 'Monitor for complications']",Gastroenterologist
+gastrointestinal hemorrhage,"['Seek immediate medical attention', 'Consider imaging studies for assessment', 'Engage in supportive care and monitoring']",Gastroenterologist
+gastroparesis,"['Consult a gastroenterologist for evaluation', 'Consider dietary modifications and medications', 'Engage in supportive care']",Gastroenterologist
+genital herpes,"['Consult a healthcare provider for evaluation', 'Consider antiviral medications for management', 'Engage in safe sex practices']",Infectious Disease Specialist
+gestational diabetes,"['Consult an obstetrician for management', 'Consider dietary modifications and monitoring blood sugar', 'Engage in regular follow-up care']",Obstetrician
+glaucoma,"['Consult an ophthalmologist for evaluation', 'Consider medications or surgical options for management', 'Engage in regular eye exams']",Ophthalmologist
+glucocorticoid deficiency,"['Consult an endocrinologist for evaluation', 'Consider hormone replacement therapy', 'Monitor for symptoms and complications']",Endocrinologist
+goiter,"['Consult a healthcare provider for evaluation', 'Consider thyroid function tests and imaging studies', 'Engage in monitoring or treatment if necessary']",Endocrinologist
+gonorrhea,"['Consult a healthcare provider for evaluation', 'Consider antibiotic treatment', 'Engage in safe sex practices']",Infectious Disease Specialist
+gout,"['Consult a healthcare provider for management', 'Consider dietary modifications and medications', 'Engage in lifestyle modifications']",Rheumatologist
+granuloma inguinale,"['Consult a healthcare provider for evaluation', 'Consider antibiotic treatment', 'Monitor for resolution of symptoms']",Infectious Disease Specialist
+graves disease,"['Consult an endocrinologist for evaluation', 'Consider antithyroid medications or radioactive iodine', 'Engage in regular follow-up care']",Endocrinologist
+guillain barre syndrome,"['Seek immediate medical attention', 'Consider supportive care and monitoring', 'Engage in rehabilitation therapy']",Neurologist
+gum disease,"['Consult a dentist for evaluation', 'Consider dental cleanings and treatments', 'Engage in proper oral hygiene practices']",Dentist
+gynecomastia,"['Consult a healthcare provider for evaluation', 'Consider hormonal assessment and treatment if necessary', 'Monitor for changes']",Endocrinologist
+hammer toe,"['Consult a podiatrist for evaluation', 'Consider orthotic devices or padding', 'Engage in foot exercises and stretching']",Podiatrist
+hashimoto thyroiditis,"['Consult an endocrinologist for management', 'Consider thyroid hormone replacement therapy', 'Engage in regular follow-up care']",Endocrinologist
+head and neck cancer,"['Consult an oncologist for evaluation', 'Consider imaging studies for staging', 'Engage in treatment planning based on type and stage']",Oncologist
+head injury,"['Seek immediate medical attention for evaluation', 'Consider imaging studies to assess for bleeding or fractures', 'Monitor for neurological symptoms']",Neurologist
+headache after lumbar puncture,"['Consult a healthcare provider for evaluation', 'Consider rest, hydration, and caffeine for relief', 'Monitor for severe symptoms or complications']",Neurologist
+heart attack,"['Seek immediate medical attention', 'Consider cardiopulmonary resuscitation (CPR) if unresponsive', 'Engage in lifestyle modifications post-recovery']",Cardiologist
+heart block,"['Consult a cardiologist for evaluation', 'Consider monitoring and potential pacemaker placement', 'Engage in lifestyle modifications and follow-up care']",Cardiologist
+heart contusion,"['Consult a healthcare provider for evaluation', 'Consider imaging studies for assessment', 'Engage in rest and monitoring for complications']",Cardiologist
+heart failure,"['Consult a cardiologist for management', 'Consider medications and lifestyle modifications', 'Engage in regular follow-up care']",Cardiologist
+heat exhaustion,"['Move to a cooler environment and hydrate', 'Rest and monitor for symptoms', 'Seek medical attention if symptoms worsen']",Emergency Medicine Specialist
+heat stroke,"['Seek immediate medical attention', 'Consider cooling measures and hydration', 'Monitor for organ damage and complications']",Emergency Medicine Specialist
+hemangioma,"['Consult a dermatologist for evaluation', 'Consider monitoring or intervention if symptomatic', 'Engage in follow-up care']",Dermatologist
+hemarthrosis,"['Consult an orthopedic specialist for evaluation', 'Consider joint aspiration and imaging studies', 'Monitor for underlying causes']",Orthopedic Specialist
+hematoma,"['Consult a healthcare provider for evaluation', 'Consider monitoring and possible drainage', 'Engage in rest and supportive care']",General Practitioner
+hemiplegia,"['Consult a neurologist for evaluation', 'Consider rehabilitation and physical therapy', 'Engage in supportive care and monitoring']",Neurologist
+hemochromatosis,"['Consult a healthcare provider for evaluation', 'Consider phlebotomy and dietary modifications', 'Engage in regular follow-up care']",Hematologist
+hemolytic anemia,"['Consult a hematologist for evaluation', 'Consider identifying and treating the underlying cause', 'Engage in supportive care and monitoring']",Hematologist
+hemophilia,"['Consult a hematologist for management', 'Consider factor replacement therapy', 'Engage in genetic counseling']",Hematologist
+hemorrhoids,"['Consult a healthcare provider for evaluation', 'Consider dietary modifications and topical treatments', 'Engage in proper bowel habits and hygiene']",Proctologist
+hepatic encephalopathy,"['Consult a gastroenterologist for evaluation', 'Consider management of underlying liver disease', 'Engage in supportive care and monitoring']",Hepatologist
+hepatitis due to a toxin,"['Consult a healthcare provider for evaluation', 'Consider removal of the toxin and supportive care', 'Monitor liver function tests']",Hepatologist
+herniated disk,"['Consult an orthopedic specialist for evaluation', 'Consider physical therapy and pain management', 'Monitor for neurological symptoms']",Orthopedic Specialist
+herpangina,"['Consult a healthcare provider for evaluation', 'Consider supportive care and hydration', 'Monitor for complications']",Pediatrician
+hiatal hernia,"['Consult a gastroenterologist for evaluation', 'Consider dietary modifications and medications', 'Engage in monitoring and follow-up care']",Gastroenterologist
+hidradenitis suppurativa,"['Consult a dermatologist for evaluation', 'Consider antibiotics and anti-inflammatory treatments', 'Engage in lifestyle modifications']",Dermatologist
+high blood pressure,"['Consult a healthcare provider for management', 'Consider lifestyle modifications and medications', 'Engage in regular monitoring']",Cardiologist
+hirschsprung disease,"['Consult a pediatric gastroenterologist for evaluation', 'Consider surgical intervention if necessary', 'Engage in follow-up care']",Pediatric Surgeon
+hirsutism,"['Consult a healthcare provider for evaluation', 'Consider hormonal assessment and treatment options', 'Engage in supportive care']",Endocrinologist
+histoplasmosis,"['Consult a healthcare provider for evaluation', 'Consider antifungal treatment if symptomatic', 'Monitor for complications']",Infectious Disease Specialist
+hormone disorder,"['Consult an endocrinologist for evaluation', 'Consider hormonal assessments and treatment options', 'Engage in regular follow-up care']",Endocrinologist
+hpv,"['Consult a healthcare provider for evaluation', 'Consider vaccination and regular screenings', 'Engage in safe sex practices']",Gynecologist
+human immunodeficiency virus infection (hiv),"['Consult an infectious disease specialist for management', 'Consider antiretroviral therapy', 'Engage in regular follow-up care']",Infectious Disease Specialist
+huntington disease,"['Consult a neurologist for evaluation', 'Consider genetic counseling and support services', 'Engage in symptomatic management']",Neurologist
+hydatidiform mole,"['Consult an obstetrician for evaluation', 'Consider monitoring for complications', 'Engage in follow-up care']",Obstetrician
+hydrocele of the testicle,"['Consult a urologist for evaluation', 'Consider monitoring or surgical intervention if symptomatic', 'Engage in follow-up care']",Urologist
+hydrocephalus,"['Consult a neurologist for evaluation', 'Consider imaging studies and possible shunt placement', 'Engage in regular follow-up care']",Neurosurgeon
+hydronephrosis,"['Consult a urologist for evaluation', 'Consider imaging studies for assessment', 'Monitor for underlying causes and treatment']",Urologist
+hypercalcemia,"['Consult a healthcare provider for evaluation', 'Consider identifying and treating the underlying cause', 'Monitor calcium levels regularly']",Endocrinologist
+hypercholesterolemia,"['Consult a healthcare provider for management', 'Consider dietary modifications and statin therapy', 'Engage in regular monitoring']",Cardiologist
+hyperemesis gravidarum,"['Consult an obstetrician for management', 'Consider medications and hydration therapy', 'Engage in follow-up care']",Obstetrician
+hypergammaglobulinemia,"['Consult a healthcare provider for evaluation', 'Consider identifying and treating the underlying cause', 'Engage in regular monitoring']",Hematologist
+hyperhidrosis,"['Consult a dermatologist for evaluation', 'Consider topical treatments or Botox injections', 'Engage in lifestyle modifications']",Dermatologist
+hyperkalemia,"['Consult a healthcare provider for evaluation', 'Consider dietary modifications and possible medications', 'Monitor potassium levels regularly']",Nephrologist
+hyperlipidemia,"['Consult a healthcare provider for management', 'Consider dietary modifications and statin therapy', 'Engage in regular monitoring']",Cardiologist
+hypernatremia,"['Consult a healthcare provider for evaluation', 'Consider fluid management and dietary modifications', 'Monitor sodium levels regularly']",Nephrologist
+hyperopia,"['Consult an optometrist or ophthalmologist for evaluation', 'Consider corrective lenses or surgery if necessary', 'Engage in regular eye exams']",Ophthalmologist
+hyperosmotic hyperketotic state,"['Seek immediate medical attention', 'Consider hydration and insulin therapy', 'Monitor for complications']",Endocrinologist
+hypertension of pregnancy,"['Consult an obstetrician for management', 'Consider monitoring and lifestyle modifications', 'Engage in regular follow-up care']",Obstetrician
+hypertensive heart disease,"['Consult a cardiologist for evaluation', 'Consider blood pressure management and lifestyle changes', 'Engage in regular monitoring']",Cardiologist
+hypertrophic obstructive cardiomyopathy (hocm),"['Consult a cardiologist for evaluation', 'Consider monitoring and possible interventions', 'Engage in lifestyle modifications']",Cardiologist
+hypocalcemia,"['Consult a healthcare provider for evaluation', 'Consider calcium and vitamin D supplementation', 'Monitor serum calcium levels regularly']",Endocrinologist
+hypoglycemia,"['Consume fast-acting carbohydrates immediately', 'Consult a healthcare provider for evaluation', 'Consider long-term dietary adjustments']",Endocrinologist
+hypokalemia,"['Consult a healthcare provider for evaluation', 'Consider potassium supplementation and dietary changes', 'Monitor serum potassium levels regularly']",Nephrologist
+hyponatremia,"['Consult a healthcare provider for evaluation', 'Consider fluid management and dietary adjustments', 'Monitor serum sodium levels regularly']",Nephrologist
+hypothermia,"['Seek immediate medical attention', 'Consider gradual rewarming techniques', 'Monitor for complications']",Emergency Medicine Specialist
+hypothyroidism,"['Consult an endocrinologist for management', 'Consider thyroid hormone replacement therapy', 'Engage in regular follow-up care']",Endocrinologist
+hypovolemia,"['Consult a healthcare provider for evaluation', 'Consider fluid resuscitation and monitoring', 'Identify and treat the underlying cause']",Nephrologist
+idiopathic absence of menstruation,"['Consult a healthcare provider for evaluation', 'Consider hormonal assessments and management', 'Engage in follow-up care']",Gynecologist
+idiopathic excessive menstruation,"['Consult a healthcare provider for evaluation', 'Consider hormonal assessments and treatment options', 'Monitor for anemia and complications']",Gynecologist
+idiopathic infrequent menstruation,"['Consult a healthcare provider for evaluation', 'Consider hormonal assessments and management', 'Engage in follow-up care']",Gynecologist
+idiopathic irregular menstrual cycle,"['Consult a healthcare provider for evaluation', 'Consider hormonal assessments and lifestyle modifications', 'Engage in follow-up care']",Gynecologist
+idiopathic nonmenstrual bleeding,"['Consult a healthcare provider for evaluation', 'Consider identifying the cause and treatment options', 'Engage in follow-up care']",Gynecologist
+idiopathic painful menstruation,"['Consult a healthcare provider for evaluation', 'Consider pain management and hormonal treatments', 'Engage in follow-up care']",Gynecologist
+ileus,"['Consult a healthcare provider for evaluation', 'Consider bowel rest and monitoring', 'Engage in treatment of underlying causes']",Gastroenterologist
+impetigo,"['Consult a healthcare provider for evaluation', 'Consider topical or oral antibiotics', 'Engage in proper hygiene measures']",Dermatologist
+impulse control disorder,"['Consult a mental health professional for evaluation', 'Consider therapy and behavioral interventions', 'Engage in support groups if needed']",Psychiatrist
+indigestion,"['Consult a healthcare provider for evaluation', 'Consider dietary modifications and medications', 'Monitor for complications']",Gastroenterologist
+induced abortion,"['Consult a healthcare provider for evaluation', 'Consider counseling and follow-up care', 'Monitor for complications']",Obstetrician
+infection of open wound,"['Consult a healthcare provider for evaluation', 'Consider wound care and antibiotics', 'Engage in proper hygiene measures']",General Surgeon
+infectious gastroenteritis,"['Consult a healthcare provider for evaluation', 'Consider hydration and dietary modifications', 'Monitor for complications']",Infectious Disease Specialist
+ingrown toe nail,"['Consult a podiatrist for evaluation', 'Consider proper nail care and possible removal', 'Engage in monitoring for infections']",Podiatrist
+inguinal hernia,"['Consult a surgeon for evaluation', 'Consider surgical intervention if symptomatic', 'Engage in follow-up care']",General Surgeon
+injury of the ankle,"['Consult a healthcare provider for evaluation', 'Consider imaging studies and rehabilitation', 'Engage in rest and monitoring']",Orthopedic Specialist
+injury to internal organ,"['Seek immediate medical attention', 'Consider imaging studies and surgical intervention', 'Monitor for complications']",General Surgeon
+injury to the abdomen,"['Seek immediate medical attention', 'Consider imaging studies for assessment', 'Monitor for internal bleeding or damage']",General Surgeon
+injury to the arm,"['Consult a healthcare provider for evaluation', 'Consider imaging studies and rehabilitation', 'Engage in rest and monitoring']",Orthopedic Specialist
+injury to the face,"['Consult a healthcare provider for evaluation', 'Consider imaging studies and possible plastic surgery', 'Engage in monitoring for complications']",Oral and Maxillofacial Surgeon
+injury to the finger,"['Consult a healthcare provider for evaluation', 'Consider imaging studies and rehabilitation', 'Engage in rest and monitoring']",Orthopedic Specialist
+injury to the hand,"['Consult a healthcare provider for evaluation', 'Consider imaging studies and rehabilitation', 'Engage in rest and monitoring']",Orthopedic Specialist
+injury to the hip,"['Consult a healthcare provider for evaluation', 'Consider imaging studies and rehabilitation', 'Engage in rest and monitoring']",Orthopedic Specialist
+injury to the knee,"['Consult a healthcare provider for evaluation', 'Consider imaging studies and rehabilitation', 'Engage in rest and monitoring']",Orthopedic Specialist
+injury to the leg,"['Consult a healthcare provider for evaluation', 'Consider imaging studies and rehabilitation', 'Engage in rest and monitoring']",Orthopedic Specialist
+injury to the shoulder,"['Consult a healthcare provider for evaluation', 'Consider imaging studies and rehabilitation', 'Engage in rest and monitoring']",Orthopedic Specialist
+injury to the spinal cord,"['Seek immediate medical attention', 'Consider imaging studies and rehabilitation', 'Monitor for complications']",Neurosurgeon
+injury to the trunk,"['Consult a healthcare provider for evaluation', 'Consider imaging studies and monitoring', 'Engage in supportive care']",Orthopedic Specialist
+insect bite,"['Consult a healthcare provider for evaluation', 'Consider topical treatments and monitoring for reactions', 'Engage in proper hygiene measures']",Allergist
+insulin overdose,"['Seek immediate medical attention', 'Consider monitoring and glucose administration', 'Engage in follow-up care']",Endocrinologist
+interstitial lung disease,"['Consult a pulmonologist for evaluation', 'Consider imaging studies and pulmonary function tests', 'Engage in monitoring and treatment planning']",Pulmonologist
+intertrigo (skin condition),"['Consult a healthcare provider for evaluation', 'Consider topical treatments and hygiene measures', 'Engage in follow-up care']",Dermatologist
+intestinal cancer,"['Consult an oncologist for evaluation', 'Consider imaging studies and treatment planning', 'Engage in regular follow-up care']",Oncologist
+intestinal disease,"['Consult a gastroenterologist for evaluation', 'Consider dietary modifications and management', 'Engage in monitoring and follow-up care']",Gastroenterologist
+intestinal malabsorption,"['Consult a gastroenterologist for evaluation', 'Consider dietary adjustments and supplementation', 'Engage in monitoring and follow-up care']",Gastroenterologist
+intestinal obstruction,"['Consult a healthcare provider for evaluation', 'Seek immediate medical attention if symptomatic', 'Consider surgical intervention if necessary']",Gastroenterologist
+intracerebral hemorrhage,"['Seek immediate medical attention', 'Consider imaging studies and monitoring', 'Engage in supportive care']",Neurologist
+intracranial abscess,"['Seek immediate medical attention', 'Consider imaging studies and surgical intervention', 'Engage in monitoring and treatment planning']",Neurosurgeon
+intracranial hemorrhage,"['Seek immediate medical attention', 'Consider imaging studies and monitoring', 'Engage in supportive care']",Neurosurgeon
+intussusception,"['Seek immediate medical attention', 'Consider imaging studies and possible surgical intervention', 'Monitor for complications']",Pediatrician
+iridocyclitis,"['Consult an ophthalmologist for evaluation', 'Consider corticosteroid or immunosuppressive therapy', 'Engage in follow-up care']",Ophthalmologist
+iron deficiency anemia,"['Consult a healthcare provider for evaluation', 'Consider iron supplementation and dietary modifications', 'Engage in regular follow-up care']",Hematologist
+irritable bowel syndrome,"['Consult a gastroenterologist for evaluation', 'Consider dietary modifications and stress management', 'Engage in monitoring and follow-up care']",Gastroenterologist
+ischemia of the bowel,"['Consult a healthcare provider for evaluation', 'Consider imaging studies and monitoring', 'Engage in surgical intervention if necessary']",Gastroenterologist
+ischemic heart disease,"['Consult a cardiologist for evaluation', 'Consider lifestyle modifications and medications', 'Engage in regular follow-up care']",Cardiologist
+itching of unknown cause,"['Consult a healthcare provider for evaluation', 'Consider allergy testing and topical treatments', 'Monitor for underlying conditions']",Dermatologist
+jaw disorder,"['Consult a dentist or oral surgeon for evaluation', 'Consider imaging studies and management options', 'Engage in follow-up care']",Dentist
+joint effusion,"['Consult a healthcare provider for evaluation', 'Consider aspiration and analysis of joint fluid', 'Engage in treatment of underlying causes']",Orthopedic Specialist
+juvenile rheumatoid arthritis,"['Consult a pediatric rheumatologist for evaluation', 'Consider anti-inflammatory medications and therapy', 'Engage in regular follow-up care']",Pediatric Rheumatologist
+kaposi sarcoma,"['Consult an oncologist for evaluation', 'Consider antiretroviral therapy if associated with HIV', 'Engage in treatment planning and follow-up']",Oncologist
+kidney cancer,"['Consult an oncologist for evaluation', 'Consider imaging studies and treatment options', 'Engage in regular follow-up care']",Oncologist
+kidney disease due to longstanding hypertension,"['Consult a nephrologist for evaluation', 'Consider blood pressure management and lifestyle changes', 'Engage in regular monitoring']",Nephrologist
+kidney failure,"['Consult a nephrologist for evaluation', 'Consider dialysis or kidney transplant options', 'Engage in regular follow-up care']",Nephrologist
+kidney stone,"['Consult a healthcare provider for evaluation', 'Consider pain management and hydration', 'Engage in monitoring and possible surgical intervention']",Urologist
+knee ligament or meniscus tear,"['Consult an orthopedic surgeon for evaluation', 'Consider imaging studies and rehabilitation', 'Engage in monitoring and follow-up care']",Orthopedic Specialist
+labyrinthitis,"['Consult an otolaryngologist for evaluation', 'Consider medications for symptoms and inflammation', 'Engage in monitoring for recovery']",Otolaryngologist
+lactose intolerance,"['Consult a healthcare provider for evaluation', 'Consider dietary modifications and lactase supplements', 'Monitor for symptoms and adjust diet accordingly']",Gastroenterologist
+laryngitis,"['Consult a healthcare provider for evaluation', 'Consider voice rest and hydration', 'Engage in monitoring for complications']",Otolaryngologist
+lateral epicondylitis (tennis elbow),"['Consult a healthcare provider for evaluation', 'Consider physical therapy and pain management', 'Engage in monitoring and rehabilitation']",Orthopedic Specialist
+leukemia,"['Consult a hematologist for evaluation', 'Consider chemotherapy and supportive care', 'Engage in regular follow-up care']",Oncologist
+lewy body dementia,"['Consult a neurologist for evaluation', 'Consider medications for symptoms and support', 'Engage in monitoring and follow-up care']",Neurologist
+lice,"['Consult a healthcare provider for evaluation', 'Consider topical treatments and proper hygiene', 'Engage in follow-up care and monitoring']",Dermatologist
+lichen planus,"['Consult a dermatologist for evaluation', 'Consider topical or systemic treatments', 'Engage in monitoring for symptoms']",Dermatologist
+lichen simplex,"['Consult a dermatologist for evaluation', 'Consider topical treatments and avoiding irritants', 'Engage in monitoring for symptoms']",Dermatologist
+lipoma,"['Consult a healthcare provider for evaluation', 'Consider surgical removal if symptomatic or concerning', 'Engage in monitoring for changes']",Surgeon
+liver cancer,"['Consult an oncologist for evaluation', 'Consider imaging studies and treatment options', 'Engage in regular follow-up care']",Oncologist
+liver disease,"['Consult a hepatologist for evaluation', 'Consider lifestyle changes and monitoring', 'Engage in treatment of underlying causes']",Hepatologist
+lumbago,"['Consult a healthcare provider for evaluation', 'Consider physical therapy and pain management', 'Engage in regular follow-up care']",Orthopedic Specialist
+lung cancer,"['Consult an oncologist for evaluation', 'Consider imaging studies and treatment options', 'Engage in regular follow-up care']",Oncologist
+lung contusion,"['Consult a healthcare provider for evaluation', 'Consider imaging studies and monitoring', 'Engage in supportive care']",Pulmonologist
+lyme disease,"['Consult a healthcare provider for evaluation', 'Consider antibiotic treatment and monitoring', 'Engage in follow-up care']",Infectious Disease Specialist
+lymphadenitis,"['Consult a healthcare provider for evaluation', 'Consider imaging studies and possible biopsy', 'Engage in treatment of underlying causes']",Infectious Disease Specialist
+lymphangitis,"['Consult a healthcare provider for evaluation', 'Consider antibiotics and monitoring', 'Engage in follow-up care']",Infectious Disease Specialist
+lymphedema,"['Consult a healthcare provider for evaluation', 'Consider compression therapy and physical therapy', 'Engage in monitoring and lifestyle adjustments']",Vascular Specialist
+lymphogranuloma venereum,"['Consult a healthcare provider for evaluation', 'Consider antibiotic treatment and monitoring', 'Engage in follow-up care']",Infectious Disease Specialist
+lymphoma,"['Consult an oncologist for evaluation', 'Consider chemotherapy and supportive care', 'Engage in regular follow-up care']",Oncologist
+macular degeneration,"['Consult an ophthalmologist for evaluation', 'Consider vitamins and lifestyle modifications', 'Engage in monitoring and follow-up care']",Ophthalmologist
+magnesium deficiency,"['Consult a healthcare provider for evaluation', 'Consider dietary modifications and supplements', 'Monitor for symptoms and adjustments']",Endocrinologist
+malaria,"['Consult a healthcare provider for evaluation', 'Consider antimalarial treatment and monitoring', 'Engage in preventive measures if at risk']",Infectious Disease Specialist
+male genitalia infection,"['Consult a healthcare provider for evaluation', 'Consider antibiotic or antifungal treatment', 'Engage in monitoring for symptoms']",Urologist
+malignant hypertension,"['Consult a healthcare provider for immediate evaluation', 'Consider aggressive blood pressure management', 'Engage in monitoring and follow-up care']",Cardiologist
+marijuana abuse,"['Consult a mental health professional for evaluation', 'Consider counseling and support groups', 'Engage in monitoring and treatment planning']",Addiction Specialist
+mastectomy,"['Consult a healthcare provider for postoperative care', 'Consider rehabilitation and counseling', 'Engage in regular follow-up care']",Oncologist
+mastoiditis,"['Consult an otolaryngologist for evaluation', 'Consider antibiotics and possible surgical intervention', 'Engage in monitoring for recovery']",Otolaryngologist
+meckel diverticulum,"['Consult a healthcare provider for evaluation', 'Consider imaging studies and possible surgical intervention', 'Engage in follow-up care']",Gastroenterologist
+melanoma,"['Consult a dermatologist or oncologist for evaluation', 'Consider surgical excision and possible adjunctive therapy', 'Engage in regular follow-up care']",Oncologist
+meniere disease,"['Consult an otolaryngologist for evaluation', 'Consider medications for symptoms and dietary changes', 'Engage in monitoring for recurrence']",Otolaryngologist
+meningioma,"['Consult a neurosurgeon for evaluation', 'Consider imaging studies and possible surgical intervention', 'Engage in regular follow-up care']",Neurosurgeon
+meningitis,"['Seek immediate medical attention', 'Consider lumbar puncture for diagnosis', 'Engage in treatment based on causative agent']",Infectious Disease Specialist
+menopause,"['Consult a healthcare provider for evaluation', 'Consider hormone replacement therapy and lifestyle modifications', 'Engage in monitoring for symptoms']",Gynecologist
+metabolic disorder,"['Consult a healthcare provider for evaluation', 'Consider dietary modifications and treatment of underlying conditions', 'Engage in regular follow-up care']",Endocrinologist
+metastatic cancer,"['Consult an oncologist for evaluation', 'Consider treatment options based on primary cancer type', 'Engage in regular follow-up care']",Oncologist
+migraine,"['Consult a healthcare provider for evaluation', 'Consider lifestyle modifications and preventive medications', 'Engage in monitoring for triggers and symptoms']",Neurologist
+missed abortion,"['Consult a healthcare provider for evaluation', 'Consider emotional support and counseling', 'Engage in follow-up care for physical recovery']",Obstetrician
+mitral valve disease,"['Consult a cardiologist for evaluation', 'Consider echocardiogram and treatment options', 'Engage in regular follow-up care']",Cardiologist
+mittelschmerz,"['Consult a healthcare provider for evaluation', 'Consider pain management and monitoring', 'Engage in tracking menstrual cycles']",Gynecologist
+molluscum contagiosum,"['Consult a dermatologist for evaluation', 'Consider topical treatments and monitoring', 'Engage in hygiene practices to prevent spread']",Dermatologist
+mononeuritis,"['Consult a healthcare provider for evaluation', 'Consider imaging studies and possible treatment', 'Engage in follow-up care']",Neurologist
+mononucleosis,"['Consult a healthcare provider for evaluation', 'Consider rest and supportive care', 'Engage in monitoring for complications']",Infectious Disease Specialist
+moyamoya disease,"['Consult a neurologist for evaluation', 'Consider imaging studies and treatment options', 'Engage in regular follow-up care']",Neurologist
+mucositis,"['Consult a healthcare provider for evaluation', 'Consider supportive care and pain management', 'Engage in monitoring for recovery']",Oncologist
+multiple myeloma,"['Consult a hematologist for evaluation', 'Consider chemotherapy and supportive care', 'Engage in regular follow-up care']",Oncologist
+multiple sclerosis,"['Consult a neurologist for evaluation', 'Consider disease-modifying therapies and support', 'Engage in monitoring for symptoms and progression']",Neurologist
+mumps,"['Consult a healthcare provider for evaluation', 'Consider supportive care and monitoring', 'Engage in vaccination and preventive measures']",Infectious Disease Specialist
+muscle spasm,"['Consult a healthcare provider for evaluation', 'Consider stretching and hydration', 'Engage in monitoring for underlying causes']",Orthopedic Specialist
+muscular dystrophy,"['Consult a neurologist for evaluation', 'Consider physical therapy and supportive care', 'Engage in regular follow-up care']",Neurologist
+myasthenia gravis,"['Consult a neurologist for evaluation', 'Consider medications and lifestyle adjustments', 'Engage in monitoring for symptoms']",Neurologist
+myelodysplastic syndrome,"['Consult a hematologist for evaluation', 'Consider treatment options based on severity', 'Engage in regular follow-up care']",Hematologist
+myocarditis,"['Consult a cardiologist for evaluation', 'Consider imaging studies and management', 'Engage in follow-up care for recovery']",Cardiologist
+myoclonus,"['Consult a neurologist for evaluation', 'Consider treatment options based on underlying cause', 'Engage in monitoring for symptoms']",Neurologist
+myopia,"['Consult an ophthalmologist for evaluation', 'Consider corrective lenses or surgery', 'Engage in regular eye examinations']",Ophthalmologist
+myositis,"['Consult a healthcare provider for evaluation', 'Consider medications and physical therapy', 'Engage in regular follow-up care']",Neurologist
+narcolepsy,"['Consult a sleep specialist for evaluation', 'Consider lifestyle modifications and medications', 'Engage in monitoring for symptoms']",Neurologist
+nasal polyp,"['Consult an otolaryngologist for evaluation', 'Consider medical treatment or surgical options', 'Engage in monitoring for recurrence']",Otolaryngologist
+necrotizing fasciitis,"['Seek immediate medical attention', 'Consider surgical intervention and antibiotics', 'Engage in intensive monitoring and follow-up care']",Infectious Disease Specialist
+neonatal jaundice,"['Consult a pediatrician for evaluation', 'Consider phototherapy and monitoring', 'Engage in follow-up care']",Pediatrician
+nerve impingement near the shoulder,"['Consult an orthopedic specialist for evaluation', 'Consider physical therapy and pain management', 'Engage in monitoring for improvement']",Orthopedic Specialist
+neuralgia,"['Consult a healthcare provider for evaluation', 'Consider pain management options and therapies', 'Engage in follow-up care']",Neurologist
+neurofibromatosis,"['Consult a geneticist or neurologist for evaluation', 'Consider monitoring and management of symptoms', 'Engage in regular follow-up care']",Neurologist
+neuropathy due to drugs,"['Consult a healthcare provider for evaluation', 'Consider medication review and adjustments', 'Engage in monitoring for symptoms']",Neurologist
+neurosis,"['Consult a mental health professional for evaluation', 'Consider therapy and coping strategies', 'Engage in follow-up care']",Psychiatrist
+nonalcoholic liver disease (nash),"['Consult a hepatologist for evaluation', 'Consider lifestyle modifications and monitoring', 'Engage in regular follow-up care']",Hepatologist
+noninfectious gastroenteritis,"['Consult a healthcare provider for evaluation', 'Consider dietary modifications and hydration', 'Engage in monitoring for recovery']",Gastroenterologist
+normal pressure hydrocephalus,"['Consult a neurologist for evaluation', 'Consider imaging studies and management options', 'Engage in regular follow-up care']",Neurosurgeon
+nose disorder,"['Consult an otolaryngologist for evaluation', 'Consider imaging studies and treatment options', 'Engage in monitoring for symptoms']",Otolaryngologist
+obesity,"['Consult a healthcare provider for evaluation', 'Consider lifestyle modifications and possible medications', 'Engage in regular follow-up care']",Endocrinologist
+obsessive compulsive disorder (ocd),"['Consult a mental health professional for evaluation', 'Consider cognitive-behavioral therapy and medications', 'Engage in follow-up care']",Psychiatrist
+obstructive sleep apnea (osa),"['Consult a sleep specialist for evaluation', 'Consider sleep studies and treatment options', 'Engage in regular follow-up care']",Pulmonologist
+omphalitis,"['Consult a healthcare provider for evaluation', 'Consider antibiotics and monitoring', 'Engage in follow-up care']",Pediatrician
+onychomycosis,"['Consult a dermatologist for evaluation', 'Consider antifungal treatments and monitoring', 'Engage in hygiene practices to prevent recurrence']",Dermatologist
+open wound due to trauma,"['Consult a healthcare provider for evaluation', 'Consider cleaning and possible suturing', 'Engage in monitoring for infection']",General Surgeon
+open wound from surgical incision,"['Consult a healthcare provider for evaluation', 'Consider wound care and monitoring for complications', 'Engage in follow-up care']",General Surgeon
+open wound of the abdomen,"['Seek immediate medical attention', 'Consider surgical intervention and monitoring', 'Engage in follow-up care']",General Surgeon
+open wound of the arm,"['Consult a healthcare provider for evaluation', 'Consider cleaning and possible suturing', 'Engage in monitoring for infection']",Orthopedic Specialist
+open wound of the back,"['Consult a healthcare provider for evaluation', 'Consider cleaning and wound care', 'Engage in monitoring for infection']",General Surgeon
+open wound of the cheek,"['Consult a healthcare provider for evaluation', 'Consider cleaning and possible suturing', 'Engage in monitoring for infection']",Oral and Maxillofacial Surgeon
+open wound of the chest,"['Seek immediate medical attention', 'Consider surgical intervention and monitoring', 'Engage in follow-up care']",Thoracic Surgeon
+open wound of the ear,"['Consult a healthcare provider for evaluation', 'Consider cleaning and monitoring for infection', 'Engage in follow-up care']",Otolaryngologist
+open wound of the eye,"['Seek immediate medical attention', 'Consider ophthalmic evaluation and treatment', 'Engage in monitoring for complications']",Ophthalmologist
+open wound of the face,"['Consult a healthcare provider for evaluation', 'Consider cleaning and possible suturing', 'Engage in monitoring for infection']",Oral and Maxillofacial Surgeon
+open wound of the finger,"['Consult a healthcare provider for evaluation', 'Consider cleaning and possible suturing', 'Engage in monitoring for infection']",Orthopedic Specialist
+open wound of the foot,"['Consult a healthcare provider for evaluation', 'Consider cleaning and possible suturing', 'Engage in monitoring for infection']",Podiatrist
+open wound of the hand,"['Consult a healthcare provider for evaluation', 'Consider cleaning and possible suturing', 'Engage in monitoring for infection']",Orthopedic Specialist
+open wound of the head,"['Seek immediate medical attention', 'Consider imaging studies and wound care', 'Engage in monitoring for complications']",General Surgeon
+open wound of the jaw,"['Consult a healthcare provider for evaluation', 'Consider cleaning and possible suturing', 'Engage in monitoring for infection']",Oral and Maxillofacial Surgeon
+open wound of the knee,"['Consult a healthcare provider for evaluation', 'Consider cleaning and possible suturing', 'Engage in monitoring for infection']",Orthopedic Specialist
+open wound of the lip,"['Consult a healthcare provider for evaluation', 'Consider cleaning and possible suturing', 'Engage in monitoring for infection']",Oral and Maxillofacial Surgeon
+open wound of the mouth,"['Consult a healthcare provider for evaluation', 'Consider cleaning and monitoring for infection', 'Engage in follow-up care']",Oral and Maxillofacial Surgeon
+open wound of the neck,"['Seek immediate medical attention', 'Consider imaging studies and wound care', 'Engage in monitoring for complications']",General Surgeon
+open wound of the nose,"['Consult a healthcare provider for evaluation', 'Consider cleaning and monitoring for infection', 'Engage in follow-up care']",Otolaryngologist
+open wound of the shoulder,"['Consult a healthcare provider for evaluation', 'Consider cleaning and possible suturing', 'Engage in monitoring for infection']",Orthopedic Specialist
+oppositional disorder,"['Consult a mental health professional for evaluation', 'Consider behavioral therapy and family support', 'Engage in follow-up care']",Psychiatrist
+optic neuritis,"['Consult an ophthalmologist for evaluation', 'Consider imaging studies and treatment options', 'Engage in regular follow-up care']",Ophthalmologist
+oral leukoplakia,"['Consult a healthcare provider for evaluation', 'Consider biopsy and monitoring', 'Engage in follow-up care']",Dentist
+oral mucosal lesion,"['Consult a dentist or oral specialist for evaluation', 'Consider biopsy and treatment options', 'Engage in regular monitoring']",Dentist
+oral thrush (yeast infection),"['Consult a healthcare provider for evaluation', 'Consider antifungal treatments', 'Engage in monitoring for recurrence']",Dentist
+orbital cellulitis,"['Seek immediate medical attention', 'Consider antibiotics and possible surgery', 'Engage in monitoring for complications']",Ophthalmologist
+orthostatic hypotension,"['Consult a healthcare provider for evaluation', 'Consider lifestyle modifications and treatment options', 'Engage in monitoring for symptoms']",Cardiologist
+osteoarthritis,"['Consult a healthcare provider for evaluation', 'Consider physical therapy and pain management', 'Engage in regular follow-up care']",Rheumatologist
+osteochondroma,"['Consult an orthopedic surgeon for evaluation', 'Consider monitoring and surgical options if necessary', 'Engage in follow-up care']",Orthopedic Specialist
+osteochondrosis,"['Consult a healthcare provider for evaluation', 'Consider physical therapy and monitoring', 'Engage in follow-up care']",Orthopedic Specialist
+osteomyelitis,"['Consult a healthcare provider for evaluation', 'Consider antibiotics and possible surgery', 'Engage in monitoring for recovery']",Infectious Disease Specialist
+osteoporosis,"['Consult a healthcare provider for evaluation', 'Consider lifestyle modifications and medications', 'Engage in regular follow-up care']",Endocrinologist
+otitis externa (swimmer's ear),"['Consult a healthcare provider for evaluation', 'Consider antibiotic ear drops and pain management', 'Engage in follow-up care']",Otolaryngologist
+otitis media,"['Consult a healthcare provider for evaluation', 'Consider antibiotics and monitoring', 'Engage in follow-up care']",Otolaryngologist
+otosclerosis,"['Consult an otolaryngologist for evaluation', 'Consider hearing aids or surgical options', 'Engage in monitoring for hearing loss']",Otolaryngologist
+ovarian cancer,"['Consult a gynecologic oncologist for evaluation', 'Consider imaging studies and treatment options', 'Engage in regular follow-up care']",Oncologist
+ovarian cyst,"['Consult a healthcare provider for evaluation', 'Consider monitoring and possible treatment', 'Engage in follow-up care']",Gynecologist
+ovarian torsion,"['Seek immediate medical attention', 'Consider surgical intervention', 'Engage in monitoring for complications']",Gynecologist
+overflow incontinence,"['Consult a healthcare provider for evaluation', 'Consider lifestyle modifications and treatments', 'Engage in follow-up care']",Urologist
+pain after an operation,"['Consult a healthcare provider for evaluation', 'Consider pain management options', 'Engage in monitoring for recovery']",Pain Specialist
+pain disorder affecting the neck,"['Consult a healthcare provider for evaluation', 'Consider physical therapy and pain management', 'Engage in follow-up care']",Orthopedic Specialist
+pancreatic cancer,"['Consult a gastroenterologist or oncologist for evaluation', 'Consider imaging studies and treatment options', 'Engage in regular follow-up care']",Oncologist
+panic attack,"['Consult a mental health professional for evaluation', 'Consider therapy and coping strategies', 'Engage in follow-up care']",Psychiatrist
+panic disorder,"['Consult a mental health professional for evaluation', 'Consider therapy and medications', 'Engage in regular follow-up care']",Psychiatrist
+parasitic disease,"['Consult a healthcare provider for evaluation', 'Consider antiparasitic medications and monitoring', 'Engage in preventive measures']",Infectious Disease Specialist
+parathyroid adenoma,"['Consult an endocrinologist for evaluation', 'Consider monitoring and possible surgery', 'Engage in follow-up care']",Endocrinologist
+parkinson disease,"['Consult a neurologist for evaluation', 'Consider medications and supportive care', 'Engage in regular follow-up care']",Neurologist
+paronychia,"['Consult a healthcare provider for evaluation', 'Consider warm soaks and antibiotics', 'Engage in monitoring for infection']",Dermatologist
+paroxysmal supraventricular tachycardia,"['Consult a cardiologist for evaluation', 'Consider monitoring and treatment options', 'Engage in follow-up care']",Cardiologist
+paroxysmal ventricular tachycardia,"['Consult a cardiologist for evaluation', 'Consider monitoring and treatment options', 'Engage in follow-up care']",Cardiologist
+pelvic fistula,"['Consult a gynecologist or urologist for evaluation', 'Consider surgical intervention and monitoring', 'Engage in follow-up care']",Gynecologist
+pelvic inflammatory disease,"['Consult a healthcare provider for evaluation', 'Consider antibiotics and monitoring', 'Engage in follow-up care']",Gynecologist
+pelvic organ prolapse,"['Consult a gynecologist for evaluation', 'Consider pelvic floor exercises and monitoring', 'Engage in follow-up care']",Gynecologist
+pemphigus,"['Consult a dermatologist for evaluation', 'Consider immunosuppressive therapies and monitoring', 'Engage in regular follow-up care']",Dermatologist
+pericarditis,"['Consult a cardiologist for evaluation', 'Consider anti-inflammatory medications and monitoring', 'Engage in follow-up care']",Cardiologist
+peripheral arterial disease,"['Consult a healthcare provider for evaluation', 'Consider lifestyle modifications and monitoring', 'Engage in regular follow-up care']",Vascular Specialist
+peripheral arterial embolism,"['Seek immediate medical attention', 'Consider imaging studies and possible surgery', 'Engage in monitoring for recovery']",Vascular Surgeon
+peripheral nerve disorder,"['Consult a neurologist for evaluation', 'Consider physical therapy and monitoring', 'Engage in follow-up care']",Neurologist
+perirectal infection,"['Consult a healthcare provider for evaluation', 'Consider antibiotics and possible surgical intervention', 'Engage in monitoring for recovery']",Colorectal Surgeon
+peritonitis,"['Seek immediate medical attention', 'Consider surgical intervention and antibiotics', 'Engage in monitoring for recovery']",Gastroenterologist
+peritonsillar abscess,"['Seek immediate medical attention', 'Consider drainage and antibiotics', 'Engage in monitoring for recovery']",Otolaryngologist
+persistent vomiting of unknown cause,"['Consult a healthcare provider for evaluation', 'Consider imaging studies and laboratory tests', 'Engage in follow-up care']",Gastroenterologist
+personality disorder,"['Consult a mental health professional for evaluation', 'Consider therapy and support groups', 'Engage in follow-up care']",Psychiatrist
+peyronie disease,"['Consult a urologist for evaluation', 'Consider treatment options including medication or surgery', 'Engage in follow-up care']",Urologist
+pharyngitis,"['Consult a healthcare provider for evaluation', 'Consider pain management and monitoring', 'Engage in follow-up care if symptoms persist']",Otolaryngologist
+phimosis,"['Consult a healthcare provider for evaluation', 'Consider topical treatments or circumcision', 'Engage in monitoring for complications']",Urologist
+pilonidal cyst,"['Consult a healthcare provider for evaluation', 'Consider drainage and possible surgery', 'Engage in follow-up care']",General Surgeon
+pinguecula,"['Consult an ophthalmologist for evaluation', 'Consider lubricating eye drops and monitoring', 'Engage in regular eye check-ups']",Ophthalmologist
+pinworm infection,"['Consult a healthcare provider for evaluation', 'Consider antiparasitic medications', 'Engage in hygiene measures to prevent recurrence']",Infectious Disease Specialist
+pituitary adenoma,"['Consult an endocrinologist for evaluation', 'Consider imaging studies and treatment options', 'Engage in regular follow-up care']",Endocrinologist
+pituitary disorder,"['Consult an endocrinologist for evaluation', 'Consider hormone replacement therapy and monitoring', 'Engage in regular follow-up care']",Endocrinologist
+pityriasis rosea,"['Consult a healthcare provider for evaluation', 'Consider topical treatments and monitoring', 'Engage in follow-up care if symptoms worsen']",Dermatologist
+placenta previa,"['Consult a healthcare provider for evaluation', 'Consider monitoring and potential hospitalization', 'Engage in planning for delivery']",Obstetrician
+placental abruption,"['Seek immediate medical attention', 'Consider monitoring and potential delivery', 'Engage in follow-up care']",Obstetrician
+plantar fasciitis,"['Consult a healthcare provider for evaluation', 'Consider physical therapy and pain management', 'Engage in regular follow-up care']",Podiatrist
+pleural effusion,"['Consult a healthcare provider for evaluation', 'Consider imaging studies and possible drainage', 'Engage in monitoring for recurrence']",Pulmonologist
+pneumoconiosis,"['Consult a healthcare provider for evaluation', 'Consider monitoring and treatment for symptoms', 'Engage in preventive measures']",Pulmonologist
+pneumonia,"['Consult a healthcare provider for evaluation', 'Consider antibiotics and supportive care', 'Engage in follow-up care']",Pulmonologist
+pneumothorax,"['Seek immediate medical attention', 'Consider imaging studies and possible chest tube placement', 'Engage in monitoring for recovery']",Pulmonologist
+poisoning due to analgesics,"['Seek immediate medical attention', 'Consider supportive care and possible antidotes', 'Engage in follow-up care']",Toxicologist
+poisoning due to anticonvulsants,"['Seek immediate medical attention', 'Consider supportive care and possible antidotes', 'Engage in follow-up care']",Toxicologist
+poisoning due to antidepressants,"['Seek immediate medical attention', 'Consider supportive care and possible antidotes', 'Engage in follow-up care']",Toxicologist
+poisoning due to antihypertensives,"['Seek immediate medical attention', 'Consider supportive care and possible antidotes', 'Engage in follow-up care']",Toxicologist
+poisoning due to antimicrobial drugs,"['Seek immediate medical attention', 'Consider supportive care and possible antidotes', 'Engage in follow-up care']",Toxicologist
+poisoning due to antipsychotics,"['Seek immediate medical attention', 'Consider supportive care and possible antidotes', 'Engage in follow-up care']",Toxicologist
+poisoning due to ethylene glycol,"['Seek immediate medical attention', 'Consider supportive care and possible antidotes', 'Engage in follow-up care']",Toxicologist
+poisoning due to gas,"['Seek immediate medical attention', 'Consider supportive care and oxygen therapy', 'Engage in follow-up care']",Toxicologist
+poisoning due to opioids,"['Seek immediate medical attention', 'Consider naloxone administration and supportive care', 'Engage in follow-up care']",Toxicologist
+poisoning due to sedatives,"['Seek immediate medical attention', 'Consider supportive care and possible antidotes', 'Engage in follow-up care']",Toxicologist
+polycystic kidney disease,"['Consult a nephrologist for evaluation', 'Consider monitoring and possible treatment options', 'Engage in regular follow-up care']",Nephrologist
+polycystic ovarian syndrome (pcos),"['Consult a healthcare provider for evaluation', 'Consider lifestyle modifications and treatments', 'Engage in follow-up care']",Gynecologist
+polycythemia vera,"['Consult a hematologist for evaluation', 'Consider phlebotomy and monitoring', 'Engage in regular follow-up care']",Hematologist
+polymyalgia rheumatica,"['Consult a rheumatologist for evaluation', 'Consider corticosteroids and monitoring', 'Engage in follow-up care']",Rheumatologist
+post-traumatic stress disorder (ptsd),"['Consult a mental health professional for evaluation', 'Consider therapy and support groups', 'Engage in regular follow-up care']",Psychiatrist
+postoperative infection,"['Consult a healthcare provider for evaluation', 'Consider antibiotics and wound care', 'Engage in follow-up care']",Infectious Disease Specialist
+postpartum depression,"['Consult a mental health professional for evaluation', 'Consider therapy and support groups', 'Engage in follow-up care']",Psychiatrist
+preeclampsia,"['Seek immediate medical attention', 'Consider monitoring and possible delivery', 'Engage in follow-up care']",Obstetrician
+pregnancy,"['Consult an obstetrician for prenatal care', 'Consider monitoring for complications', 'Engage in regular follow-up care']",Obstetrician
+premature atrial contractions (pacs),"['Consult a healthcare provider for evaluation', 'Consider monitoring and possible lifestyle changes', 'Engage in follow-up care']",Cardiologist
+premature ovarian failure,"['Consult a healthcare provider for evaluation', 'Consider hormone replacement therapy and monitoring', 'Engage in regular follow-up care']",Gynecologist
+premature rupture of amniotic membrane,"['Seek immediate medical attention', 'Consider monitoring and potential delivery', 'Engage in follow-up care']",Obstetrician
+premature ventricular contractions (pvcs),"['Consult a healthcare provider for evaluation', 'Consider monitoring and possible lifestyle changes', 'Engage in follow-up care']",Cardiologist
+premenstrual tension syndrome,"['Consult a healthcare provider for evaluation', 'Consider lifestyle modifications and medications', 'Engage in follow-up care']",Gynecologist
+presbyacusis,"['Consult an audiologist for evaluation', 'Consider hearing aids and monitoring', 'Engage in regular follow-up care']",Otolaryngologist
+presbyopia,"['Consult an eye care provider for evaluation', 'Consider corrective lenses and monitoring', 'Engage in regular eye check-ups']",Ophthalmologist
+priapism,"['Seek immediate medical attention', 'Consider treatment options including medications or surgery', 'Engage in monitoring for complications']",Urologist
+primary immunodeficiency,"['Consult an immunologist for evaluation', 'Consider monitoring and possible treatment options', 'Engage in regular follow-up care']",Immunologist
+primary insomnia,"['Consult a healthcare provider for evaluation', 'Consider cognitive behavioral therapy and sleep hygiene', 'Engage in follow-up care']",Psychiatrist
+primary kidney disease,"['Consult a nephrologist for evaluation', 'Consider monitoring and treatment options', 'Engage in regular follow-up care']",Nephrologist
+primary thrombocythemia,"['Consult a hematologist for evaluation', 'Consider monitoring and treatment options', 'Engage in regular follow-up care']",Hematologist
+problem during pregnancy,"['Consult an obstetrician for evaluation', 'Consider monitoring and treatment options based on the issue', 'Engage in regular follow-up care']",Obstetrician
+prostate cancer,"['Consult a urologist for evaluation', 'Consider imaging studies and treatment options', 'Engage in regular follow-up care']",Oncologist
+prostatitis,"['Consult a healthcare provider for evaluation', 'Consider antibiotics and pain management', 'Engage in follow-up care']",Urologist
+protein deficiency,"['Consult a healthcare provider for evaluation', 'Consider dietary changes and supplementation', 'Engage in regular follow-up care']",Nutritionist
+pseudohypoparathyroidism,"['Consult an endocrinologist for evaluation', 'Consider hormone replacement therapy and monitoring', 'Engage in regular follow-up care']",Endocrinologist
+pseudotumor cerebri,"['Consult a healthcare provider for evaluation', 'Consider medications and monitoring', 'Engage in follow-up care']",Neurologist
+psoriasis,"['Consult a dermatologist for evaluation', 'Consider topical treatments and lifestyle changes', 'Engage in regular follow-up care']",Dermatologist
+psychosexual disorder,"['Consult a mental health professional for evaluation', 'Consider therapy and support groups', 'Engage in follow-up care']",Psychiatrist
+psychotic disorder,"['Consult a mental health professional for evaluation', 'Consider medication and therapy', 'Engage in regular follow-up care']",Psychiatrist
+pterygium,"['Consult an ophthalmologist for evaluation', 'Consider surgical removal if necessary', 'Engage in regular eye check-ups']",Ophthalmologist
+pulmonary congestion,"['Consult a healthcare provider for evaluation', 'Consider medications and lifestyle modifications', 'Engage in follow-up care']",Pulmonologist
+pulmonary embolism,"['Seek immediate medical attention', 'Consider anticoagulant therapy and monitoring', 'Engage in follow-up care']",Pulmonologist
+pulmonary eosinophilia,"['Consult a healthcare provider for evaluation', 'Consider treatment based on the underlying cause', 'Engage in follow-up care']",Pulmonologist
+pulmonary fibrosis,"['Consult a healthcare provider for evaluation', 'Consider medications and oxygen therapy', 'Engage in regular follow-up care']",Pulmonologist
+pulmonary hypertension,"['Consult a healthcare provider for evaluation', 'Consider medications and lifestyle modifications', 'Engage in regular follow-up care']",Cardiologist
+pulmonic valve disease,"['Consult a cardiologist for evaluation', 'Consider monitoring and treatment options', 'Engage in regular follow-up care']",Cardiologist
+pyelonephritis,"['Consult a healthcare provider for evaluation', 'Consider antibiotics and hydration', 'Engage in follow-up care']",Nephrologist
+pyloric stenosis,"['Consult a healthcare provider for evaluation', 'Consider surgical intervention if necessary', 'Engage in follow-up care']",Pediatric Surgeon
+pyogenic skin infection,"['Consult a healthcare provider for evaluation', 'Consider antibiotics and wound care', 'Engage in follow-up care']",Dermatologist
+raynaud disease,"['Consult a healthcare provider for evaluation', 'Consider lifestyle modifications and medications', 'Engage in follow-up care']",Rheumatologist
+reactive arthritis,"['Consult a rheumatologist for evaluation', 'Consider NSAIDs and monitoring', 'Engage in follow-up care']",Rheumatologist
+rectal disorder,"['Consult a healthcare provider for evaluation', 'Consider dietary modifications and monitoring', 'Engage in follow-up care']",Colorectal Surgeon
+restless leg syndrome,"['Consult a healthcare provider for evaluation', 'Consider lifestyle changes and medications', 'Engage in follow-up care']",Neurologist
+retinal detachment,"['Seek immediate medical attention', 'Consider surgical intervention if necessary', 'Engage in follow-up care']",Ophthalmologist
+retinopathy due to high blood pressure,"['Consult an ophthalmologist for evaluation', 'Consider managing blood pressure and monitoring', 'Engage in regular eye check-ups']",Ophthalmologist
+rhabdomyolysis,"['Seek immediate medical attention', 'Consider hydration and monitoring', 'Engage in follow-up care']",Nephrologist
+rheumatic fever,"['Consult a healthcare provider for evaluation', 'Consider antibiotics and monitoring for complications', 'Engage in follow-up care']",Cardiologist
+rheumatoid arthritis,"['Consult a rheumatologist for evaluation', 'Consider medications and physical therapy', 'Engage in regular follow-up care']",Rheumatologist
+rocky mountain spotted fever,"['Consult a healthcare provider for evaluation', 'Consider antibiotics and monitoring', 'Engage in follow-up care']",Infectious Disease Specialist
+rosacea,"['Consult a dermatologist for evaluation', 'Consider topical treatments and lifestyle changes', 'Engage in follow-up care']",Dermatologist
+rotator cuff injury,"['Consult a healthcare provider for evaluation', 'Consider physical therapy and pain management', 'Engage in follow-up care']",Orthopedic Specialist
+salivary gland disorder,"['Consult a healthcare provider for evaluation', 'Consider imaging studies and treatment options', 'Engage in follow-up care']",Otolaryngologist
+sarcoidosis,"['Consult a healthcare provider for evaluation', 'Consider monitoring and treatment based on symptoms', 'Engage in regular follow-up care']",Pulmonologist
+scabies,"['Consult a healthcare provider for evaluation', 'Consider topical treatments and hygiene measures', 'Engage in follow-up care']",Dermatologist
+scar,"['Consult a healthcare provider for evaluation', 'Consider treatments for scar management', 'Engage in monitoring for changes']",Dermatologist
+scarlet fever,"['Consult a healthcare provider for evaluation', 'Consider antibiotics and monitoring', 'Engage in follow-up care']",Infectious Disease Specialist
+schizophrenia,"['Consult a mental health professional for evaluation', 'Consider medication and therapy', 'Engage in regular follow-up care']",Psychiatrist
+sciatica,"['Consult a healthcare provider for evaluation', 'Consider physical therapy and pain management', 'Engage in follow-up care']",Orthopedic Specialist
+scleritis,"['Consult an ophthalmologist for evaluation', 'Consider medications and monitoring', 'Engage in follow-up care']",Ophthalmologist
+scleroderma,"['Consult a rheumatologist for evaluation', 'Consider medications and monitoring', 'Engage in regular follow-up care']",Rheumatologist
+scoliosis,"['Consult a healthcare provider for evaluation', 'Consider monitoring and treatment options', 'Engage in regular follow-up care']",Orthopedic Specialist
+scurvy,"['Consult a healthcare provider for evaluation', 'Consider vitamin C supplementation and dietary changes', 'Engage in follow-up care']",Nutritionist
+seasonal allergies (hay fever),"['Consult a healthcare provider for evaluation', 'Consider antihistamines and monitoring', 'Engage in follow-up care']",Allergist
+sebaceous cyst,"['Consult a healthcare provider for evaluation', 'Consider monitoring and possible surgical removal', 'Engage in follow-up care']",Dermatologist
+seborrheic dermatitis,"['Consult a dermatologist for evaluation', 'Consider topical treatments and lifestyle changes', 'Engage in follow-up care']",Dermatologist
+seborrheic keratosis,"['Consult a dermatologist for evaluation', 'Consider monitoring and possible removal', 'Engage in follow-up care']",Dermatologist
+sensorineural hearing loss,"['Consult an audiologist for evaluation', 'Consider hearing aids and monitoring', 'Engage in regular follow-up care']",Audiologist
+sepsis,"['Seek immediate medical attention', 'Consider antibiotics and supportive care', 'Engage in follow-up care']",Infectious Disease Specialist
+septic arthritis,"['Consult a healthcare provider for evaluation', 'Consider antibiotics and possible joint drainage', 'Engage in follow-up care']",Rheumatologist
+shingles (herpes zoster),"['Consult a healthcare provider for evaluation', 'Consider antiviral medications and pain management', 'Engage in follow-up care']",Dermatologist
+sialoadenitis,"['Consult a healthcare provider for evaluation', 'Consider hydration and possible antibiotics', 'Engage in follow-up care']",Otolaryngologist
+sick sinus syndrome,"['Consult a cardiologist for evaluation', 'Consider monitoring and possible pacemaker placement', 'Engage in regular follow-up care']",Cardiologist
+sickle cell anemia,"['Consult a healthcare provider for evaluation', 'Consider pain management and blood transfusions', 'Engage in regular follow-up care']",Hematologist
+sickle cell crisis,"['Seek immediate medical attention', 'Consider pain management and hydration', 'Engage in follow-up care']",Hematologist
+sinus bradycardia,"['Consult a cardiologist for evaluation', 'Consider monitoring and treatment if symptomatic', 'Engage in follow-up care']",Cardiologist
+sjogren syndrome,"['Consult a rheumatologist for evaluation', 'Consider symptom management and monitoring', 'Engage in regular follow-up care']",Rheumatologist
+skin cancer,"['Consult a dermatologist for evaluation', 'Consider surgical removal and treatment options', 'Engage in regular skin checks']",Dermatologist
+skin disorder,"['Consult a healthcare provider for evaluation', 'Consider topical treatments and lifestyle changes', 'Engage in follow-up care']",Dermatologist
+skin pigmentation disorder,"['Consult a dermatologist for evaluation', 'Consider topical treatments and monitoring', 'Engage in follow-up care']",Dermatologist
+skin polyp,"['Consult a healthcare provider for evaluation', 'Consider monitoring and possible removal', 'Engage in follow-up care']",Dermatologist
+smoking or tobacco addiction,"['Consult a healthcare provider for evaluation', 'Consider smoking cessation programs and support', 'Engage in follow-up care']",Pulmonologist
+social phobia,"['Consult a mental health professional for evaluation', 'Consider therapy and support groups', 'Engage in follow-up care']",Psychiatrist
+soft tissue sarcoma,"['Consult an oncologist for evaluation', 'Consider surgical removal and treatment options', 'Engage in regular follow-up care']",Oncologist
+somatization disorder,"['Consult a mental health professional for evaluation', 'Consider therapy and symptom management', 'Engage in follow-up care']",Psychiatrist
+spermatocele,"['Consult a healthcare provider for evaluation', 'Consider monitoring and possible removal if symptomatic', 'Engage in follow-up care']",Urologist
+spherocytosis,"['Consult a healthcare provider for evaluation', 'Consider monitoring and possible splenectomy', 'Engage in follow-up care']",Hematologist
+spina bifida,"['Consult a healthcare provider for evaluation', 'Consider multidisciplinary care and possible surgery', 'Engage in regular follow-up care']",Neurosurgeon
+spinal stenosis,"['Consult a healthcare provider for evaluation', 'Consider physical therapy and pain management', 'Engage in follow-up care']",Orthopedic Specialist
+spinocerebellar ataxia,"['Consult a healthcare provider for evaluation', 'Consider symptom management and monitoring', 'Engage in regular follow-up care']",Neurologist
+spondylitis,"['Consult a rheumatologist for evaluation', 'Consider medications and physical therapy', 'Engage in regular follow-up care']",Rheumatologist
+spondylolisthesis,"['Consult a healthcare provider for evaluation', 'Consider monitoring and possible surgical intervention', 'Engage in follow-up care']",Orthopedic Specialist
+spondylosis,"['Consult a healthcare provider for evaluation', 'Consider physical therapy and pain management', 'Engage in follow-up care']",Orthopedic Specialist
+spontaneous abortion,"['Consult a healthcare provider for evaluation', 'Consider emotional support and monitoring', 'Engage in follow-up care']",Gynecologist
+sporotrichosis,"['Consult a healthcare provider for evaluation', 'Consider antifungal treatment and monitoring', 'Engage in follow-up care']",Infectious Disease Specialist
+sprain or strain,"['Consult a healthcare provider for evaluation', 'Consider rest, ice, compression, and elevation (RICE)', 'Engage in follow-up care']",Orthopedic Specialist
+stenosis of the tear duct,"['Consult an ophthalmologist for evaluation', 'Consider monitoring and possible surgical intervention', 'Engage in follow-up care']",Ophthalmologist
+stomach cancer,"['Consult an oncologist for evaluation', 'Consider surgical removal and treatment options', 'Engage in regular follow-up care']",Oncologist
+strep throat,"['Consult a healthcare provider for evaluation', 'Consider antibiotics and symptom management', 'Engage in follow-up care']",Otolaryngologist
+stress incontinence,"['Consult a healthcare provider for evaluation', 'Consider pelvic floor exercises and treatments', 'Engage in follow-up care']",Urologist
+stricture of the esophagus,"['Consult a healthcare provider for evaluation', 'Consider dilation and monitoring', 'Engage in follow-up care']",Gastroenterologist
+stroke,"['Seek immediate medical attention', 'Consider emergency treatment and rehabilitation', 'Engage in follow-up care']",Neurologist
+stye,"['Consult a healthcare provider for evaluation', 'Consider warm compresses and possible drainage', 'Engage in follow-up care']",Ophthalmologist
+subacute thyroiditis,"['Consult an endocrinologist for evaluation', 'Consider monitoring and symptomatic treatment', 'Engage in follow-up care']",Endocrinologist
+subarachnoid hemorrhage,"['Seek immediate medical attention', 'Consider emergency treatment and monitoring', 'Engage in follow-up care']",Neurosurgeon
+subconjunctival hemorrhage,"['Consult a healthcare provider for evaluation', 'Consider monitoring and reassurance', 'Engage in follow-up care']",Ophthalmologist
+subdural hemorrhage,"['Seek immediate medical attention', 'Consider emergency treatment and monitoring', 'Engage in follow-up care']",Neurosurgeon
+substance-related mental disorder,"['Consult a mental health professional for evaluation', 'Consider therapy and support groups', 'Engage in follow-up care']",Psychiatrist
+syndrome of inappropriate secretion of adh (siadh),"['Consult an endocrinologist for evaluation', 'Consider fluid restriction and monitoring', 'Engage in follow-up care']",Endocrinologist
+syphilis,"['Consult a healthcare provider for evaluation', 'Consider antibiotic treatment and partner notification', 'Engage in follow-up care']",Infectious Disease Specialist
+syringomyelia,"['Consult a healthcare provider for evaluation', 'Consider monitoring and possible surgical intervention', 'Engage in follow-up care']",Neurologist
+systemic lupus erythematosus (sle),"['Consult a rheumatologist for evaluation', 'Consider medications and monitoring', 'Engage in regular follow-up care']",Rheumatologist
+teething syndrome,"['Consult a pediatrician for evaluation', 'Consider pain management and soothing measures', 'Engage in follow-up care']",Pediatrician
+temporary or benign blood in urine,"['Consult a healthcare provider for evaluation', 'Consider monitoring and possible testing', 'Engage in follow-up care']",Urologist
+temporomandibular joint disorder,"['Consult a healthcare provider for evaluation', 'Consider physical therapy and pain management', 'Engage in follow-up care']",Dentist
+tendinitis,"['Consult a healthcare provider for evaluation', 'Consider rest, ice, and physical therapy', 'Engage in follow-up care']",Orthopedic Specialist
+tension headache,"['Consult a healthcare provider for evaluation', 'Consider lifestyle modifications and pain management', 'Engage in follow-up care']",Neurologist
+testicular cancer,"['Consult an oncologist for evaluation', 'Consider surgical removal and treatment options', 'Engage in regular follow-up care']",Oncologist
+testicular disorder,"['Consult a healthcare provider for evaluation', 'Consider monitoring and treatment options', 'Engage in follow-up care']",Urologist
+testicular torsion,"['Seek immediate medical attention', 'Consider emergency surgery to restore blood flow', 'Engage in follow-up care']",Urologist
+thalassemia,"['Consult a healthcare provider for evaluation', 'Consider monitoring and possible blood transfusions', 'Engage in regular follow-up care']",Hematologist
+thoracic aortic aneurysm,"['Consult a healthcare provider for evaluation', 'Consider monitoring and possible surgical intervention', 'Engage in follow-up care']",Cardiothoracic Surgeon
+thoracic outlet syndrome,"['Consult a healthcare provider for evaluation', 'Consider physical therapy and lifestyle modifications', 'Engage in follow-up care']",Orthopedic Specialist
+threatened pregnancy,"['Consult an obstetrician for evaluation', 'Consider bed rest and monitoring', 'Engage in follow-up care']",Obstetrician
+thrombocytopenia,"['Consult a healthcare provider for evaluation', 'Consider monitoring and possible treatments', 'Engage in follow-up care']",Hematologist
+thrombophlebitis,"['Consult a healthcare provider for evaluation', 'Consider warm compresses and monitoring', 'Engage in follow-up care']",Vascular Surgeon
+thyroid cancer,"['Consult an oncologist for evaluation', 'Consider surgical removal and treatment options', 'Engage in regular follow-up care']",Oncologist
+thyroid disease,"['Consult an endocrinologist for evaluation', 'Consider medication management and monitoring', 'Engage in follow-up care']",Endocrinologist
+thyroid nodule,"['Consult a healthcare provider for evaluation', 'Consider monitoring and possible biopsy', 'Engage in follow-up care']",Endocrinologist
+tic (movement) disorder,"['Consult a healthcare provider for evaluation', 'Consider behavioral therapy and monitoring', 'Engage in follow-up care']",Neurologist
+tietze syndrome,"['Consult a healthcare provider for evaluation', 'Consider pain management and physical therapy', 'Engage in follow-up care']",Rheumatologist
+tinnitus of unknown cause,"['Consult an audiologist for evaluation', 'Consider sound therapy and coping strategies', 'Engage in follow-up care']",Otolaryngologist
+tonsillar hypertrophy,"['Consult an ear, nose, and throat (ENT) specialist for evaluation', 'Consider monitoring and possible surgical intervention', 'Engage in follow-up care']",Otolaryngologist
+tonsillitis,"['Consult a healthcare provider for evaluation', 'Consider antibiotics and symptom management', 'Engage in follow-up care']",Otolaryngologist
+tooth abscess,"['Consult a dentist for evaluation', 'Consider drainage and antibiotic treatment', 'Engage in follow-up care']",Dentist
+tooth disorder,"['Consult a dentist for evaluation', 'Consider monitoring and treatment options', 'Engage in follow-up care']",Dentist
+torticollis,"['Consult a healthcare provider for evaluation', 'Consider physical therapy and stretching exercises', 'Engage in follow-up care']",Neurologist
+tourette syndrome,"['Consult a healthcare provider for evaluation', 'Consider behavioral therapy and monitoring', 'Engage in follow-up care']",Psychiatrist
+toxic multinodular goiter,"['Consult an endocrinologist for evaluation', 'Consider radioactive iodine treatment and monitoring', 'Engage in follow-up care']",Endocrinologist
+toxoplasmosis,"['Consult a healthcare provider for evaluation', 'Consider medication treatment and monitoring', 'Engage in follow-up care']",Infectious Disease Specialist
+tracheitis,"['Consult a healthcare provider for evaluation', 'Consider antibiotics and symptom management', 'Engage in follow-up care']",Pulmonologist
+transient ischemic attack,"['Seek immediate medical attention', 'Consider evaluation and preventive measures', 'Engage in follow-up care']",Neurologist
+trichiasis,"['Consult an ophthalmologist for evaluation', 'Consider eyelash removal or surgery', 'Engage in follow-up care']",Ophthalmologist
+trichinosis,"['Consult a healthcare provider for evaluation', 'Consider antiparasitic medication and monitoring', 'Engage in follow-up care']",Infectious Disease Specialist
+trichomonas infection,"['Consult a healthcare provider for evaluation', 'Consider antibiotic treatment and partner notification', 'Engage in follow-up care']",Infectious Disease Specialist
+tricuspid valve disease,"['Consult a cardiologist for evaluation', 'Consider monitoring and possible surgical intervention', 'Engage in follow-up care']",Cardiologist
+trigeminal neuralgia,"['Consult a healthcare provider for evaluation', 'Consider medication management and monitoring', 'Engage in follow-up care']",Neurologist
+trigger finger (finger disorder),"['Consult a healthcare provider for evaluation', 'Consider splinting and possible surgical intervention', 'Engage in follow-up care']",Orthopedic Specialist
+tuberculosis,"['Consult a healthcare provider for evaluation', 'Consider antibiotic treatment and monitoring', 'Engage in follow-up care']",Infectious Disease Specialist
+tuberous sclerosis,"['Consult a healthcare provider for evaluation', 'Consider monitoring and multidisciplinary care', 'Engage in follow-up care']",Geneticist
+turner syndrome,"['Consult a healthcare provider for evaluation', 'Consider hormonal therapy and monitoring', 'Engage in regular follow-up care']",Geneticist
+typhoid fever,"['Consult a healthcare provider for evaluation', 'Consider antibiotic treatment and hydration', 'Engage in follow-up care']",Infectious Disease Specialist
+ulcerative colitis,"['Consult a gastroenterologist for evaluation', 'Consider medication management and monitoring', 'Engage in follow-up care']",Gastroenterologist
+urethral disorder,"['Consult a healthcare provider for evaluation', 'Consider monitoring and possible treatments', 'Engage in follow-up care']",Urologist
+urethral stricture,"['Consult a urologist for evaluation', 'Consider dilation or surgical intervention', 'Engage in follow-up care']",Urologist
+urethral valves,"['Consult a urologist for evaluation', 'Consider monitoring and possible surgical intervention', 'Engage in follow-up care']",Urologist
+urethritis,"['Consult a healthcare provider for evaluation', 'Consider antibiotic treatment and symptom management', 'Engage in follow-up care']",Urologist
+urge incontinence,"['Consult a healthcare provider for evaluation', 'Consider pelvic floor exercises and monitoring', 'Engage in follow-up care']",Urologist
+urinary tract infection,"['Consult a healthcare provider for evaluation', 'Consider antibiotic treatment and hydration', 'Engage in follow-up care']",Urologist
+urinary tract obstruction,"['Consult a healthcare provider for evaluation', 'Consider imaging and possible intervention', 'Engage in follow-up care']",Urologist
+uterine atony,"['Consult a healthcare provider for evaluation', 'Consider medications and possible surgical intervention', 'Engage in follow-up care']",Obstetrician
+uterine cancer,"['Consult an oncologist for evaluation', 'Consider surgical removal and treatment options', 'Engage in regular follow-up care']",Gynecologist
+uterine fibroids,"['Consult a healthcare provider for evaluation', 'Consider monitoring and possible surgical intervention', 'Engage in follow-up care']",Gynecologist
+uveitis,"['Consult an ophthalmologist for evaluation', 'Consider corticosteroid treatment and monitoring', 'Engage in follow-up care']",Ophthalmologist
+vacterl syndrome,"['Consult a healthcare provider for evaluation', 'Consider multidisciplinary care and monitoring', 'Engage in follow-up care']",Geneticist
+vaginal cyst,"['Consult a healthcare provider for evaluation', 'Consider monitoring and possible drainage', 'Engage in follow-up care']",Gynecologist
+vaginal yeast infection,"['Consult a healthcare provider for evaluation', 'Consider antifungal treatment and monitoring', 'Engage in follow-up care']",Gynecologist
+vaginismus,"['Consult a healthcare provider for evaluation', 'Consider therapy and relaxation techniques', 'Engage in follow-up care']",Gynecologist
+vaginitis,"['Consult a healthcare provider for evaluation', 'Consider medication treatment and monitoring', 'Engage in follow-up care']",Gynecologist
+valley fever,"['Consult a healthcare provider for evaluation', 'Consider antifungal treatment and monitoring', 'Engage in follow-up care']",Infectious Disease Specialist
+varicocele of the testicles,"['Consult a urologist for evaluation', 'Consider monitoring and possible surgical intervention', 'Engage in follow-up care']",Urologist
+varicose veins,"['Consult a healthcare provider for evaluation', 'Consider compression stockings and lifestyle changes', 'Engage in follow-up care']",Vascular Surgeon
+vasculitis,"['Consult a rheumatologist for evaluation', 'Consider immunosuppressive therapy and monitoring', 'Engage in regular follow-up care']",Rheumatologist
+venous insufficiency,"['Consult a healthcare provider for evaluation', 'Consider compression therapy and lifestyle changes', 'Engage in follow-up care']",Vascular Surgeon
+vertebrobasilar insufficiency,"['Consult a healthcare provider for evaluation', 'Consider imaging studies and monitoring', 'Engage in follow-up care']",Neurologist
+vesicoureteral reflux,"['Consult a urologist for evaluation', 'Consider monitoring and possible surgical intervention', 'Engage in follow-up care']",Urologist
+viral exanthem,"['Consult a healthcare provider for evaluation', 'Consider monitoring and supportive care', 'Engage in follow-up care']",Infectious Disease Specialist
+viral hepatitis,"['Consult a healthcare provider for evaluation', 'Consider antiviral treatment and monitoring', 'Engage in follow-up care']",Infectious Disease Specialist
+viral warts,"['Consult a healthcare provider for evaluation', 'Consider topical treatments or removal options', 'Engage in follow-up care']",Dermatologist
+vitamin a deficiency,"['Consult a healthcare provider for evaluation', 'Consider dietary changes and supplementation', 'Engage in follow-up care']",Nutritionist
+vitamin b12 deficiency,"['Consult a healthcare provider for evaluation', 'Consider dietary changes and supplementation', 'Engage in follow-up care']",Nutritionist
+vitamin d deficiency,"['Consult a healthcare provider for evaluation', 'Consider dietary changes and supplementation', 'Engage in follow-up care']",Nutritionist
+vitreous degeneration,"['Consult an ophthalmologist for evaluation', 'Consider monitoring and treatment options', 'Engage in follow-up care']",Ophthalmologist
+vitreous hemorrhage,"['Consult an ophthalmologist for evaluation', 'Consider monitoring and possible surgical intervention', 'Engage in follow-up care']",Ophthalmologist
+vocal cord polyp,"['Consult an ear, nose, and throat (ENT) specialist for evaluation', 'Consider monitoring and possible surgical intervention', 'Engage in follow-up care']",Otolaryngologist
+volvulus,"['Seek immediate medical attention', 'Consider surgical intervention', 'Engage in follow-up care']",Gastroenterologist
+von willebrand disease,"['Consult a hematologist for evaluation', 'Consider treatment options and monitoring', 'Engage in follow-up care']",Hematologist
+vulvar cancer,"['Consult an oncologist for evaluation', 'Consider surgical removal and treatment options', 'Engage in regular follow-up care']",Gynecologist
+vulvar disorder,"['Consult a healthcare provider for evaluation', 'Consider monitoring and possible treatments', 'Engage in follow-up care']",Gynecologist
+vulvodynia,"['Consult a healthcare provider for evaluation', 'Consider pain management and therapy options', 'Engage in follow-up care']",Gynecologist
+wernicke korsakoff syndrome,"['Consult a healthcare provider for evaluation', 'Consider vitamin supplementation and therapy', 'Engage in follow-up care']",Neurologist
+white blood cell disease,"['Consult a healthcare provider for evaluation', 'Consider monitoring and possible treatments', 'Engage in follow-up care']",Hematologist
+whooping cough,"['Consult a healthcare provider for evaluation', 'Consider antibiotics and monitoring', 'Engage in follow-up care']",Infectious Disease Specialist
+wilson disease,"['Consult a healthcare provider for evaluation', 'Consider medication management and monitoring', 'Engage in follow-up care']",Hepatologist
+yeast infection,"['Consult a healthcare provider for evaluation', 'Consider antifungal treatment and monitoring', 'Engage in follow-up care']",Infectious Disease Specialist
+zenker diverticulum,"['Consult a healthcare provider for evaluation', 'Consider monitoring and possible surgical intervention', 'Engage in follow-up care']",Gastroenterologist
